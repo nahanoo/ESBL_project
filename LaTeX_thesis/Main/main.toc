@@ -9,72 +9,92 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Cause and urgency of antibiotic resistance}{4}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}An overview of antibiotic resistant pathogens in Swiss hospitals}{5}{subsection.2.1.1}% 
+\contentsline {section}{\numberline {2.2}Antibiotics and mechanisms of resistance}{6}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Extended-spectrum -lactamases (ESBL) E. Coli}{6}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Development and mechanism of action of \textbeta -lactams}{6}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Longitudinally collected ESBL E. coli isolates from patients from the University hospital Basel}{7}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.2.2}Resistance mechanisms against \textbeta -lactams}{7}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Building a morbidostat}{8}{section.2.4}% 
+\contentsline {subsubsection}{\textbeta -lactamases}{7}{subsubsection*.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}Drugs of interest and bacteria of choice for the experiments}{8}{subsection.2.4.1}% 
+\contentsline {subsubsection}{Extended spectrum \textbeta -lactamases (ESBLs)}{7}{subsubsection*.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Choice of ESBL bacteria for the morbidostat experiments}{8}{subsubsection*.2}% 
+\contentsline {subsection}{\numberline {2.2.3}General resistance mechanisms}{8}{subsection.2.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Materials and methods}{10}{chapter.3}% 
+\contentsline {section}{\numberline {2.3}An overview of antibiotic resistant pathogens in Switzerland}{8}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Analyzing longitudinally collected isolates from patients of the University hospital Basel}{10}{section.3.1}% 
+\contentsline {section}{\numberline {2.4}ESBL E. coli}{10}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Sample collection and selecting patients of interest}{10}{subsection.3.1.1}% 
+\contentsline {section}{\numberline {2.5}Studying differences in the genome between extended cephalosporine susceptible and resistant E. coli}{11}{section.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Sequencing and assembling of the reference genome}{10}{subsection.3.1.2}% 
+\contentsline {subsubsection}{Illumina and Nanopore sequning}{12}{subsubsection*.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Nanopore sequencing}{10}{subsubsection*.3}% 
+\contentsline {subsection}{\numberline {2.5.1}Principles and experiences with the morbidostat}{12}{subsection.2.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Illumina sequencing}{10}{subsubsection*.4}% 
+\contentsline {subsubsection}{Previous morbidostat experiments and expected outcome}{13}{subsubsection*.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Assembling of the reference gemoe}{10}{subsubsection*.5}% 
+\contentsline {chapter}{\numberline {3}Materials and methods}{14}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Identifying SNPs}{11}{subsection.3.1.3}% 
+\contentsline {section}{\numberline {3.1}Analyzing ESBL E. coli solates from patients of the University hospital Basel}{14}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Annotating the genomes}{11}{subsubsection*.6}% 
+\contentsline {subsubsection}{Illumina sequencing}{14}{subsubsection*.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Assembling and handling procedure of the morbidostat}{11}{section.3.2}% 
+\contentsline {subsubsection}{Nanopore sequencing}{14}{subsubsection*.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Hardware and setup}{12}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Phylogenetic analysis}{14}{subsection.3.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{OD measurements}{12}{subsubsection*.7}% 
+\contentsline {subsubsection}{Short read assembly and genome annotation}{15}{subsubsection*.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Vials and tubing}{13}{subsubsection*.8}% 
+\contentsline {subsection}{\numberline {3.1.2}Identification of SNPs}{15}{subsection.3.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Pumps}{13}{subsubsection*.9}% 
+\contentsline {subsubsection}{Creating a reference genome}{15}{subsubsection*.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}control}{15}{subsection.3.2.2}% 
+\contentsline {subsubsection}{Mapping of short reads}{16}{subsubsection*.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Feedback}{16}{subsubsection*.10}% 
+\contentsline {subsubsection}{Creating pile ups}{16}{subsubsection*.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Experimental procedure}{16}{subsection.3.2.3}% 
+\contentsline {subsubsection}{Identification of SNPs}{16}{subsubsection*.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{OD and pump calibration}{16}{subsubsection*.11}% 
+\contentsline {subsubsection}{Identification of genes and promotors affected by SNPs}{17}{subsubsection*.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{MIC determination}{17}{subsubsection*.12}% 
+\contentsline {section}{\numberline {3.2}Assembling and handling procedure of the morbidostat}{17}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sterilization of the morbidostat}{17}{subsubsection*.13}% 
+\contentsline {subsection}{\numberline {3.2.1}Hardware and setup}{17}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Testing the continuous culture mode from the morbidostat}{17}{subsubsection*.14}% 
+\contentsline {subsubsection}{OD measurements}{18}{subsubsection*.14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Plasmid construction}{18}{section.3.3}% 
+\contentsline {subsubsection}{Vials and tubing}{19}{subsubsection*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Results}{19}{chapter.4}% 
+\contentsline {subsubsection}{Pumps}{19}{subsubsection*.16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Analyzing longitudinally collected isolates from patients of the University hospital Basel}{19}{section.4.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Controlling of the morbidostat}{20}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Sample selection based on a pan genome analysis}{19}{subsection.4.1.1}% 
+\contentsline {subsubsection}{Feedback}{22}{subsubsection*.17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Discussion}{21}{chapter.5}% 
+\contentsline {subsection}{\numberline {3.2.3}Experimental procedure}{23}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Declaration}{22}{chapter.6}% 
+\contentsline {subsubsection}{OD and pump calibration}{23}{subsubsection*.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}References}{23}{chapter.7}% 
+\contentsline {subsubsection}{MIC determination}{23}{subsubsection*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Acknowledgements}{26}{chapter.8}% 
+\contentsline {subsubsection}{Sterilization of the morbidostat}{24}{subsubsection*.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Testing the continuous culture mode from the morbidostat}{24}{subsubsection*.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Plasmid construction}{25}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Primer design}{25}{subsubsection*.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Results}{26}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Analyzing longitudinally collected isolates from patients of the University hospital Basel}{26}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Sample selection based on a pan genome analysis}{26}{subsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Discussion}{28}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Declaration}{29}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}References}{30}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Acknowledgements}{36}{chapter.8}% 

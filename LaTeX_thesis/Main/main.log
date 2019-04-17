@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  5 APR 2019 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  17 APR 2019 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -28,6 +28,8 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
+   defining Unicode char U+2009 (decimal 8201)
+
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/11/13 3.27 The Babel package
 
@@ -645,6 +647,198 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (/usr/local/texlive/2018/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
@@ -872,27 +1066,37 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 54.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 55.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 55.
 
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -959,7 +1163,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 54.
+Package hyperref Info: Link coloring OFF on input line 55.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -969,26 +1173,25 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count306
 )
-LaTeX Info: Redefining \ref on input line 54.
-LaTeX Info: Redefining \pageref on input line 54.
-LaTeX Info: Redefining \nameref on input line 54.
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Info: Redefining \celsius on input line 54.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 54.
-
-
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 54.
-Package gensymb Info: Using \Omega for \ohm on input line 54.
-
-Package gensymb Warning: Not defining \micro.
-
+\symgns@font=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/lmr/m/n --> TS1/lmr/bx/n on input line 55.
+Package gensymb Info: Math companion symbols declared on input line 55.
+LaTeX Info: Redefining \degree on input line 55.
+LaTeX Info: Redefining \celsius on input line 55.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 55.
+LaTeX Info: Redefining \ohm on input line 55.
+Package gensymb Info: Using \textohm for \ohm on input line 55.
+Package gensymb Info: Using \textmu for \micro on input line 55.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -996,24 +1199,79 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl)
-Package biblatex Info: Reference section=0 on input line 54.
-Package biblatex Info: Reference segment=0 on input line 54.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 58.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 58.
- [1
+ (./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                noauthor_fig._nodate
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                piezo_pumps
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                swiss_hospital
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ventola_antibiotic_2015e
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 55.
+Package biblatex Info: Reference segment=0 on input line 55.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 59.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 59.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 59.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 59.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 59.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
 .toc
-LaTeX Font Info:    External font `cmex10' loaded for size
+LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
+LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
+LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 10.
-)
+LaTeX Font Info:    Try loading font information for LGR+lmr on input line 14.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
+File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
+))
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1027,189 +1285,186 @@ Chapter 1.
 Chapter 2.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/intro
-duction.tex
+duction.tex [4
+
+] [5] [6] [7]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/pathogens_overview.png, id=154, 1901.1025pt x 919.435pt>
+s/pathogens_overview.png, id=269, 1901.1025pt x 919.435pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
 Images/pathogens_overview.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
 mages/pathogens_overview.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/pathogens_overview.png  used on input line 18.
+hesis/Introduction/Images/pathogens_overview.png  used on input line 73.
 (pdftex.def)             Requested size: 380.21376pt x 183.88374pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--22
-
+ [8]
+Overfull \hbox (63.55705pt too wide) in paragraph at lines 88--89
+\OT1/lmr/m/n/12 blood and pul-monary in-fec-tion caus-ing around 7000 deaths pe
+r year [[]].
  []
 
-
-Underfull \vbox (badness 4254) has occurred while \output is active []
-
- [4
-
-]
-[5 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Im
+[9 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Im
 ages/pathogens_overview.png>]
-Overfull \hbox (14.72034pt too wide) in paragraph at lines 36--36
-|[]\OT1/cmr/bx/n/17.28 Extended-spectrum -lactamases (ESBL) E. Coli| 
+Underfull \vbox (badness 2913) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-
- []
-
-
-Overfull \hbox (17.83049pt too wide) in paragraph at lines 58--58
-\OT1/cmr/bx/n/17.28 from pa-tients from the Uni-ver-sity hos-pi-tal Basel| 
- []
-
-[7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 76.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+[12]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/vial_diagram.png, id=197, 1571.8725pt x 841.1425pt>
+s/vial_diagram.png, id=346, 1571.8725pt x 841.1425pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
 Images/vial_diagram.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
 mages/vial_diagram.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/vial_diagram.png  used on input line 83.
+hesis/Introduction/Images/vial_diagram.png  used on input line 130.
 (pdftex.def)             Requested size: 157.19646pt x 84.11917pt.
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/growth_diagram.png, id=198, 1861.95625pt x 1154.3125pt>
+s/growth_diagram.png, id=347, 1861.95625pt x 1154.3125pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
 Images/growth_diagram.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
 mages/growth_diagram.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/growth_diagram.png  used on input line 84.
+hesis/Introduction/Images/growth_diagram.png  used on input line 131.
 (pdftex.def)             Requested size: 130.35025pt x 80.81012pt.
- [8]) [9 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduct
-ion/Images/vial_diagram.png> </home/ericulrich/Documents/Master/Masterarbeit/La
-TeX_thesis/Introduction/Images/growth_diagram.png>]
+) [13 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction
+/Images/vial_diagram.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX
+_thesis/Introduction/Images/growth_diagram.png>]
 Chapter 3.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
 s/materialsandmethods.tex
-Overfull \hbox (12.26439pt too wide) in paragraph at lines 1--1
-|[]\OT1/cmr/bx/n/17.28 Analyzing lon-gi-tu-di-nally col-lected iso-lates from
+Overfull \hbox (13.81015pt too wide) in paragraph at lines 10--11
+\OT1/lmr/m/n/12 Isolates from pa-tients of in-ter-est were se-quenced with a Mi
+n-ION from Ox-ford Nanopore.
  []
 
-[10
+[14
 
 ]
-Overfull \hbox (12.4444pt too wide) in paragraph at lines 32--32
-|[]\OT1/cmr/bx/n/17.28 Assembling and han-dling pro-ce-dure of the mor-
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/pipeline.png, id=376, 2233.34375pt x 600.2425pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pipeline.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pipeline.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/pipeline.png  used on input line 26.
+(pdftex.def)             Requested size: 446.66084pt x 120.04637pt.
+
+Overfull \hbox (19.8695pt too wide) in paragraph at lines 26--27
+[][] 
+ []
+
+[15 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pipeline.png>] [16]
+Overfull \hbox (12.44572pt too wide) in paragraph at lines 56--56
+|[]\OT1/lmr/bx/n/17.28 Assembling and han-dling pro-ce-dure of the mor-
  []
 
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/setup_annotated_inksacpe.png, id=245, 540.5796pt x 360.3864pt>
+s/Images/setup_annotated_inksacpe.png, id=415, 540.5796pt x 360.3864pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/setup_annotated_inksacpe.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/setup_annotated_inksacpe.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
 hesis/Materialsandmethods/Images/setup_annotated_inksacpe.png  used on input li
-ne 38.
+ne 62.
 (pdftex.def)             Requested size: 378.40314pt x 252.26875pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-[12 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+[17 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/setup_annotated_inksacpe.png>]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/OD_setup.png, id=265, 2028.57875pt x 749.80125pt>
+s/Images/OD_setup.png, id=430, 2028.57875pt x 749.80125pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/OD_setup.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/OD_setup.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/OD_setup.png  used on input line 50.
+hesis/Materialsandmethods/Images/OD_setup.png  used on input line 78.
 (pdftex.def)             Requested size: 304.27368pt x 112.46533pt.
+ [18]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/vial.JPG, id=267, 1129.88983pt x 753.25989pt>
+s/Images/vial.JPG, id=440, 1129.88983pt x 753.25989pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/vial.JPG Graphic file (type jpg)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/vial.JPG>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/vial.JPG  used on input line 60.
+hesis/Materialsandmethods/Images/vial.JPG  used on input line 88.
 (pdftex.def)             Requested size: 1129.88707pt x 753.25806pt.
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/pump_blocks.JPG, id=268, 1129.88983pt x 753.25989pt>
+s/Images/pump_blocks.JPG, id=441, 1129.88983pt x 753.25989pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/pump_blocks.JPG Graphic file (type jpg)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/pump_blocks.JPG>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/pump_blocks.JPG  used on input line 61.
+hesis/Materialsandmethods/Images/pump_blocks.JPG  used on input line 89.
 (pdftex.def)             Requested size: 255.35213pt x 170.23476pt.
+ [19 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/OD_setup.png> </home/ericulrich/Documents/Master/Masterarbeit/LaT
+eX_thesis/Materialsandmethods/Images/vial.JPG> </home/ericulrich/Documents/Mast
+er/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/pump_blocks.JPG>]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/piezo.png, id=270, 1194.4625pt x 908.39375pt>
+s/Images/piezo.png, id=454, 1194.4625pt x 908.39375pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/piezo.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/piezo.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/piezo.png  used on input line 76.
+hesis/Materialsandmethods/Images/piezo.png  used on input line 105.
 (pdftex.def)             Requested size: 119.45325pt x 90.8447pt.
- [13 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/OD_setup.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/vial.JPG> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/pump_blocks.JPG> </home/ericulrich/Documents/M
-aster/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/piezo.png>]
+ [20 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/piezo.png>]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/flowchart.png, id=291, 2227.32124pt x 1732.4725pt>
+s/Images/flowchart.png, id=466, 1425.325pt x 1122.1925pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/flowchart.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/flowchart.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/flowchart.png  used on input line 87.
-(pdftex.def)             Requested size: 445.45636pt x 346.48836pt.
+hesis/Materialsandmethods/Images/flowchart.png  used on input line 121.
+(pdftex.def)             Requested size: 356.33038pt x 280.54744pt.
 
-Overfull \hbox (18.66502pt too wide) in paragraph at lines 87--88
-[][] 
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[15 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
-thods/Images/flowchart.png>]
+ [21 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/flowchart.png>]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/feedback.png, id=299, 1962.33125pt x 1485.55pt>
+s/feedback.png, id=475, 1962.33125pt x 1485.55pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
 Images/feedback.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
 mages/feedback.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/feedback.png  used on input line 102.
+hesis/Introduction/Images/feedback.png  used on input line 141.
 (pdftex.def)             Requested size: 255.11201pt x 193.12828pt.
 
-Overfull \hbox (39.2916pt too wide) in paragraph at lines 109--113
-\OT1/cmr/m/n/12 For cal-i-brat-ing the pumps the func-tion cal-i-brate[]pumps f
+Overfull \hbox (39.29848pt too wide) in paragraph at lines 148--153
+\OT1/lmr/m/n/12 For cal-i-brat-ing the pumps the func-tion cal-i-brate[]pumps f
 rom the mor-bido-stat[]experiment.py
  []
 
-[16 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
-mages/feedback.png>] [17]) [18]
+[22] [23 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduct
+ion/Images/feedback.png>] [24]) [25]
 Chapter 4.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/results.te
 x
-Overfull \hbox (12.26439pt too wide) in paragraph at lines 1--1
-|[]\OT1/cmr/bx/n/17.28 Analyzing lon-gi-tu-di-nally col-lected iso-lates from
+Overfull \hbox (12.26501pt too wide) in paragraph at lines 1--1
+|[]\OT1/lmr/bx/n/17.28 Analyzing lon-gi-tu-di-nally col-lected iso-lates from
  []
 
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/181
-205_panXtree_overview.png, id=326, 770.88pt x 1346.02875pt>
+205_panXtree_overview.png, id=508, 770.88pt x 1346.02875pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
 s/181205_panXtree_overview.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
@@ -1218,77 +1473,140 @@ Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
 hesis/Results/Images/181205_panXtree_overview.png  used on input line 4.
 (pdftex.def)             Requested size: 154.17326pt x 269.20097pt.
 
-Overfull \hbox (23.38379pt too wide) in paragraph at lines 15--37
+Overfull \hbox (23.38956pt too wide) in paragraph at lines 15--37
 [][] 
  []
 
-) [19
+) [26
 
-] [20 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Imag
+] [27 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Imag
 es/181205_panXtree_overview.png>]
 Chapter 5.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Discussion/discuss
-ion.tex) [21
+ion.tex) [28
 
 ]
 Chapter 6.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declar
-ation.tex) [22
+ation.tex) [29
 
 ]
 Chapter 7.
-[23
+[30
 
 ]
-Overfull \hbox (0.25327pt too wide) in paragraph at lines 86--86
-[]\OT1/cmr/m/n/12 Erdal Toprak et al. \  Build-ing a Mor-bido-stat: An au-to-ma
-ted continuous-culture
+Overfull \hbox (17.58096pt too wide) in paragraph at lines 87--87
+\OT1/lmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
+uenc-ing". In: \OT1/lmr/m/it/12 bioarchive
  []
 
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 86.
 
-Overfull \hbox (17.9124pt too wide) in paragraph at lines 86--86
-\OT1/cmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
-uenc-ing". In: \OT1/cmr/m/it/12 bioarchive
- []
-
-
-Overfull \hbox (97.73637pt too wide) in paragraph at lines 86--86
-\OT1/cmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (97.73674pt too wide) in paragraph at lines 87--87
+\OT1/lmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
 empfen / antibiotikaresistenzen /
  []
 
 
-Overfull \hbox (97.73637pt too wide) in paragraph at lines 86--86
-\OT1/cmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
+Overfull \hbox (97.73674pt too wide) in paragraph at lines 87--87
+\OT1/lmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
 empfen / antibiotikaresistenzen /
  []
 
-[24
 
-]
-Overfull \hbox (17.09937pt too wide) in paragraph at lines 86--86
-[]\OT1/cmr/m/n/12 Sergey Nurk. \  As-sem-bling Genomes and Mini-metagenomes fro
-m Highly Chimeric
+Overfull \hbox (7.1313pt too wide) in paragraph at lines 87--87
+[]\OT1/lmr/m/it/12 Babraham Bioin-for-mat-ics - Trim Ga-lore! \OT1/lmr/m/sc/12 
+url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / www . bioinformatics .
  []
 
 
-Overfull \hbox (42.16135pt too wide) in paragraph at lines 86--86
-[]$\OT1/cmtt/m/n/12 https : / / www . bag . admin . ch / bag / de / home / kran
+Overfull \hbox (17.9617pt too wide) in paragraph at lines 87--87
+\OT1/lmtt/m/n/12 / / www . sciencedirect . com / topics / neuroscience / beta -
+[] lactam -[] antibiotics$[]
+ []
+
+[31
+
+]
+
+Package biblatex Warning: No driver for entry type 'artwork'.
+(biblatex)                Using fallback driver on input line 86.
+
+[32]
+Overfull \hbox (19.86232pt too wide) in paragraph at lines 87--87
+\OT1/lmr/m/n/12 Burrows-Wheeler trans-form". In: \OT1/lmr/m/it/12 Bioin-for-mat
+-ics (Ox-ford, Eng-land) \OT1/lmr/m/n/12 25.14 (July 15,
+ []
+
+
+Overfull \hbox (0.64912pt too wide) in paragraph at lines 87--87
+[]\OT1/lmr/m/it/12 Mechanism of Ac-tion of Tetra-cy-clines | An-i-ma-tions | Ph
+ar-maX-Change.info\OT1/lmr/m/n/12 .
+ []
+
+
+Overfull \hbox (16.9617pt too wide) in paragraph at lines 87--87
+\OT1/lmtt/m/n/12 org / sites / default / files / Modelling % 20the % 20antibiot
+ic % 20development %
+ []
+
+[33]
+Overfull \hbox (6.30199pt too wide) in paragraph at lines 87--87
+\OT1/lmr/m/n/12 short sam-ples in next-generation se-quenc-ing". In: \OT1/lmr/m
+/it/12 Sci-en-tific Re-ports \OT1/lmr/m/n/12 8.1 (July 19,
+ []
+
+
+Overfull \hbox (4.35774pt too wide) in paragraph at lines 87--87
+\OT1/lmr/m/it/12 te-ria us-ing sin-gle molecule se-quenc-ing | bioRxiv\OT1/lmr/
+m/n/12 . \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / 
+www . biorxiv .
+ []
+
+
+Package biblatex Warning: No driver for entry type 'software'.
+(biblatex)                Using fallback driver on input line 86.
+
+
+Overfull \hbox (2.20616pt too wide) in paragraph at lines 87--87
+\OT1/lmr/m/it/12 mann/prokka\OT1/lmr/m/n/12 . original-date: 2014-03-26T07:19:2
+3Z. Apr. 11, 2019. \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 ht
+tps :
+ []
+
+[34]
+Overfull \hbox (42.16171pt too wide) in paragraph at lines 87--87
+[]$\OT1/lmtt/m/n/12 https : / / www . bag . admin . ch / bag / de / home / kran
 kheiten / infektionskrankheiten -[]
  []
 
 
-Overfull \hbox (25.13634pt too wide) in paragraph at lines 86--86
-\OT1/cmtt/m/n/12 bekaempfen / antibiotikaresistenzen / wie -[] viele -[] antibi
+Overfull \hbox (25.1367pt too wide) in paragraph at lines 87--87
+\OT1/lmtt/m/n/12 bekaempfen / antibiotikaresistenzen / wie -[] viele -[] antibi
 otika -[] verbrauchen -[]
  []
 
-[25]
+
+Overfull \hbox (5.6117pt too wide) in paragraph at lines 87--87
+[]$\OT1/lmtt/m/n/12 https : / / www . pharmacytimes . com / publications / heal
+th -[] system -[] edition /
+ []
+
+
+Overfull \hbox (7.48099pt too wide) in paragraph at lines 87--87
+\OT1/lmr/m/n/12 short and long se-quenc-ing reads". In: \OT1/lmr/m/it/12 PLOS C
+om-pu-ta-tional Bi-ol-ogy \OT1/lmr/m/n/12 13.6 (June 8,
+ []
+
+[35]
 Chapter 8.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-[26
+[36
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
@@ -1296,35 +1614,39 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6198F4307DE16ADD9F06533276B32FFE;2028.
+(rerunfilecheck)             Checksum: 8BCF880B1233C3BDFF15B451E7EE35B4;2159.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15098 strings out of 492616
- 257353 string characters out of 6128968
- 721836 words of memory out of 5000000
- 18732 multiletter control sequences out of 15000+600000
- 10620 words of font info for 36 fonts, out of 8000000 for 9000
+ 16006 strings out of 492616
+ 278433 string characters out of 6128968
+ 734416 words of memory out of 5000000
+ 19537 multiletter control sequences out of 15000+600000
+ 55077 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,46p,1753b,1695s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb>
-Output written on main.pdf (26 pages, 14972998 bytes).
+ 38i,8n,46p,1753b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/loca
+l/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/local/texlive/20
+18/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/
+dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/l
+m-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grmn12
+00.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grxn1200.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
+/public/lm/lmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/
+lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (36 pages, 14050946 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
- 382 compressed objects within 4 object streams
- 97 named destinations out of 1000 (max. 500000)
- 256 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 765 PDF objects out of 1000 (max. 8388607)
+ 686 compressed objects within 7 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 277 words of extra memory for PDF output out of 10000 (max. 10000000)
 
