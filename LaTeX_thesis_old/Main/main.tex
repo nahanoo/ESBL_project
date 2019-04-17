@@ -1,0 +1,91 @@
+\documentclass[12pt,twoside]{report}
+%load packages
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage[a4paper,width=150mm,bindingoffset=6mm,top=25mm,bottom=25mm,headheight=15pt]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\graphicspath{{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/}}
+\usepackage[pagestyles]{titlesec}
+\usepackage{fancyhdr}
+\usepackage{textgreek}
+\usepackage{hyperref}
+\usepackage{gensymb}
+
+
+\bibliographystyle{unsrt}
+
+%Set format of tilefrom chapters
+\titleformat{\chapter}
+  {\normalfont\bfseries\Huge}{\thechapter.}{10pt}{}
+
+%Define style of headers and footers
+
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}{}}
+\fancyhead[LO,LE]{\thechapter. \leftmark}
+\fancyhead[RO,RE]{\thesection. \rightmark}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyfoot{}
+\fancyfoot[LO,LE]{Eric Ulrich}
+\fancyfoot[CO,CE]{\thepage}
+\fancyfoot[RO,RE]{University of Basel}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\headrulewidth}{0.4pt}
+
+%Define pagestyle empty in order that the footer is not displayed in the table of contents
+\AtBeginDocument{%
+  \addtocontents{toc}{\protect\thispagestyle{empty}}%
+  \addtocontents{lof}{\protect\thispagestyle{empty}}%
+}
+\title{
+    {Morb}\\
+    {\large University of Basel}
+}
+
+\author{Eric Ulrich}
+\date{\today}
+
+\usepackage[backend=biber,style=numeric,citestyle=numeric]{biblatex}
+\addbibresource{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/bibliography.bib}
+\begin{document}
+
+
+\maketitle
+
+\pagestyle{empty} %hide footer
+\tableofcontents
+
+
+\chapter{Abstract}
+
+asdfsdaf
+
+\chapter{Introduction}
+
+\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/introduction}
+
+\chapter{Materials and methods}
+\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/materialsandmethods}
+
+\chapter{Results}
+\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/results}
+
+\chapter{Discussion}
+\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Discussion/discussion}
+
+\chapter{Declaration}
+\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declaration}
+
+\chapter{References}
+
+\printbibliography
+
+
+\chapter{Acknowledgements}
+asdfasdfsdafsaf
+
+\end{document}
