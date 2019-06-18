@@ -1,0 +1,2205 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{morb_toprak}{article}{}
+      \name{author}{1}{}{%
+        {{hash=82b7edbc9f0e3cd6bab6b67c3a1539f0}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Erdal\bibnamedelima Toprak},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{82b7edbc9f0e3cd6bab6b67c3a1539f0}
+      \strng{fullhash}{82b7edbc9f0e3cd6bab6b67c3a1539f0}
+      \strng{bibnamehash}{82b7edbc9f0e3cd6bab6b67c3a1539f0}
+      \strng{authorbibnamehash}{82b7edbc9f0e3cd6bab6b67c3a1539f0}
+      \strng{authornamehash}{82b7edbc9f0e3cd6bab6b67c3a1539f0}
+      \strng{authorfullhash}{82b7edbc9f0e3cd6bab6b67c3a1539f0}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PMC}
+      \field{title}{Building a Morbidostat: An automated continuous-culture device for studying bacterial drug resistance under dyna-ally sustained drug inhibition}
+      \field{year}{2013}
+    \endentry
+    \entry{nanopore}{article}{}
+      \name{author}{1}{}{%
+        {{hash=742e43262369f1a81db09212088c666a}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Nicholas\bibnamedelima Noll},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{742e43262369f1a81db09212088c666a}
+      \strng{fullhash}{742e43262369f1a81db09212088c666a}
+      \strng{bibnamehash}{742e43262369f1a81db09212088c666a}
+      \strng{authorbibnamehash}{742e43262369f1a81db09212088c666a}
+      \strng{authornamehash}{742e43262369f1a81db09212088c666a}
+      \strng{authorfullhash}{742e43262369f1a81db09212088c666a}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioarchive}
+      \field{title}{Prokka: Resolving structural diversity of Carbapenemase-producing gram-negative bacteria using single molecule sequencing}
+      \field{year}{2018}
+    \endentry
+    \entry{noauthor_antibiotic_2019}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{23}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{shorttitle}{Antibiotic Use in the United States, 2017}
+      \field{title}{Antibiotic Use in the United States, 2017: Progress and Opportunities {|} Antibiotic Use {|} {CDC}}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/ericulrich/Zotero/storage/CILWNJHQ/outpatient.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cdc.gov/antibiotic-use/stewardship-report/outpatient.html
+      \endverb
+      \verb{url}
+      \verb https://www.cdc.gov/antibiotic-use/stewardship-report/outpatient.html
+      \endverb
+    \endentry
+    \entry{swiss_hospitals_pathogens}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{3}
+      \field{title}{Antibiotikaresistenzen}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bag.admin.ch/bag/de/home/krankheiten/infektionskrankheiten-bekaempfen/antibiotikaresistenzen/welche-bakteriellen-krankheiten-gibt-es-.html
+      \endverb
+      \verb{url}
+      \verb https://www.bag.admin.ch/bag/de/home/krankheiten/infektionskrankheiten-bekaempfen/antibiotikaresistenzen/welche-bakteriellen-krankheiten-gibt-es-.html
+      \endverb
+    \endentry
+    \entry{noauthor_babraham_nodate}{online}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeltitlesource}{title}
+      \field{title}{Babraham Bioinformatics - Trim Galore!}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Babraham Bioinformatics - Trim Galore!:/home/ericulrich/Zotero/storage/GR3MABTK/trim_galore.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
+      \endverb
+      \verb{url}
+      \verb https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
+      \endverb
+    \endentry
+    \entry{barreteau_cytoplasmic_2008}{article}{}
+      \name{author}{6}{}{%
+        {{hash=14bce4366885fac1ceba988304058fc8}{%
+           family={Barreteau},
+           familyi={B\bibinitperiod},
+           given={Hélène},
+           giveni={H\bibinitperiod}}}%
+        {{hash=16b7bcdf23180c1794cd729196fd658c}{%
+           family={Kovač},
+           familyi={K\bibinitperiod},
+           given={Andreja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=75707423e3055277b11c30c68ddc2673}{%
+           family={Boniface},
+           familyi={B\bibinitperiod},
+           given={Audrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8c0285ed012b0d98b01fe2cd69a4b9b4}{%
+           family={Sova},
+           familyi={S\bibinitperiod},
+           given={Matej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b955ec859ad36dbc1174d882204fcd72}{%
+           family={Gobec},
+           familyi={G\bibinitperiod},
+           given={Stanislav},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e58988a7867a3cb6fe743cd5a80186b0}{%
+           family={Blanot},
+           familyi={B\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c750eaa7378142e8e67fa8551a285bd}
+      \strng{fullhash}{6629e8b83dad50fb87bcf28e4707e9ab}
+      \strng{bibnamehash}{0c750eaa7378142e8e67fa8551a285bd}
+      \strng{authorbibnamehash}{0c750eaa7378142e8e67fa8551a285bd}
+      \strng{authornamehash}{0c750eaa7378142e8e67fa8551a285bd}
+      \strng{authorfullhash}{6629e8b83dad50fb87bcf28e4707e9ab}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. The biosynthesis of bacterial cell wall peptidoglycan is a complex process that involves enzyme reactions that take place in the cytoplasm (synthesis}
+      \field{day}{1}
+      \field{issn}{0168-6445}
+      \field{journaltitle}{{FEMS} Microbiology Reviews}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{{FEMS} Microbiol Rev}
+      \field{title}{Cytoplasmic steps of peptidoglycan biosynthesis}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{32}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{168\bibrangedash 207}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1111/j.1574-6976.2008.00104.x
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/femsre/article/32/2/168/2683919
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/femsre/article/32/2/168/2683919
+      \endverb
+    \endentry
+    \entry{noauthor_-lactam_2019}{inreference}{}
+      \field{sortinit}{b}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeltitlesource}{title}
+      \field{abstract}{beta-lactam antibiotics (beta-lactam antibiotics) are a class of antibiotic consisting of all antibiotic agents that contain a beta-lactam ring in their molecular structures. This includes penicillin derivatives (penams), cephalosporins (cephems), monobactams, and carbapenems. Most beta-lactam antibiotics work by inhibiting cell wall biosynthesis in the bacterial organism and are the most widely used group of antibiotics. Until 2003, when measured by sales, more than half of all commercially available antibiotics in use were beta-lactam compounds.Bacteria often develop resistance to beta-lactam antibiotics by synthesizing a beta-lactamase, an enzyme that attacks the beta-lactam ring. To overcome this resistance, beta-lactam antibiotics are often given with beta-lactamase inhibitors such as clavulanic acid.}
+      \field{booktitle}{Wikipedia}
+      \field{day}{16}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{note}{Page Version {ID}: 883614313}
+      \field{title}{beta-lactam antibiotic}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/ericulrich/Zotero/storage/2ANDH2MR/index.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=%CE%92-lactam_antibiotic&oldid=883614313
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=%CE%92-lactam_antibiotic&oldid=883614313
+      \endverb
+    \endentry
+    \entry{beta-lactam_nodate}{online}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeltitlesource}{title}
+      \field{title}{Beta-Lactam Antibiotics - an overview {|} {ScienceDirect} Topics}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Beta-Lactam Antibiotics - an overview | ScienceDirect Topics:/home/ericulrich/Zotero/storage/8H26FTJV/beta-lactam-antibiotics.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/topics/neuroscience/beta-lactam-antibiotics
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/topics/neuroscience/beta-lactam-antibiotics
+      \endverb
+    \endentry
+    \entry{noauthor_beta-lactam_nodate}{online}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeltitlesource}{title}
+      \field{title}{Beta-Lactam Ring - an overview {|} {ScienceDirect} Topics}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Beta-Lactam Ring - an overview | ScienceDirect Topics:/home/ericulrich/Zotero/storage/IDXYDUSU/beta-lactam-ring.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/topics/chemistry/beta-lactam-ring
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/topics/chemistry/beta-lactam-ring
+      \endverb
+    \endentry
+    \entry{bradford_extended-spectrum_2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4f9ce03489259072236c064f68bb39b9}{%
+           family={Bradford},
+           familyi={B\bibinitperiod},
+           given={Patricia\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f9ce03489259072236c064f68bb39b9}
+      \strng{fullhash}{4f9ce03489259072236c064f68bb39b9}
+      \strng{bibnamehash}{4f9ce03489259072236c064f68bb39b9}
+      \strng{authorbibnamehash}{4f9ce03489259072236c064f68bb39b9}
+      \strng{authornamehash}{4f9ce03489259072236c064f68bb39b9}
+      \strng{authorfullhash}{4f9ce03489259072236c064f68bb39b9}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{β-Lactamases continue to be the leading cause of resistance to β-lactam antibiotics among gram-negative bacteria. In recent years there has been an increased incidence and prevalence of extended-spectrum β-lactamases ({ESBLs}), enzymes ...}
+      \field{journaltitle}{Clinical Microbiology Reviews}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Extended-Spectrum β-Lactamases in the 21st Century}
+      \field{title}{Extended-Spectrum β-Lactamases in the 21st Century: Characterization, Epidemiology, and Detection of This Important Resistance Threat}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{14}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{933}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1128/CMR.14.4.933-951.2001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC89009/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC89009/
+      \endverb
+    \endentry
+    \entry{cdc_biggest_2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b451ae487bde3a3338f110920744afa8}{%
+           family={{CDC}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b451ae487bde3a3338f110920744afa8}
+      \strng{fullhash}{b451ae487bde3a3338f110920744afa8}
+      \strng{bibnamehash}{b451ae487bde3a3338f110920744afa8}
+      \strng{authorbibnamehash}{b451ae487bde3a3338f110920744afa8}
+      \strng{authornamehash}{b451ae487bde3a3338f110920744afa8}
+      \strng{authorfullhash}{b451ae487bde3a3338f110920744afa8}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Information and data on antibiotic resistance. Download images and graphics, find burden numbers, and learn more about these top threats.}
+      \field{day}{27}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{The biggest antibiotic-resistant threats in the U.S.}
+      \field{titleaddon}{Centers for Disease Control and Prevention}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/ericulrich/Zotero/storage/9F9NA8Q6/biggest_threats.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cdc.gov/drugresistance/biggest_threats.html
+      \endverb
+      \verb{url}
+      \verb https://www.cdc.gov/drugresistance/biggest_threats.html
+      \endverb
+    \endentry
+    \entry{cock_biopython:_2009}{article}{}
+      \name{author}{11}{}{%
+        {{hash=1233053bd570a535b94aefb668da4464}{%
+           family={Cock},
+           familyi={C\bibinitperiod},
+           given={Peter\bibnamedelimb J.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7fb7b4aad373590939ef53fafa9100ee}{%
+           family={Antao},
+           familyi={A\bibinitperiod},
+           given={Tiago},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d91aff958df37785c248f7c74ecd3b40}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Jeffrey\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a1bc7c178fe8c419e9c6b711c9113191}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Brad\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=00b00fea0ac9a38fb81855218a98f64b}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Cymon\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a7a4d6701ae045cc8da0d5693bbe5196}{%
+           family={Dalke},
+           familyi={D\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f00ae52babd12dc169b622d4986f7d8e}{%
+           family={Friedberg},
+           familyi={F\bibinitperiod},
+           given={Iddo},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ff236dbcdc91c0630e8b9eadbf91c436}{%
+           family={Hamelryck},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=67d980cd1b782e5d0ff6c62e731799f1}{%
+           family={Kauff},
+           familyi={K\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=79ff578649a7b5870e9c3c070af226b2}{%
+           family={Wilczynski},
+           familyi={W\bibinitperiod},
+           given={Bartek},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8bba02f3b8d077aeda45594967ea620d}{%
+           family={Hoon},
+           familyi={H\bibinitperiod},
+           given={Michiel\bibnamedelimb J.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{be5d01c92697061bb7d2a0c8023cabe6}
+      \strng{fullhash}{a87099b1898d69086317113a4820b401}
+      \strng{bibnamehash}{be5d01c92697061bb7d2a0c8023cabe6}
+      \strng{authorbibnamehash}{be5d01c92697061bb7d2a0c8023cabe6}
+      \strng{authornamehash}{be5d01c92697061bb7d2a0c8023cabe6}
+      \strng{authorfullhash}{a87099b1898d69086317113a4820b401}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract. Summary: The Biopython project is a mature open source international collaboration of volunteer developers, providing Python libraries for a wide ran}
+      \field{day}{1}
+      \field{issn}{1367-4803}
+      \field{journaltitle}{Bioinformatics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{11}
+      \field{shortjournal}{Bioinformatics}
+      \field{shorttitle}{Biopython}
+      \field{title}{Biopython: freely available Python tools for computational molecular biology and bioinformatics}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{25}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1422\bibrangedash 1423}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btp163
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/ericulrich/Zotero/storage/M8R7T963/Cock et al. - 2009 - Biopython freely available Python tools for compu.pdf:application/pdf;Snapshot:/home/ericulrich/Zotero/storage/V3C2GSED/330687.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/bioinformatics/article/25/11/1422/330687
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/bioinformatics/article/25/11/1422/330687
+      \endverb
+    \endentry
+    \entry{noauthor_colistin:_nodate}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How effective is colistin against multidrug-resistant Gram-negative pathogens?}
+      \field{shorttitle}{Colistin}
+      \field{title}{Colistin: An Update on the Antibiotic of the 21st Century}
+      \field{titleaddon}{Medscape}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.medscape.com/viewarticle/772588
+      \endverb
+      \verb{url}
+      \verb http://www.medscape.com/viewarticle/772588
+      \endverb
+    \endentry
+    \entry{connell_ribosomal_2003}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ecd67941edc3792b42d0f1ec9751e2e0}{%
+           family={Connell},
+           familyi={C\bibinitperiod},
+           given={Sean\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e70ba719b6c32032953109b497a6616e}{%
+           family={Tracz},
+           familyi={T\bibinitperiod},
+           given={Dobryan\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fbb77f13890f1f99891b49bdf7fc3064}{%
+           family={Nierhaus},
+           familyi={N\bibinitperiod},
+           given={Knud\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=45e5532ab7e2c564422af4006801a9db}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Diane\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{afe2e110464446191f8fd9892e312b49}
+      \strng{fullhash}{5d5d024f93e15b218fa3e1589e150df3}
+      \strng{bibnamehash}{afe2e110464446191f8fd9892e312b49}
+      \strng{authorbibnamehash}{afe2e110464446191f8fd9892e312b49}
+      \strng{authornamehash}{afe2e110464446191f8fd9892e312b49}
+      \strng{authorfullhash}{5d5d024f93e15b218fa3e1589e150df3}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ribosomal protection represents an important tactic for promoting tetracycline resistance in both gram-positive and -negative species. Tet(O) and Tet(M) are the best studied of these determinants and were originally isolated from Campylobacter jejuni and Streptococcus spp., respectively, although}
+      \field{day}{1}
+      \field{issn}{0066-4804, 1098-6596}
+      \field{journaltitle}{Antimicrobial Agents and Chemotherapy}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Ribosomal Protection Proteins and Their Mechanism of Tetracycline Resistance}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{47}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3675\bibrangedash 3681}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1128/AAC.47.12.3675-3681.2003
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/ericulrich/Zotero/storage/CFLP8AZH/Connell et al. - 2003 - Ribosomal Protection Proteins and Their Mechanism .pdf:application/pdf;Snapshot:/home/ericulrich/Zotero/storage/SNJG9I9P/3675.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://aac.asm.org/content/47/12/3675
+      \endverb
+      \verb{url}
+      \verb https://aac.asm.org/content/47/12/3675
+      \endverb
+    \endentry
+    \entry{dancer_problem_2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=84990f64be7fd3359f5a237264e4e854}{%
+           family={Dancer},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{84990f64be7fd3359f5a237264e4e854}
+      \strng{fullhash}{84990f64be7fd3359f5a237264e4e854}
+      \strng{bibnamehash}{84990f64be7fd3359f5a237264e4e854}
+      \strng{authorbibnamehash}{84990f64be7fd3359f5a237264e4e854}
+      \strng{authornamehash}{84990f64be7fd3359f5a237264e4e854}
+      \strng{authorfullhash}{84990f64be7fd3359f5a237264e4e854}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. The cephalosporin antibiotics have become a major part of the antibiotic formulary for hospitals in affluent countries. They are prescribed for a wid}
+      \field{day}{1}
+      \field{issn}{0305-7453}
+      \field{journaltitle}{Journal of Antimicrobial Chemotherapy}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shortjournal}{J Antimicrob Chemother}
+      \field{title}{The problem with cephalosporins}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{48}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{463\bibrangedash 478}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1093/jac/48.4.463
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/jac/article/48/4/463/700308
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/jac/article/48/4/463/700308
+      \endverb
+    \endentry
+    \entry{ding_panx:_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9a3131ca498ba863c0c6f33fa7baac32}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3af769c68fb5f0a256d02bee87292434}{%
+           family={Baumdicker},
+           familyi={B\bibinitperiod},
+           given={Franz},
+           giveni={F\bibinitperiod}}}%
+        {{hash=09bb95fa57d17304a4f66e02a6114335}{%
+           family={Neher},
+           familyi={N\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0024663bee2af55926132b8fa910ca38}
+      \strng{fullhash}{0024663bee2af55926132b8fa910ca38}
+      \strng{bibnamehash}{0024663bee2af55926132b8fa910ca38}
+      \strng{authorbibnamehash}{0024663bee2af55926132b8fa910ca38}
+      \strng{authornamehash}{0024663bee2af55926132b8fa910ca38}
+      \strng{authorfullhash}{0024663bee2af55926132b8fa910ca38}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Horizontal transfer, gene loss, and duplication result in dynamic bacterial genomes shaped by a complex mixture of different modes of evolution. Closely related strains can differ in the presence or absence of many genes, and the total number of distinct genes found in a set of related isolates—the pan-genome—is often many times larger than the genome of individual isolates. We have developed a pipeline that efficiently identifies orthologous gene clusters in the pan-genome. This pipeline is coupled to a powerful yet easy-to-use web-based visualization for interactive exploration of the pan-genome. The visualization consists of connected components that allow rapid filtering and searching of genes and inspection of their evolutionary history. For each gene cluster, {panX} displays an alignment, a phylogenetic tree, maps mutations within that cluster to the branches of the tree and infers gain and loss of genes on the core-genome phylogeny. {PanX} is available at pangenome.de. Custom pan-genomes can be visualized either using a web server or by serving {panX} locally as a browser-based application.}
+      \field{day}{9}
+      \field{issn}{0305-1048}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Nucleic Acids Res}
+      \field{shorttitle}{{panX}}
+      \field{title}{{panX}: pan-genome analysis and exploration}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{46}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e5}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/nar/gkx977
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/ericulrich/Zotero/storage/QLPK4JC5/Ding et al. - 2018 - panX pan-genome analysis and exploration.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758898/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758898/
+      \endverb
+    \endentry
+    \entry{doselmann_rapid_2017}{article}{}
+      \name{author}{7}{}{%
+        {{hash=804372be11e3de10186186d6df60434f}{%
+           family={Dößelmann},
+           familyi={D\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod}}}%
+        {{hash=3c985e0349ccf97189fd114a3c973124}{%
+           family={Willmann},
+           familyi={W\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79e44aa4888178d2edd425fc1aaffba2}{%
+           family={Steglich},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4c6a26bfc4af50428b4a4a8b3c997628}{%
+           family={Bunk},
+           familyi={B\bibinitperiod},
+           given={Boyke},
+           giveni={B\bibinitperiod}}}%
+        {{hash=94e3878d0d183f49883e4dff9dc89ef0}{%
+           family={Nübel},
+           familyi={N\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+        {{hash=815143122b082859cdc07227274ea7c9}{%
+           family={Peter},
+           familyi={P\bibinitperiod},
+           given={Silke},
+           giveni={S\bibinitperiod}}}%
+        {{hash=09bb95fa57d17304a4f66e02a6114335}{%
+           family={Neher},
+           familyi={N\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a963d144fd707492d81db7ec4d8da37}
+      \strng{fullhash}{8d287bfbd53910b3dd16958ff54667d3}
+      \strng{bibnamehash}{3a963d144fd707492d81db7ec4d8da37}
+      \strng{authorbibnamehash}{3a963d144fd707492d81db7ec4d8da37}
+      \strng{authornamehash}{3a963d144fd707492d81db7ec4d8da37}
+      \strng{authorfullhash}{8d287bfbd53910b3dd16958ff54667d3}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Colistin is a last-resort antibiotic commonly used against multidrug-resistant strains of Pseudomonas aeruginosa To investigate the potential for in situ evolution of resistance against colistin and to map the molecular targets of colistin resistance, we exposed two P. aeruginosa isolates to colistin using a continuous-culture device known as a morbidostat. As a result, colistin resistance reproducibly increased 10-fold within 10 days and 100-fold within 20 days, along with highly stereotypic yet strain-specific mutation patterns. The majority of mutations hit the {pmrAB} two-component signaling system and genes involved in lipopolysaccharide ({LPS}) synthesis, including {lpxC}, {pmrE}, and {migA} We tracked the frequencies of all arising mutations by whole-genome deep sequencing every 3 to 4 days to obtain a detailed picture of the dynamics of resistance evolution, including competition and displacement among multiple resistant subpopulations. In 7 out of 18 cultures, we observed mutations in {mutS} along with a mutator phenotype that seemed to facilitate resistance evolution.}
+      \field{issn}{1098-6596}
+      \field{journaltitle}{Antimicrobial Agents and Chemotherapy}
+      \field{number}{9}
+      \field{shortjournal}{Antimicrob. Agents Chemother.}
+      \field{title}{Rapid and Consistent Evolution of Colistin Resistance in Extensively Drug-Resistant Pseudomonas aeruginosa during Morbidostat Culture}
+      \field{volume}{61}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1128/AAC.00043-17
+      \endverb
+      \keyw{Anti-Bacterial Agents,Bacterial Proteins,Colistin,colistin resistance,Drug Resistance,Multiple,Bacterial,experimental evolution,Humans,Microbial Sensitivity Tests,morbidostat,Mutation,Pseudomonas aeruginosa,Pseudomonas Infections}
+    \endentry
+    \entry{fair_antibiotics_2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=190f807aedf9ed7ff352e5bed4d7d81f}{%
+           family={Fair},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d4562f17e1c3551baadcee866c4a68d8}{%
+           family={Tor},
+           familyi={T\bibinitperiod},
+           given={Yitzhak},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{3546f55db7921c119158c71cb9883dbf}
+      \strng{fullhash}{3546f55db7921c119158c71cb9883dbf}
+      \strng{bibnamehash}{3546f55db7921c119158c71cb9883dbf}
+      \strng{authorbibnamehash}{3546f55db7921c119158c71cb9883dbf}
+      \strng{authornamehash}{3546f55db7921c119158c71cb9883dbf}
+      \strng{authorfullhash}{3546f55db7921c119158c71cb9883dbf}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dangerous, antibiotic resistant bacteria have been observed with increasing frequency over the past several decades. In this review the factors that have been linked to this phenomenon are addressed. Profiles of bacterial species that are deemed to be particularly concerning at the present time are illustrated. Factors including economic impact, intrinsic and acquired drug resistance, morbidity and mortality rates, and means of infection are taken into account. Synchronously with the waxing of bacterial resistance there has been waning antibiotic development. The approaches that scientists are employing in the pursuit of new antibacterial agents are briefly described. The standings of established antibiotic classes as well as potentially emerging classes are assessed with an emphasis on molecules that have been clinically approved or are in advanced stages of development. Historical perspectives, mechanisms of action and resistance, spectrum of activity, and preeminent members of each class are discussed.}
+      \field{issn}{1177-391X}
+      \field{journaltitle}{Perspectives in Medicinal Chemistry}
+      \field{shortjournal}{Perspect Medicin Chem}
+      \field{title}{Antibiotics and bacterial resistance in the 21st century}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{25\bibrangedash 64}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.4137/PMC.S14459
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/ericulrich/Zotero/storage/7CMUKNES/Fair and Tor - 2014 - Antibiotics and bacterial resistance in the 21st c.pdf:application/pdf
+      \endverb
+      \keyw{antibiotic resistance mechanisms,antibiotics,drug-resistant bacteria,novel antibiotic targets}
+    \endentry
+    \entry{fernandes_-lactams:_2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=70c0ca8a6f914f96a82d08db8bb8c124}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Rúben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e19f16a747311724574fc8d24ac2fdaa}{%
+           family={Amador},
+           familyi={A\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f654ade7699eb0f8294597855cbfbd4d}{%
+           family={Prudêncio},
+           familyi={P\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4314af03915d13ee51a46d267c0244a}
+      \strng{fullhash}{a4314af03915d13ee51a46d267c0244a}
+      \strng{bibnamehash}{a4314af03915d13ee51a46d267c0244a}
+      \strng{authorbibnamehash}{a4314af03915d13ee51a46d267c0244a}
+      \strng{authornamehash}{a4314af03915d13ee51a46d267c0244a}
+      \strng{authorfullhash}{a4314af03915d13ee51a46d267c0244a}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0954-139X}
+      \field{journaltitle}{Reviews in Medical Microbiology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{β-Lactams}
+      \field{title}{β-Lactams: chemical structure, mode of action and mechanisms of resistance}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{24}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{7\bibrangedash 17}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1097/MRM.0b013e3283587727
+      \endverb
+      \verb{urlraw}
+      \verb http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00013542-201301000-00002
+      \endverb
+      \verb{url}
+      \verb http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00013542-201301000-00002
+      \endverb
+    \endentry
+    \entry{fisher_bacterial_2005}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a96f5af084fbe971b0dc5d66324a8647}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Jed\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8d395a2fbe33bab7f2d32a7009456a0a}{%
+           family={Meroueh},
+           familyi={M\bibinitperiod},
+           given={Samy\bibnamedelima O.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=3da471e930f014eeb363108ce5bf83fd}{%
+           family={Mobashery},
+           familyi={M\bibinitperiod},
+           given={Shahriar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{871aa5185d8162e86135f9d1c729a466}
+      \strng{fullhash}{871aa5185d8162e86135f9d1c729a466}
+      \strng{bibnamehash}{871aa5185d8162e86135f9d1c729a466}
+      \strng{authorbibnamehash}{871aa5185d8162e86135f9d1c729a466}
+      \strng{authornamehash}{871aa5185d8162e86135f9d1c729a466}
+      \strng{authorfullhash}{871aa5185d8162e86135f9d1c729a466}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{0009-2665}
+      \field{journaltitle}{Chemical Reviews}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Chem. Rev.}
+      \field{shorttitle}{Bacterial Resistance to beta-Lactam Antibiotics}
+      \field{title}{Bacterial Resistance to beta-Lactam Antibiotics:  Compelling Opportunism, Compelling Opportunity}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{105}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{395\bibrangedash 424}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1021/cr030102i
+      \endverb
+      \verb{file}
+      \verb ACS Full Text PDF w/ Links:/home/ericulrich/Zotero/storage/UVULH3IF/Fisher et al. - 2005 - Bacterial Resistance to beta-Lactam Antibiotics Com.pdf:application/pdf;ACS Full Text Snapshot:/home/ericulrich/Zotero/storage/NHA2EJTL/cr030102i.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/cr030102i
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/cr030102i
+      \endverb
+    \endentry
+    \entry{graevemoore_english:_2008}{artwork}{}
+      \name{author}{1}{}{%
+        {{hash=8f6644aff1f51a04a447821db1a7819c}{%
+           family={{Graevemoore}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f6644aff1f51a04a447821db1a7819c}
+      \strng{fullhash}{8f6644aff1f51a04a447821db1a7819c}
+      \strng{bibnamehash}{8f6644aff1f51a04a447821db1a7819c}
+      \strng{authorbibnamehash}{8f6644aff1f51a04a447821db1a7819c}
+      \strng{authornamehash}{8f6644aff1f51a04a447821db1a7819c}
+      \strng{authorfullhash}{8f6644aff1f51a04a447821db1a7819c}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{20}
+      \field{month}{4}
+      \field{shorttitle}{English}
+      \field{title}{English: Illustrates differences between Gram-positive and gram-negative bacteria}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Wikimedia Snapshot:/home/ericulrich/Zotero/storage/RG4TQYNH/FileGram-Cell-wall.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Gram-Cell-wall.svg
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Gram-Cell-wall.svg
+      \endverb
+    \endentry
+    \entry{islam_orphan_2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d6f670efcc851df17df77c0590fbd186}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Sabina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe05e011cc1cb44bf75a8013f0d36ea3}{%
+           family={Benedik},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b775aac84ef1b078b24ecc7bde7a1182}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3de0a748680f80b87c50ab7dca4ba13}
+      \strng{fullhash}{a3de0a748680f80b87c50ab7dca4ba13}
+      \strng{bibnamehash}{a3de0a748680f80b87c50ab7dca4ba13}
+      \strng{authorbibnamehash}{a3de0a748680f80b87c50ab7dca4ba13}
+      \strng{authornamehash}{a3de0a748680f80b87c50ab7dca4ba13}
+      \strng{authorfullhash}{a3de0a748680f80b87c50ab7dca4ba13}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Toxin/antitoxin ({TA}) systems are nearly universal in prokaryotes; toxins are paired with antitoxins which inactivate them until the toxins are utilized. Here we explore whether toxins may function alone; i.e., whether a toxin which lacks a corresponding antitoxin (orphan toxin) is physiologically relevant. By focusing on a homologous protein of the membrane-damaging toxin {GhoT} of the Escherichia coli {GhoT}/{GhoS} type V {TA} system, we found that {YdcX} (renamed {OrtT} for orphan toxin related to tetrahydrofolate) is toxic but is not part of {TA} pair. {OrtT} is not inactivated by neighboring {YdcY} (which is demonstrated to be a protein), nor is it inactivated by antitoxin {GhoS}. Also, {OrtT} is not inactivated by small {RNA} upstream or downstream of {ortT}. Moreover, screening a genomic library did not identify an antitoxin partner for {OrtT}. {OrtT} is a protein and its toxicity stems from membrane damage as evidenced by transmission electron microscopy and cell lysis. Furthermore, {OrtT} reduces cell growth and metabolism in the presence of both antimicrobials trimethoprim and sulfamethoxazole; these antimicrobials induce the stringent response by inhibiting tetrahydrofolate synthesis. Therefore, we demonstrate that {OrtT} acts as an independent toxin to reduce growth during stress related to amino acid and {DNA} synthesis.}
+      \field{day}{29}
+      \field{issn}{2072-6651}
+      \field{journaltitle}{Toxins}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{Toxins (Basel)}
+      \field{title}{Orphan Toxin {OrtT} ({YdcX}) of Escherichia coli Reduces Growth during the Stringent Response}
+      \field{urlday}{2}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{7}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{299\bibrangedash 321}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.3390/toxins7020299
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/ericulrich/Zotero/storage/SYPYGZ6I/Islam et al. - 2015 - Orphan Toxin OrtT (YdcX) of Escherichia coli Reduc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344625/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4344625/
+      \endverb
+      \keyw{{ortT}}
+    \endentry
+    \entry{pepper}{article}{}
+      \name{author}{1}{}{%
+        {{hash=54e01a5530f3eb3d6e84f6da4f0679f1}{%
+           family={Jong\bibnamedelimb et\bibnamedelima al.},
+           familyi={J\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{54e01a5530f3eb3d6e84f6da4f0679f1}
+      \strng{fullhash}{54e01a5530f3eb3d6e84f6da4f0679f1}
+      \strng{bibnamehash}{54e01a5530f3eb3d6e84f6da4f0679f1}
+      \strng{authorbibnamehash}{54e01a5530f3eb3d6e84f6da4f0679f1}
+      \strng{authornamehash}{54e01a5530f3eb3d6e84f6da4f0679f1}
+      \strng{authorfullhash}{54e01a5530f3eb3d6e84f6da4f0679f1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Geno-s}
+      \field{title}{PePPER: a webserver for prediction of prokaryote promoter elements and regulons}
+      \field{year}{2011}
+    \endentry
+    \entry{klein_global_2018}{article}{}
+      \name{author}{8}{}{%
+        {{hash=e677ce6178cf7e70af225ed38093c8df}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Eili\bibnamedelima Y.},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=7c56586a01b0b160228e8d12577de2bd}{%
+           family={Boeckel},
+           familyi={B\bibinitperiod},
+           given={Thomas\bibnamedelimb P.\bibnamedelimi Van},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=272f2830b4ea13d3878f52d3fd596424}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Elena\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ccbb1b7522cf380cb480e294156dac45}{%
+           family={Pant},
+           familyi={P\bibinitperiod},
+           given={Suraj},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ca945d17113ee74aecb683a547fb85b0}{%
+           family={Gandra},
+           familyi={G\bibinitperiod},
+           given={Sumanth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8700288be2f5e0367ad64b03843c096d}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Simon\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b1518a3119776336606b25ae3c2a7929}{%
+           family={Goossens},
+           familyi={G\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=55b6fc11a3ac803cb8010a4a21299ad3}{%
+           family={Laxminarayan},
+           familyi={L\bibinitperiod},
+           given={Ramanan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b9062668f1957c25d56ddcdc74cede0}
+      \strng{fullhash}{15262e7522a77e9273ffc23a6d8e0bb6}
+      \strng{bibnamehash}{0b9062668f1957c25d56ddcdc74cede0}
+      \strng{authorbibnamehash}{0b9062668f1957c25d56ddcdc74cede0}
+      \strng{authornamehash}{0b9062668f1957c25d56ddcdc74cede0}
+      \strng{authorfullhash}{15262e7522a77e9273ffc23a6d8e0bb6}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tracking antibiotic consumption patterns over time and across countries could inform policies to optimize antibiotic prescribing and minimize antibiotic resistance, such as setting and enforcing per capita consumption targets or aiding investments in alternatives to antibiotics. In this study, we analyzed the trends and drivers of antibiotic consumption from 2000 to 2015 in 76 countries and projected total global antibiotic consumption through 2030. Between 2000 and 2015, antibiotic consumption, expressed in defined daily doses ({DDD}), increased 65\% (21.1–34.8 billion {DDDs}), and the antibiotic consumption rate increased 39\% (11.3–15.7 {DDDs} per 1,000 inhabitants per day). The increase was driven by low- and middle-income countries ({LMICs}), where rising consumption was correlated with gross domestic product per capita ({GDPPC}) growth (P = 0.004). In high-income countries ({HICs}), although overall consumption increased modestly, {DDDs} per 1,000 inhabitants per day fell 4\%, and there was no correlation with {GDPPC}. Of particular concern was the rapid increase in the use of last-resort compounds, both in {HICs} and {LMICs}, such as glycylcyclines, oxazolidinones, carbapenems, and polymyxins. Projections of global antibiotic consumption in 2030, assuming no policy changes, were up to 200\% higher than the 42 billion {DDDs} estimated in 2015. Although antibiotic consumption rates in most {LMICs} remain lower than in {HICs} despite higher bacterial disease burden, consumption in {LMICs} is rapidly converging to rates similar to {HICs}. Reducing global consumption is critical for reducing the threat of antibiotic resistance, but reduction efforts must balance access limitations in {LMICs} and take account of local and global resistance patterns.}
+      \field{day}{10}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{15}
+      \field{shortjournal}{{PNAS}}
+      \field{title}{Global increase and geographic convergence in antibiotic consumption between 2000 and 2015}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{115}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{E3463\bibrangedash E3470}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1073/pnas.1717295115
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/content/115/15/E3463
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/content/115/15/E3463
+      \endverb
+      \keyw{antibiotic stewardship,antibiotics,antimicrobial resistance,defined daily doses,low-income countries}
+    \endentry
+    \entry{klein_third-generation_1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=afce3eeb0561eeb6e2373ac098326330}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={N.\bibnamedelimi C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4440d04e67651bfc9e43556dec12b50a}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={B.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8dee9807541b59741793fc11e8e44239}
+      \strng{fullhash}{8dee9807541b59741793fc11e8e44239}
+      \strng{bibnamehash}{8dee9807541b59741793fc11e8e44239}
+      \strng{authorbibnamehash}{8dee9807541b59741793fc11e8e44239}
+      \strng{authornamehash}{8dee9807541b59741793fc11e8e44239}
+      \strng{authorfullhash}{8dee9807541b59741793fc11e8e44239}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Third-generation cephalosporins are broad-spectrum antimicrobial agents useful in a variety of clinical situations. No one cephalosporin is appropriate for all infectious disease problems. Cefotaxime and ceftizoxime have the best gram-positive coverage of the third-generation agents. Ceftazidime and cefoperazone are the only third-generation drugs that provide antipseudomonal coverage. Ceftriaxone's long half-life allows for once-daily dosing, making ceftriaxone an excellent drug for outpatient antibiotic therapy of community-acquired infections. Ceftriaxone is also useful for the treatment of Lyme disease and sexually transmitted diseases. The third-generation cephalosporins except for cefoperazone penetrate cerebrospinal fluid and are indicated for the treatment of bacterial meningitis. Their proven record of clinical efficacy, favorable pharmacokinetics, and low frequency of adverse effects make third-generation cephalosporins the preferred antibiotic in many clinical situations.}
+      \field{issn}{0025-7125}
+      \field{journaltitle}{The Medical Clinics of North America}
+      \field{month}{7}
+      \field{number}{4}
+      \field{shortjournal}{Med. Clin. North Am.}
+      \field{title}{Third-generation cephalosporins}
+      \field{volume}{79}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{705\bibrangedash 719}
+      \range{pages}{15}
+      \keyw{Bacterial Infections,Cephalosporins,Gram-Negative Bacteria,Gram-Positive Bacteria,Humans,Structure-Activity Relationship}
+    \endentry
+    \entry{koren_canu:_2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=4def616bcffd6e6a73f4def2ebf17b10}{%
+           family={Koren},
+           familyi={K\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fc56b6d4d8655ab89c800a6bcafaa6e0}{%
+           family={Walenz},
+           familyi={W\bibinitperiod},
+           given={Brian\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6193bda4fb6625e13b8dfa3412164675}{%
+           family={Berlin},
+           familyi={B\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0c5ff34ac8d918831ba24162ff5ec68e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jason\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1f7d4b5d7f78443f953c24bb09936ff9}{%
+           family={Bergman},
+           familyi={B\bibinitperiod},
+           given={Nicholas\bibnamedelima H.},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e91092485ba69e6028a9683e414ec094}{%
+           family={Phillippy},
+           familyi={P\bibinitperiod},
+           given={Adam\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{aeb5b63d20702988a2e6150c12561d37}
+      \strng{fullhash}{abeb94d02c3b98b22360ada791902925}
+      \strng{bibnamehash}{aeb5b63d20702988a2e6150c12561d37}
+      \strng{authorbibnamehash}{aeb5b63d20702988a2e6150c12561d37}
+      \strng{authornamehash}{aeb5b63d20702988a2e6150c12561d37}
+      \strng{authorfullhash}{abeb94d02c3b98b22360ada791902925}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Long-read single-molecule sequencing has revolutionized de novo genome assembly and enabled the automated reconstruction of reference-quality genomes. However, given the relatively high error rates of such technologies, efficient and accurate assembly of large repeats and closely related haplotypes remains challenging. We address these issues with Canu, a successor of Celera Assembler that is specifically designed for noisy single-molecule sequences. Canu introduces support for nanopore sequencing, halves depth-of-coverage requirements, and improves assembly continuity while simultaneously reducing runtime by an order of magnitude on large genomes versus Celera Assembler 8.2. These advances result from new overlapping and assembly algorithms, including an adaptive overlapping strategy based on tf-idf weighted {MinHash} and a sparse assembly graph construction that avoids collapsing diverged repeats and haplotypes. We demonstrate that Canu can reliably assemble complete microbial genomes and near-complete eukaryotic chromosomes using either Pacific Biosciences ({PacBio}) or Oxford Nanopore technologies and achieves a contig {NG}50 of {>}21 Mbp on both human and Drosophila melanogaster {PacBio} data sets. For assembly structures that cannot be linearly represented, Canu provides graph-based assembly outputs in graphical fragment assembly ({GFA}) format for analysis or integration with complementary phasing and scaffolding techniques. The combination of such highly resolved assembly graphs with long-range scaffolding information promises the complete and automated assembly of complex genomes.}
+      \field{day}{1}
+      \field{issn}{1088-9051, 1549-5469}
+      \field{journaltitle}{Genome Research}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shortjournal}{Genome Res.}
+      \field{shorttitle}{Canu}
+      \field{title}{Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{722\bibrangedash 736}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1101/gr.215087.116
+      \endverb
+      \verb{urlraw}
+      \verb http://genome.cshlp.org/content/27/5/722
+      \endverb
+      \verb{url}
+      \verb http://genome.cshlp.org/content/27/5/722
+      \endverb
+    \endentry
+    \entry{kuzin_structure_1999}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7bf2713cfcd0b548557371df8467fead}{%
+           family={Kuzin},
+           familyi={K\bibinitperiod},
+           given={Alexandre\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9c393a0af8aae332e1e879f33d08c1d9}{%
+           family={Nukaga},
+           familyi={N\bibinitperiod},
+           given={Michiyoshi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=55213355f004fbef43858dbfee6b08ef}{%
+           family={Nukaga},
+           familyi={N\bibinitperiod},
+           given={Yasuko},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c1804f596a26edf040628ce7a71a9b96}{%
+           family={Hujer},
+           familyi={H\bibinitperiod},
+           given={Andrea\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1974c9e2840e02c7b4d10d3d0fdf8c4c}{%
+           family={Bonomo},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2b48dea61934df15cf4bba8028ff303e}{%
+           family={Knox},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{741ec6a4f44adfa031fd2158273a8bbc}
+      \strng{fullhash}{437398ccf763e271b2dc0a6e7c8daf47}
+      \strng{bibnamehash}{741ec6a4f44adfa031fd2158273a8bbc}
+      \strng{authorbibnamehash}{741ec6a4f44adfa031fd2158273a8bbc}
+      \strng{authornamehash}{741ec6a4f44adfa031fd2158273a8bbc}
+      \strng{authorfullhash}{437398ccf763e271b2dc0a6e7c8daf47}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The X-ray crystallographic structure of the {SHV}-1 β-lactamase has been established. The enzyme crystallizes from poly(ethylene glycol) at {pH} 7 in space group P212121 with cell dimensions a = 49.6 Å, b = 55.6 Å, and c = 87.0 Å. The structure was solved by the molecular replacement method, and the model has been refined to an R-factor of 0.18 for all data in the range 8.0−1.98 Å resolution. Deviations of model bonds and angles from ideal values are 0.018 Å and 1.8°, respectively. Overlay of all 263 α-carbon atoms in the {SHV}-1 and {TEM}-1 β-lactamases results in an rms deviation of 1.4 Å. Largest deviations occur in the H10 helix (residues 218−224) and in the loops between strands in the β-sheet. All atoms in residues 70, 73, 130, 132, 166, and 234 in the catalytic site of {SHV}-1 deviate only 0.23 Å (rms) from atoms in {TEM}-1. However, the width of the substrate binding cavity in {SHV}-1, as measured from the 104−105 and 130−132 loops on one side to the 235−238 β-strand on the other side, is 0.7−1.2 Å wider than in {TEM}-1. A structural analysis of the highly different affinity of {SHV}-1 and {TEM}-1 for the β-lactamase inhibitory protein {BLIP} focuses on interactions involving Asp/Glu104.}
+      \field{day}{1}
+      \field{issn}{0006-2960}
+      \field{journaltitle}{Biochemistry}
+      \field{month}{5}
+      \field{number}{18}
+      \field{shortjournal}{Biochemistry}
+      \field{title}{Structure of the {SHV}-1 β-Lactamase}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{38}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5720\bibrangedash 5727}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/bi990136d
+      \endverb
+      \verb{file}
+      \verb ACS Full Text PDF w/ Links:/home/ericulrich/Zotero/storage/3E2XU7L8/Kuzin et al. - 1999 - Structure of the SHV-1 β-Lactamase.pdf:application/pdf;ACS Full Text Snapshot:/home/ericulrich/Zotero/storage/BQJNDB2J/bi990136d.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/bi990136d
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/bi990136d
+      \endverb
+    \endentry
+    \entry{leclercq_eucast_2013}{article}{}
+      \name{author}{14}{}{%
+        {{hash=aadec25132da13f077a9b0820f4303d9}{%
+           family={Leclercq},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8298bdfc8e088549cadd12d1bcd90362}{%
+           family={Cantón},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d82fd009fe0607507fe7a4dbd849b046}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi F.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=90904d655e60a276f7790122ecf9bbf2}{%
+           family={Giske},
+           familyi={G\bibinitperiod},
+           given={C.\bibnamedelimi G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c4e1eceb6a01539e9afb2fe83319ca2e}{%
+           family={Heisig},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=68fe2b7b826effda4b215b59c8609783}{%
+           family={{MacGowan}},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ce657fd1bc4f88e0d55183dcb52f1850}{%
+           family={Mouton},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=574cecd1cc55579cc2f947382f655dde}{%
+           family={Nordmann},
+           familyi={N\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b55d15cb5bfda389483863a073be73a4}{%
+           family={Rodloff},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=1c7ef46414590fcb7418b154f479c415}{%
+           family={Rossolini},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f571abdcb84d213ff556e5de2594f63e}{%
+           family={Soussy},
+           familyi={S\bibinitperiod},
+           given={C.-J.},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=23ae55cc266821b0b6cfa5821af174e5}{%
+           family={Steinbakk},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=485ce60a628e1795dcd05d112b4cd7bb}{%
+           family={Winstanley},
+           familyi={W\bibinitperiod},
+           given={T.\bibnamedelimi G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=7538a633457b2afe0621aefe8f361bf4}{%
+           family={Kahlmeter},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b87e83543a5478c320d183a93d4a1a0a}
+      \strng{fullhash}{503960f4a33df9cb1c8bc43bdf609e62}
+      \strng{bibnamehash}{b87e83543a5478c320d183a93d4a1a0a}
+      \strng{authorbibnamehash}{b87e83543a5478c320d183a93d4a1a0a}
+      \strng{authornamehash}{b87e83543a5478c320d183a93d4a1a0a}
+      \strng{authorfullhash}{503960f4a33df9cb1c8bc43bdf609e62}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{EUCAST} expert rules have been developed to assist clinical microbiologists and describe actions to be taken in response to specific antimicrobial susceptibility test results. They include recommendations on reporting, such as inferring susceptibility to other agents from results with one, suppression of results that may be inappropriate, and editing of results from susceptible to intermediate or resistant or from intermediate to resistant on the basis of an inferred resistance mechanism. They are based on current clinical and/or microbiological evidence. {EUCAST} expert rules also include intrinsic resistance phenotypes and exceptional resistance phenotypes, which have not yet been reported or are very rare. The applicability of {EUCAST} expert rules depends on the {MIC} breakpoints used to define the rules. Setting appropriate clinical breakpoints, based on treating patients and not on the detection of resistance mechanisms, may lead to modification of some expert rules in the future.}
+      \field{issn}{1469-0691}
+      \field{journaltitle}{Clinical Microbiology and Infection: The Official Publication of the European Society of Clinical Microbiology and Infectious Diseases}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{Clin. Microbiol. Infect.}
+      \field{title}{{EUCAST} expert rules in antimicrobial susceptibility testing}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{141\bibrangedash 160}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/j.1469-0691.2011.03703.x
+      \endverb
+      \keyw{Anti-Infective Agents,Bacteria,Data Interpretation,Statistical,Europe,Humans,Microbial Sensitivity Tests}
+    \endentry
+    \entry{li_fast_2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=466d90849ccf7e74e32d338b7c35491d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Heng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=517afe729b2eb59735ba80628d943bb0}{%
+           family={Durbin},
+           familyi={D\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{68b0c2c99236e02736a0ab4098e9a024}
+      \strng{fullhash}{68b0c2c99236e02736a0ab4098e9a024}
+      \strng{bibnamehash}{68b0c2c99236e02736a0ab4098e9a024}
+      \strng{authorbibnamehash}{68b0c2c99236e02736a0ab4098e9a024}
+      \strng{authornamehash}{68b0c2c99236e02736a0ab4098e9a024}
+      \strng{authorfullhash}{68b0c2c99236e02736a0ab4098e9a024}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{MOTIVATION}: The enormous amount of short reads generated by the new {DNA} sequencing technologies call for the development of fast and accurate read alignment programs. A first generation of hash table-based methods has been developed, including {MAQ}, which is accurate, feature rich and fast enough to align short reads from a single individual. However, {MAQ} does not support gapped alignment for single-end reads, which makes it unsuitable for alignment of longer reads where indels may occur frequently. The speed of {MAQ} is also a concern when the alignment is scaled up to the resequencing of hundreds of individuals. {RESULTS}: We implemented Burrows-Wheeler Alignment tool ({BWA}), a new read alignment package that is based on backward search with Burrows-Wheeler Transform ({BWT}), to efficiently align short sequencing reads against a large reference sequence such as the human genome, allowing mismatches and gaps. {BWA} supports both base space reads, e.g. from Illumina sequencing machines, and color space reads from {AB} {SOLiD} machines. Evaluations on both simulated and real data suggest that {BWA} is approximately 10-20x faster than {MAQ}, while achieving similar accuracy. In addition, {BWA} outputs alignment in the new standard {SAM} (Sequence Alignment/Map) format. Variant calling and other downstream analyses after the alignment can be achieved with the open source {SAMtools} software package. {AVAILABILITY}: http://maq.sourceforge.net.}
+      \field{day}{15}
+      \field{issn}{1367-4811}
+      \field{journaltitle}{Bioinformatics (Oxford, England)}
+      \field{month}{7}
+      \field{number}{14}
+      \field{shortjournal}{Bioinformatics}
+      \field{title}{Fast and accurate short read alignment with Burrows-Wheeler transform}
+      \field{volume}{25}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{1754\bibrangedash 1760}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btp324
+      \endverb
+      \keyw{Algorithms,Genomics,Sequence Alignment,Sequence Analysis,{DNA},Software}
+    \endentry
+    \entry{costs}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Modelling the antibiotic development process}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://amr-review.org/sites/default/files/Modelling%20the%20antibiotic%20development%20process.pdf
+      \endverb
+      \verb{url}
+      \verb https://amr-review.org/sites/default/files/Modelling%20the%20antibiotic%20development%20process.pdf
+      \endverb
+    \endentry
+    \entry{piezo_pumps}{online}{}
+      \field{sortinit}{m}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Piezo electric diaphragm pump for delivering tiny amounts of gas \& liquids for a variety of applications.}
+      \field{langid}{english}
+      \field{title}{mp6 Piezoelectric Diaphragm Micropump}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.servoflo.com/micropumps/mp6
+      \endverb
+      \verb{url}
+      \verb https://www.servoflo.com/micropumps/mp6
+      \endverb
+    \endentry
+    \entry{munita_mechanisms_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a742c96181d06fb07fc74b9f9ffad47}{%
+           family={Munita},
+           familyi={M\bibinitperiod},
+           given={Jose\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9ed08cef49f3e730ee4d68485d00748d}{%
+           family={Arias},
+           familyi={A\bibinitperiod},
+           given={Cesar\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddce9111f1c7cc94bcb962f4e8f134ef}
+      \strng{fullhash}{ddce9111f1c7cc94bcb962f4e8f134ef}
+      \strng{bibnamehash}{ddce9111f1c7cc94bcb962f4e8f134ef}
+      \strng{authorbibnamehash}{ddce9111f1c7cc94bcb962f4e8f134ef}
+      \strng{authornamehash}{ddce9111f1c7cc94bcb962f4e8f134ef}
+      \strng{authorfullhash}{ddce9111f1c7cc94bcb962f4e8f134ef}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Emergence of resistance among the most important bacterial pathogens is recognized as a major public health threat affecting humans worldwide. Multidrug-resistant organisms have emerged not only in the hospital environment but are now often identified in community settings, suggesting that reservoirs of antibiotic-resistant bacteria are present outside the hospital. The bacterial response to the antibiotic “attack” is the prime example of bacterial adaptation and the pinnacle of evolution. “Survival of the fittest” is a consequence of an immense genetic plasticity of bacterial pathogens that trigger specific responses that result in mutational adaptations, acquisition of genetic material or alteration of gene expression producing resistance to virtually all antibiotics currently available in clinical practice. Therefore, understanding the biochemical and genetic basis of resistance is of paramount importance to design strategies to curtail the emergence and spread of resistance and devise innovative therapeutic approaches against multidrug-resistant organisms. In this chapter, we will describe in detail the major mechanisms of antibiotic resistance encountered in clinical practice providing specific examples in relevant bacterial pathogens.}
+      \field{issn}{2165-0497}
+      \field{journaltitle}{Microbiology spectrum}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shortjournal}{Microbiol Spectr}
+      \field{title}{Mechanisms of Antibiotic Resistance}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1128/microbiolspec.VMBF-0016-2015
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/ericulrich/Zotero/storage/6GCTZNQ5/Munita and Arias - 2016 - Mechanisms of Antibiotic Resistance.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888801/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4888801/
+      \endverb
+    \endentry
+    \entry{nurk_assembling_2013}{article}{}
+      \name{author}{18}{}{%
+        {{hash=3a4826015a3d30ffe7b858309b12019e}{%
+           family={Nurk},
+           familyi={N\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1deb0ae6cb30258df8d4c9ddd344a5e4}{%
+           family={Bankevich},
+           familyi={B\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d46917439e7ca88e809783befbba0c98}{%
+           family={Antipov},
+           familyi={A\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7c045aba8d844606f8956ab8d2cf43a9}{%
+           family={Gurevich},
+           familyi={G\bibinitperiod},
+           given={Alexey\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=569c26d4a8fe822536a933ebdc20d1a8}{%
+           family={Korobeynikov},
+           familyi={K\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eb968c13eeafe661704404d715636afc}{%
+           family={Lapidus},
+           familyi={L\bibinitperiod},
+           given={Alla},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b3fd12fa575e3c570fe817174aed7798}{%
+           family={Prjibelski},
+           familyi={P\bibinitperiod},
+           given={Andrey\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9e17714cee5c358c3077417693f61a04}{%
+           family={Pyshkin},
+           familyi={P\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9fbe532b3525ec1beda3f0be11929079}{%
+           family={Sirotkin},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c66c2aa7fd61a31503aa84bbbec41268}{%
+           family={Sirotkin},
+           familyi={S\bibinitperiod},
+           given={Yakov},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0bfa6eb75ad8fd7dfd59252f03c7ddd3}{%
+           family={Stepanauskas},
+           familyi={S\bibinitperiod},
+           given={Ramunas},
+           giveni={R\bibinitperiod}}}%
+        {{hash=84e2e5089bb3c5489d5c0e25fb2520a1}{%
+           family={Clingenpeel},
+           familyi={C\bibinitperiod},
+           given={Scott\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=00449b68457ad3c5300a6aa449990831}{%
+           family={Woyke},
+           familyi={W\bibinitperiod},
+           given={Tanja},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4c1185be58ee9cfdfc72e2d82fbd7bc6}{%
+           family={{McLean}},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2d1d8e42cd8bbba55289753c9032ad10}{%
+           family={Lasken},
+           familyi={L\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c599f1526b9477caed9fbf91e91b3227}{%
+           family={Tesler},
+           familyi={T\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a27f23cb3893b7d3d4b4ddbe9b3b3377}{%
+           family={Alekseyev},
+           familyi={A\bibinitperiod},
+           given={Max\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=dd2b06e11c769cef717da43a03f50670}{%
+           family={Pevzner},
+           familyi={P\bibinitperiod},
+           given={Pavel\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{27523c1742ea9b582f5e5b63dba27161}
+      \strng{fullhash}{40cc3e87d37f4fd7f3ffb6cbc1697dc0}
+      \strng{bibnamehash}{27523c1742ea9b582f5e5b63dba27161}
+      \strng{authorbibnamehash}{27523c1742ea9b582f5e5b63dba27161}
+      \strng{authornamehash}{27523c1742ea9b582f5e5b63dba27161}
+      \strng{authorfullhash}{40cc3e87d37f4fd7f3ffb6cbc1697dc0}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent advances in single-cell genomics provide an alternative to largely gene-centric metagenomics studies, enabling whole-genome sequencing of uncultivated bacteria. However, single-cell assembly projects are challenging due to (i) the highly nonuniform read coverage and (ii) a greatly elevated number of chimeric reads and read pairs. While recently developed single-cell assemblers have addressed the former challenge, methods for assembling highly chimeric reads remain poorly explored. We present algorithms for identifying chimeric edges and resolving complex bulges in de Bruijn graphs, which significantly improve single-cell assemblies. We further describe applications of the single-cell assembler {SPAdes} to a new approach for capturing and sequencing "microbial dark matter" that forms small pools of randomly selected single cells (called a mini-metagenome) and further sequences all genomes from the mini-metagenome at once. On single-cell bacterial datasets, {SPAdes} improves on the recently developed E+V-{SC} and {IDBA}-{UD} assemblers specifically designed for single-cell sequencing. For standard (cultivated monostrain) datasets, {SPAdes} also improves on A5, {ABySS}, {CLC}, {EULER}-{SR}, Ray, {SOAPdenovo}, and Velvet. Thus, recently developed single-cell assemblers not only enable single-cell sequencing, but also improve on conventional assemblers on their own turf. {SPAdes} is available for free online download under a {GPLv}2 license.}
+      \field{issn}{1557-8666}
+      \field{journaltitle}{Journal of Computational Biology: A Journal of Computational Molecular Cell Biology}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shortjournal}{J. Comput. Biol.}
+      \field{title}{Assembling single-cell genomes and mini-metagenomes from chimeric {MDA} products}
+      \field{volume}{20}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{714\bibrangedash 737}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1089/cmb.2013.0084
+      \endverb
+      \keyw{Algorithms,Base Composition,Computational Biology,Contig Mapping,{DNA},Bacterial,{DNA},Concatenated,Escherichia coli,Gene Library,Genome,Bacterial,High-Throughput Nucleotide Sequencing,Nucleic Acid Amplification Techniques,Pedobacter,Prochlorococcus,Sequence Analysis,{DNA},Single-Cell Analysis}
+    \endentry
+    \entry{palumbi_humans_2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=970e2e09b430fbb09319dc4a950e6ae8}{%
+           family={Palumbi},
+           familyi={P\bibinitperiod},
+           given={Stephen\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{970e2e09b430fbb09319dc4a950e6ae8}
+      \strng{fullhash}{970e2e09b430fbb09319dc4a950e6ae8}
+      \strng{bibnamehash}{970e2e09b430fbb09319dc4a950e6ae8}
+      \strng{authorbibnamehash}{970e2e09b430fbb09319dc4a950e6ae8}
+      \strng{authornamehash}{970e2e09b430fbb09319dc4a950e6ae8}
+      \strng{authorfullhash}{970e2e09b430fbb09319dc4a950e6ae8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In addition to altering global ecology, technology and human population growth also affect evolutionary trajectories, dramatically accelerating evolutionary change in other species, especially in commercially important, pest, and disease organisms. Such changes are apparent in antibiotic and human immunodeficiency virus ({HIV}) resistance to drugs, plant and insect resistance to pesticides, rapid changes in invasive species, life-history change in commercial fisheries, and pest adaptation to biological engineering products. This accelerated evolution costs at least \$33 billion to \$50 billion a year in the United States. Slowing and controlling arms races in disease and pest management have been successful in diverse ecological and economic systems, illustrating how applied evolutionary principles can help reduce the impact of humankind on evolution.}
+      \field{day}{7}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{5536}
+      \field{title}{Humans as the World's Greatest Evolutionary Force}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{293}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1786\bibrangedash 1790}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.293.5536.1786
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/ericulrich/Zotero/storage/9ZZLLW3F/Palumbi - 2001 - Humans as the World's Greatest Evolutionary Force.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://science.sciencemag.org/content/293/5536/1786
+      \endverb
+      \verb{url}
+      \verb https://science.sciencemag.org/content/293/5536/1786
+      \endverb
+    \endentry
+    \entry{pfeiffer_systematic_2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7aea67deb00597f5b684d4531e39c9a9}{%
+           family={Pfeiffer},
+           familyi={P\bibinitperiod},
+           given={Franziska},
+           giveni={F\bibinitperiod}}}%
+        {{hash=da5733ac569da77668312199b6397ade}{%
+           family={Gröber},
+           familyi={G\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=86567d5066a0186629d9a81ab930975f}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0309bc440bae3516cf0b19ed9fefdb10}{%
+           family={Händler},
+           familyi={H\bibinitperiod},
+           given={Kristian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dc02b7109bb1b0c4c5fbade63afc6f49}{%
+           family={Beyer},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eafdeafd9e376570b5dff63e7d4b63e4}{%
+           family={Schultze},
+           familyi={S\bibinitperiod},
+           given={Joachim\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c002d935f044e4e6ba531522496c65d1}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Günter},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1e300805b39a66f5f543b5d469415d6}
+      \strng{fullhash}{2aff336626d038e2656bfe5c7c925f60}
+      \strng{bibnamehash}{a1e300805b39a66f5f543b5d469415d6}
+      \strng{authorbibnamehash}{a1e300805b39a66f5f543b5d469415d6}
+      \strng{authornamehash}{a1e300805b39a66f5f543b5d469415d6}
+      \strng{authorfullhash}{2aff336626d038e2656bfe5c7c925f60}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Next-generation sequencing ({NGS}) is the method of choice when large numbers of sequences have to be obtained. While the technique is widely applied, varying error rates have been observed. We analysed millions of reads obtained after sequencing of one single sequence on an Illumina sequencer. According to our analysis, the index-{PCR} for sample preparation has no effect on the observed error rate, even though {PCR} is traditionally seen as one of the major contributors to enhanced error rates in {NGS}. In addition, we observed very persistent pre-phasing effects although the base calling software corrects for these. Removal of shortened sequences abolished these effects and allowed analysis of the actual mutations. The average error rate determined was 0.24 ± 0.06\% per base and the percentage of mutated sequences was found to be 6.4 ± 1.24\%. Constant regions at the 5′- and 3′-end, e.g., primer binding sites used in in vitro selection procedures seem to have no effect on mutation rates and re-sequencing of samples obtains very reproducible results. As phasing effects and other sequencing problems vary between equipment and individual setups, we recommend evaluation of error rates and types to all {NGS}-users to improve the quality and analysis of {NGS} data.}
+      \field{day}{19}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{Systematic evaluation of error rates and causes in short samples in next-generation sequencing}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{10950}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-018-29325-6
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/ericulrich/Zotero/storage/QKB7KKVW/Pfeiffer et al. - 2018 - Systematic evaluation of error rates and causes in.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-018-29325-6
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-018-29325-6
+      \endverb
+    \endentry
+    \entry{noauthor_pilon:_nodate}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labeltitlesource}{title}
+      \field{title}{Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Pilon\: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement:/home/ericulrich/Zotero/storage/T4GJL428/article.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963
+      \endverb
+    \endentry
+    \entry{noauthor_resolving_nodate}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labeltitlesource}{title}
+      \field{title}{Resolving structural diversity of Carbapenemase-producing gram-negative bacteria using single molecule sequencing {|} {bioRxiv}}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Resolving structural diversity of Carbapenemase-producing gram-negative bacteria using single molecule sequencing | bioRxiv:/home/ericulrich/Zotero/storage/REHMR94Y/456897v1.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.biorxiv.org/content/10.1101/456897v1
+      \endverb
+      \verb{url}
+      \verb https://www.biorxiv.org/content/10.1101/456897v1
+      \endverb
+    \endentry
+    \entry{seemann_:zap:_2019}{software}{}
+      \name{author}{1}{}{%
+        {{hash=818ed0b35f6ae7bf46f07c1c4f4b6ae3}{%
+           family={Seemann},
+           familyi={S\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{fullhash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{bibnamehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{authorbibnamehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{authornamehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{authorfullhash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{4}
+      \field{note}{original-date: 2014-03-26T07:19:23Z}
+      \field{title}{:zap: :aquarius: Rapid prokaryotic genome annotation: tseemann/prokka}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/tseemann/prokka
+      \endverb
+      \verb{url}
+      \verb https://github.com/tseemann/prokka
+      \endverb
+    \endentry
+    \entry{seemann_prokka:_2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=818ed0b35f6ae7bf46f07c1c4f4b6ae3}{%
+           family={Seemann},
+           familyi={S\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{fullhash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{bibnamehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{authorbibnamehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{authornamehash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \strng{authorfullhash}{818ed0b35f6ae7bf46f07c1c4f4b6ae3}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The multiplex capability and high yield of current day {DNA}-sequencing instruments has made bacterial whole genome sequencing a routine affair. The subsequent de novo assembly of reads into contigs has been well addressed. The final step of annotating all relevant genomic features on those contigs can be achieved slowly using existing web- and email-based systems, but these are not applicable for sensitive data or integrating into computational pipelines. Here we introduce Prokka, a command line software tool to fully annotate a draft bacterial genome in about 10 min on a typical desktop computer. It produces standards-compliant output files for further analysis or viewing in genome browsers. {AVAILABILITY} {AND} {IMPLEMENTATION}: Prokka is implemented in Perl and is freely available under an open source {GPLv}2 license from http://vicbioinformatics.com/.}
+      \field{day}{15}
+      \field{issn}{1367-4811}
+      \field{journaltitle}{Bioinformatics (Oxford, England)}
+      \field{month}{7}
+      \field{number}{14}
+      \field{shortjournal}{Bioinformatics}
+      \field{shorttitle}{Prokka}
+      \field{title}{Prokka: rapid prokaryotic genome annotation}
+      \field{volume}{30}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{2068\bibrangedash 2069}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btu153
+      \endverb
+      \keyw{Genome,Bacterial,Genomics,Molecular Sequence Annotation,Sequence Analysis,{DNA},Software}
+    \endentry
+    \entry{noauthor_smarttable_nodate}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{title}{{SmartTable} All promoters of E. coli K-12 substr. {MG}1655}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://biocyc.org/group?id=:ALL-PROMOTERS&orgid=ECOLI
+      \endverb
+      \verb{url}
+      \verb https://biocyc.org/group?id=:ALL-PROMOTERS&orgid=ECOLI
+      \endverb
+    \endentry
+    \entry{ecocyc}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{4}
+      \field{title}{SmartTable: All promoters of E. coli K-12 substr. MG1655}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bag.admin.ch/bag/de/home/krankheiten/infektionskrankheiten-bekaempfen/antibiotikaresistenzen/wie-viele-antibiotika-verbrauchen-wir---.html
+      \endverb
+      \verb{url}
+      \verb https://www.bag.admin.ch/bag/de/home/krankheiten/infektionskrankheiten-bekaempfen/antibiotikaresistenzen/wie-viele-antibiotika-verbrauchen-wir---.html
+      \endverb
+    \endentry
+    \entry{sovic_fast_2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=82b76fd581da2663c8344a72e04e6e80}{%
+           family={Sović},
+           familyi={S\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8b2f1cd83002422f8af1d8990e9ad672}{%
+           family={Šikić},
+           familyi={Š\bibinitperiod},
+           given={Mile},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b13d35f61f5914e56210b3a5cee8f71c}{%
+           family={Wilm},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=52ea6af73cd7c6c0fc4e85854cb2db1d}{%
+           family={Fenlon},
+           familyi={F\bibinitperiod},
+           given={Shannon\bibnamedelima Nicole},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=022a322754df73661a39ff34e10d957e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Swaine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1d990b496154dde78f34f94079e9db04}{%
+           family={Nagarajan},
+           familyi={N\bibinitperiod},
+           given={Niranjan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{beaea614495afb4c111e4d3b5f2580ff}
+      \strng{fullhash}{6419d91b09264d3f5ea25aeb640e9a10}
+      \strng{bibnamehash}{beaea614495afb4c111e4d3b5f2580ff}
+      \strng{authorbibnamehash}{beaea614495afb4c111e4d3b5f2580ff}
+      \strng{authornamehash}{beaea614495afb4c111e4d3b5f2580ff}
+      \strng{authorfullhash}{6419d91b09264d3f5ea25aeb640e9a10}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Realizing the democratic promise of nanopore sequencing requires the development of new bioinformatics approaches to deal with its specific error characteristics. Here we present {GraphMap}, a mapping algorithm designed to analyse nanopore sequencing reads, which progressively refines candidate alignments to robustly handle potentially high-error rates and a fast graph traversal to align long reads with speed and high precision ({>}95\%). Evaluation on {MinION} sequencing data sets against short- and long-read mappers indicates that {GraphMap} increases mapping sensitivity by 10–80\% and maps {>}95\% of bases. {GraphMap} alignments enabled single-nucleotide variant calling on the human genome with increased sensitivity (15\%) over the next best mapper, precise detection of structural variants from length 100 bp to 4 kbp, and species and strain-specific identification of pathogens using {MinION} reads. {GraphMap} is available open source under the {MIT} license at https://github.com/isovic/graphmap.}
+      \field{day}{15}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Fast and sensitive mapping of nanopore sequencing reads with {GraphMap}}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{7}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11307}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms11307
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/ericulrich/Zotero/storage/VWBRIK99/Sović et al. - 2016 - Fast and sensitive mapping of nanopore sequencing .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/ncomms11307
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/ncomms11307
+      \endverb
+    \endentry
+    \entry{tissot_enterobacteriaceae_nodate}{article}{}
+      \name{author}{4}{}{%
+        {{hash=da117e33c1f5f7ad89af657cd06813ad}{%
+           family={Tissot},
+           familyi={T\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6e1dc9d6f1f5319cc0c839806d1ff05f}{%
+           family={Widmer},
+           familyi={W\bibinitperiod},
+           given={A\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ea161db2a32236a542cf189183827564}{%
+           family={Kuster},
+           familyi={K\bibinitperiod},
+           given={S\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=c556a83e83742835342a32a10a1829f2}{%
+           family={Zanetti},
+           familyi={Z\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{824b89c14aac341f2da9cf35b7877b2d}
+      \strng{fullhash}{db9bc70543705b00d2885cc106fe20ac}
+      \strng{bibnamehash}{824b89c14aac341f2da9cf35b7877b2d}
+      \strng{authorbibnamehash}{824b89c14aac341f2da9cf35b7877b2d}
+      \strng{authornamehash}{824b89c14aac341f2da9cf35b7877b2d}
+      \strng{authorfullhash}{db9bc70543705b00d2885cc106fe20ac}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{number}{2}
+      \field{title}{Enterobacteriaceae mit Breitspektrum Beta-Laktamasen ({ESBL}) im Spital: Neue Empfehlungen Swissnoso 2014}
+      \field{pages}{8}
+      \range{pages}{1}
+      \verb{file}
+      \verb Tissot et al. - Enterobacteriaceae mit Breitspektrum Beta-Laktamas.pdf:/home/ericulrich/Zotero/storage/Y38P5EVQ/Tissot et al. - Enterobacteriaceae mit Breitspektrum Beta-Laktamas.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{toprak_building_2013}{article}{}
+      \name{author}{7}{}{%
+        {{hash=5b9ab0bf21d1b34d62e653a980018762}{%
+           family={Toprak},
+           familyi={T\bibinitperiod},
+           given={Erdal},
+           giveni={E\bibinitperiod}}}%
+        {{hash=04b4cdb978fb211d421baa5a33aa17ad}{%
+           family={Veres},
+           familyi={V\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a08044f31f3590967b45e3b1e8d68b4d}{%
+           family={Yildiz},
+           familyi={Y\bibinitperiod},
+           given={Sadik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed5418bbca3763a26df1c71a8b4f2c97}{%
+           family={Pedraza},
+           familyi={P\bibinitperiod},
+           given={Juan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bda6ee025412c08d23a09c1712fc670a}{%
+           family={Chait},
+           familyi={C\bibinitperiod},
+           given={Remy},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ca532e2cf7dfa60584c3119426157a1b}{%
+           family={Paulsson},
+           familyi={P\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6bcdb0ad30a371c01267d28f47c5e5da}{%
+           family={Kishony},
+           familyi={K\bibinitperiod},
+           given={Roy},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{21aa0b6b659c6c59d1d5a7b1ced51e7a}
+      \strng{fullhash}{60bdf1415e7c2f2aee74ff158637fa38}
+      \strng{bibnamehash}{21aa0b6b659c6c59d1d5a7b1ced51e7a}
+      \strng{authorbibnamehash}{21aa0b6b659c6c59d1d5a7b1ced51e7a}
+      \strng{authornamehash}{21aa0b6b659c6c59d1d5a7b1ced51e7a}
+      \strng{authorfullhash}{60bdf1415e7c2f2aee74ff158637fa38}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We present a protocol for building and operating an automated fluidic system for continuous culture that we call the 'morbidostat'. The morbidostat is used to follow the evolution of microbial drug resistance in real time. Instead of exposing bacteria to predetermined drug environments, the morbidostat constantly measures the growth rates of evolving microbial populations and dynamically adjusts drug concentrations inside culture vials in order to maintain a constant drug-induced inhibition. The growth rate measurements are done using an optical detection system that is based on measuring the intensity of back-scattered light from bacterial cells suspended in the liquid culture. The morbidostat can additionally be used as a chemostat or a turbidostat. The whole system can be built from readily available components within 2-3 weeks by biologists with some electronics experience or engineers familiar with basic microbiology.}
+      \field{issn}{1750-2799}
+      \field{journaltitle}{Nature Protocols}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{Nat Protoc}
+      \field{shorttitle}{Building a morbidostat}
+      \field{title}{Building a morbidostat: an automated continuous-culture device for studying bacterial drug resistance under dynamically sustained drug inhibition}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{555\bibrangedash 567}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1038/nprot.nprot.2013.021
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/home/ericulrich/Zotero/storage/GWNV4I9F/Toprak et al. - 2013 - Building a morbidostat an automated continuous-cu.pdf:application/pdf
+      \endverb
+      \keyw{Anti-Bacterial Agents,Bacillus subtilis,Bacteria,Cell Culture Techniques,Drug Resistance,Bacterial,Escherichia coli,Evolution,Molecular,Microbial Sensitivity Tests}
+    \endentry
+    \entry{worldwar_resistance}{article}{}
+      \name{author}{1}{}{%
+        {{hash=160b7a1865af96b7fd00d1e92717c0f4}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={C.\bibnamedelimi Lee},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{fullhash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{bibnamehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{authorbibnamehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{authornamehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{authorfullhash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pharmacy and Therapeutics}
+      \field{title}{The Antibiotic Resistance Crisis}
+      \field{year}{2015}
+    \endentry
+    \entry{ventola_antibiotic_2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=160b7a1865af96b7fd00d1e92717c0f4}{%
+           family={Ventola},
+           familyi={V\bibinitperiod},
+           given={C.\bibnamedelimi Lee},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{fullhash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{bibnamehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{authorbibnamehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{authornamehash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \strng{authorfullhash}{160b7a1865af96b7fd00d1e92717c0f4}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Decades after the first patients were treated with antibiotics, bacterial infections have again become a threat because of the rapid emergence of resistant bacteria—a crisis attributed to abuse of these medications and a lack of new drug development.}
+      \field{issn}{1052-1372}
+      \field{journaltitle}{Pharmacy and Therapeutics}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{P T}
+      \field{title}{The Antibiotic Resistance Crisis}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{40}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{277\bibrangedash 283}
+      \range{pages}{7}
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/ericulrich/Zotero/storage/NN2EYT9S/Ventola - 2015 - The Antibiotic Resistance Crisis.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/
+      \endverb
+    \endentry
+    \entry{wick_unicycler:_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9e37c24a223dcd894b1170564a38b3b2}{%
+           family={Wick},
+           familyi={W\bibinitperiod},
+           given={Ryan\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=5ec23a6f66d3987c6c3f56ffc07e39ef}{%
+           family={Judd},
+           familyi={J\bibinitperiod},
+           given={Louise\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=454059451b6c468cccc8325ba450e1cf}{%
+           family={Gorrie},
+           familyi={G\bibinitperiod},
+           given={Claire\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2d65842681824a56d329731ec1fb1a3d}{%
+           family={Holt},
+           familyi={H\bibinitperiod},
+           given={Kathryn\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b30efc449e8e55438771a889c014e90}
+      \strng{fullhash}{e44fad158ac00415e1e196d02043eced}
+      \strng{bibnamehash}{6b30efc449e8e55438771a889c014e90}
+      \strng{authorbibnamehash}{6b30efc449e8e55438771a889c014e90}
+      \strng{authornamehash}{6b30efc449e8e55438771a889c014e90}
+      \strng{authorfullhash}{e44fad158ac00415e1e196d02043eced}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Illumina {DNA} sequencing platform generates accurate but short reads, which can be used to produce accurate but fragmented genome assemblies. Pacific Biosciences and Oxford Nanopore Technologies {DNA} sequencing platforms generate long reads that can produce complete genome assemblies, but the sequencing is more expensive and error-prone. There is significant interest in combining data from these complementary sequencing technologies to generate more accurate “hybrid” assemblies. However, few tools exist that truly leverage the benefits of both types of data, namely the accuracy of short reads and the structural resolving power of long reads. Here we present Unicycler, a new tool for assembling bacterial genomes from a combination of short and long reads, which produces assemblies that are accurate, complete and cost-effective. Unicycler builds an initial assembly graph from short reads using the de novo assembler {SPAdes} and then simplifies the graph using information from short and long reads. Unicycler uses a novel semi-global aligner to align long reads to the assembly graph. Tests on both synthetic and real reads show Unicycler can assemble larger contigs with fewer misassemblies than other hybrid assemblers, even when long-read depth and accuracy are low. Unicycler is open source ({GPLv}3) and available at github.com/rrwick/Unicycler.}
+      \field{day}{8}
+      \field{issn}{1553-7358}
+      \field{journaltitle}{{PLOS} Computational Biology}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{6}
+      \field{shortjournal}{{PLOS} Computational Biology}
+      \field{shorttitle}{Unicycler}
+      \field{title}{Unicycler: Resolving bacterial genome assemblies from short and long sequencing reads}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2019}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e1005595}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1005595
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005595
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005595
+      \endverb
+      \keyw{Bacterial genomics,Chromosome pairs,Genome sequencing,Genomic libraries,Klebsiella pneumoniae,Plasmid construction,Sequence alignment,Sequence assembly tools}
+    \endentry
+    \entry{wright_english:_2010}{artwork}{}
+      \name{author}{1}{}{%
+        {{hash=16bfe6dac4dd5218540b06cd7d54506f}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Gerard\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{16bfe6dac4dd5218540b06cd7d54506f}
+      \strng{fullhash}{16bfe6dac4dd5218540b06cd7d54506f}
+      \strng{bibnamehash}{16bfe6dac4dd5218540b06cd7d54506f}
+      \strng{authorbibnamehash}{16bfe6dac4dd5218540b06cd7d54506f}
+      \strng{authornamehash}{16bfe6dac4dd5218540b06cd7d54506f}
+      \strng{authorfullhash}{16bfe6dac4dd5218540b06cd7d54506f}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{English}
+      \field{title}{English: Antibiotic targets and mechanisms of resistance.}
+      \field{urlday}{13}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Wikimedia Snapshot:/home/ericulrich/Zotero/storage/YDJ7GZKU/FileAntibiotic_resistance_mechanisms.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Antibiotic_resistance_mechanisms.jpg
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Antibiotic_resistance_mechanisms.jpg
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,11 @@
+--2019-06-13 09:52:58--  https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom
+Resolving www.ncbi.nlm.nih.gov (www.ncbi.nlm.nih.gov)... 130.14.29.110, 2607:f220:41e:4290::110
+Connecting to www.ncbi.nlm.nih.gov (www.ncbi.nlm.nih.gov)|130.14.29.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1865 (1.8K) [text/html]
+Saving to: ‘tileshop_pmc_inline.html?title=Click on image to zoom’
+
+                 tileshop_pmc_inli   0%[                                                                 ]       0  --.-KB/s               tileshop_pmc_inline.html?title=Cli 100%[================================================================>]   1.82K  --.-KB/s    in 0s      
+
+2019-06-13 09:52:59 (22.7 MB/s) - ‘tileshop_pmc_inline.html?title=Click on image to zoom’ saved [1865/1865]
+

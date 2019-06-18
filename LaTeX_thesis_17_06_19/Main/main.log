@@ -1,0 +1,2155 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  18 JUN 2019 15:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+   defining Unicode char U+2009 (decimal 8201)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count91
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\csq@reset=\count92
+\csq@gtype=\count93
+\csq@glevel=\count94
+\csq@qlevel=\count95
+\csq@maxlvl=\count96
+\csq@tshold=\count97
+\csq@ltx@everypar=\toks17
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks19
+\float@box=\box27
+\@float@everytoks=\toks20
+\@floatcapt=\box28
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen114
+\ttl@minus=\dimen115
+\ttl@toksa=\toks21
+\titlewidth=\dimen116
+\titlewidthlast=\dimen117
+\titlewidthfirst=\dimen118
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/ttlps.def
+File: ttlps.def 2016/03/15
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip45
+\f@nch@O@elh=\skip46
+\f@nch@O@erh=\skip47
+\f@nch@O@olh=\skip48
+\f@nch@O@orh=\skip49
+\f@nch@O@elf=\skip50
+\f@nch@O@erf=\skip51
+\f@nch@O@olf=\skip52
+\f@nch@O@orf=\skip53
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/textgreek/textgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2015/12/07 v0.13.1 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+File: lgrenc.dfu 2015/08/05 1.6 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2015/08/04 v0.13 Common Greek font encoding definitions
+
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
+*}. on input line 69.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count102
+\Hy@pagecounter=\count103
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count104
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count105
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count106
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip54
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen123
+\ar@mcellbox=\box30
+\extrarowheight=\dimen124
+\NC@list=\toks22
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box31
+)
+\everycr=\toks23
+\minrowclearance=\skip57
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/texshade/texshade.sty
+Package: texshade 2018/01/17 LaTeX TeXshade (v1.25)
+
+Package `texshade', Version 1.25 of 2018/01/17.
+\structurefile=\read1
+\featurefile=\write3
+\alignfile=\read2
+\sublogofile=\read3
+\exp@rtfile=\write4
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks24
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\symalphahelix=\mathgroup6
+\loopcount=\count112
+\innerloopcount=\count113
+\outerloopcount=\count114
+\seq@count=\count115
+\killseq@count=\count116
+\seq@percent=\count117
+\res@count=\count118
+\seq@pointer=\count119
+\pos@count=\count120
+\res@perline=\count121
+\end@count=\count122
+\cons@count=\count123
+\total@count=\count124
+\temp@count=\count125
+\triple@count=\count126
+\temp@@count=\count127
+\pos@sum=\count128
+\box@width=\skip58
+\name@width=\skip59
+\box@depth=\skip60
+\width@tmp=\skip61
+\box@height=\skip62
+\number@width=\skip63
+\line@stretch=\skip64
+\center@fill=\skip65
+\arrow@width=\skip66
+\arrow@height=\skip67
+\rule@thick=\skip68
+\arrow@thick=\skip69
+\logo@height=\skip70
+\equal@width=\skip71
+\equal@tmp=\skip72
+\equal@height=\skip73
+\temp@@length=\skip74
+\vspace@legend=\skip75
+\hspace@legend=\skip76
+\bar@length=\skip77
+Package color Info: Redefining color LightCyan on input line 1671.
+Package color Info: Redefining color LightGray on input line 1705.
+Package color Info: Redefining color LightLightGray on input line 1806.
+Package color Info: Redefining color LightLightLightGray on input line 1908.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip78
+\LTright=\skip79
+\LTpre=\skip80
+\LTpost=\skip81
+\LTchunksize=\count129
+\LTcapwidth=\dimen125
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count130
+\LT@rows=\count131
+\c@LT@tables=\count132
+\c@LT@chunks=\count133
+\LT@p@ftn=\toks25
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count134
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count135
+\c@listtotal=\count136
+\c@listcount=\count137
+\c@liststart=\count138
+\c@liststop=\count139
+\c@citecount=\count140
+\c@citetotal=\count141
+\c@multicitecount=\count142
+\c@multicitetotal=\count143
+\c@instcount=\count144
+\c@maxnames=\count145
+\c@minnames=\count146
+\c@maxitems=\count147
+\c@minitems=\count148
+\c@citecounter=\count149
+\c@maxcitecounter=\count150
+\c@savedcitecounter=\count151
+\c@uniquelist=\count152
+\c@uniquename=\count153
+\c@refsection=\count154
+\c@refsegment=\count155
+\c@maxextratitle=\count156
+\c@maxextratitleyear=\count157
+\c@maxextraname=\count158
+\c@maxextradate=\count159
+\c@maxextraalpha=\count160
+\c@abbrvpenalty=\count161
+\c@highnamepenalty=\count162
+\c@lownamepenalty=\count163
+\c@maxparens=\count164
+\c@parenlevel=\count165
+\blx@tempcnta=\count166
+\blx@tempcntb=\count167
+\blx@tempcntc=\count168
+\blx@maxsection=\count169
+\blx@maxsegment@0=\count170
+\blx@notetype=\count171
+\blx@parenlevel@text=\count172
+\blx@parenlevel@foot=\count173
+\blx@sectionciteorder@0=\count174
+\blx@entrysetcounter=\count175
+\labelnumberwidth=\skip82
+\labelalphawidth=\skip83
+\biblabelsep=\skip84
+\bibitemsep=\skip85
+\bibnamesep=\skip86
+\bibinitsep=\skip87
+\bibparsep=\skip88
+\bibhang=\skip89
+\blx@bcfin=\read4
+\blx@bcfout=\write5
+\c@mincomprange=\count176
+\c@maxcomprange=\count177
+\c@mincompwidth=\count178
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count179
+\c@savedafterword=\count180
+\c@annotator=\count181
+\c@savedannotator=\count182
+\c@author=\count183
+\c@savedauthor=\count184
+\c@bookauthor=\count185
+\c@savedbookauthor=\count186
+\c@commentator=\count187
+\c@savedcommentator=\count188
+\c@editor=\count189
+\c@savededitor=\count190
+\c@editora=\count191
+\c@savededitora=\count192
+\c@editorb=\count193
+\c@savededitorb=\count194
+\c@editorc=\count195
+\c@savededitorc=\count196
+\c@foreword=\count197
+\c@savedforeword=\count198
+\c@holder=\count199
+\c@savedholder=\count266
+\c@introduction=\count267
+\c@savedintroduction=\count268
+\c@namea=\count269
+\c@savednamea=\count270
+\c@nameb=\count271
+\c@savednameb=\count272
+\c@namec=\count273
+\c@savednamec=\count274
+\c@translator=\count275
+\c@savedtranslator=\count276
+\c@shortauthor=\count277
+\c@savedshortauthor=\count278
+\c@shorteditor=\count279
+\c@savedshorteditor=\count280
+\c@labelname=\count281
+\c@savedlabelname=\count282
+\c@institution=\count283
+\c@savedinstitution=\count284
+\c@lista=\count285
+\c@savedlista=\count286
+\c@listb=\count287
+\c@savedlistb=\count288
+\c@listc=\count289
+\c@savedlistc=\count290
+\c@listd=\count291
+\c@savedlistd=\count292
+\c@liste=\count293
+\c@savedliste=\count294
+\c@listf=\count295
+\c@savedlistf=\count296
+\c@location=\count297
+\c@savedlocation=\count298
+\c@organization=\count299
+\c@savedorganization=\count300
+\c@origlocation=\count301
+\c@savedoriglocation=\count302
+\c@origpublisher=\count303
+\c@savedorigpublisher=\count304
+\c@publisher=\count305
+\c@savedpublisher=\count306
+\c@language=\count307
+\c@savedlanguage=\count308
+\c@origlanguage=\count309
+\c@savedoriglanguage=\count310
+\c@pageref=\count311
+\c@savedpageref=\count312
+\shorthandwidth=\skip90
+\shortjournalwidth=\skip91
+\shortserieswidth=\skip92
+\shorttitlewidth=\skip93
+\shortauthorwidth=\skip94
+\shorteditorwidth=\skip95
+\locallabelnumberwidth=\skip96
+\locallabelalphawidth=\skip97
+\localshorthandwidth=\skip98
+\localshortjournalwidth=\skip99
+\localshortserieswidth=\skip100
+\localshorttitlewidth=\skip101
+\localshortauthorwidth=\skip102
+\localshorteditorwidth=\skip103
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count313
+\c@textcitetotal=\count314
+\c@textcitemaxnames=\count315
+\c@biburlnumpenalty=\count316
+\c@biburlucpenalty=\count317
+\c@biburllcpenalty=\count318
+\c@smartand=\count319
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count320
+\c@bbx:relatedtotal=\count321
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 46.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 46.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 46.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 46.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: twoside 
+* h-part:(L,W,R)=(61.45795pt, 426.79134pt, 92.18695pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=702.78308pt
+* \oddsidemargin=6.2596pt
+* \evensidemargin=19.91696pt
+* \topmargin=-41.1381pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count322
+\scratchdimen=\dimen126
+\scratchbox=\box36
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen127
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring OFF on input line 46.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count328
+)
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
+
+(./main.out) (./main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+\symgns@font=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/lmr/m/n --> TS1/lmr/bx/n on input line 46.
+Package gensymb Info: Math companion symbols declared on input line 46.
+LaTeX Info: Redefining \degree on input line 46.
+LaTeX Info: Redefining \celsius on input line 46.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 46.
+LaTeX Info: Redefining \ohm on input line 46.
+Package gensymb Info: Using \textohm for \ohm on input line 46.
+Package gensymb Info: Using \textmu for \micro on input line 46.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 50.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 50.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 50.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 50.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
+.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 8.
+LaTeX Font Info:    Try loading font information for LGR+lmr on input line 10.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
+File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
+) [2
+
+])
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+
+[3]
+Chapter 1.
+[4
+
+]
+Chapter 2.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/intro
+duction.tex
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/consumption.png, id=276, 1559.00844pt x 550.98648pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/consumption.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/consumption.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/consumption.png  used on input line 8.
+(pdftex.def)             Requested size: 426.79134pt x 150.83655pt.
+ [5
+
+]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/pathogens_overview.png, id=301, 1901.1025pt x 919.435pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/pathogens_overview.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/pathogens_overview.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/pathogens_overview.png  used on input line 19.
+(pdftex.def)             Requested size: 380.21376pt x 183.88374pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/antibiotics.jpg, id=304, 427.21182pt x 301.89636pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/antibiotics.jpg Graphic file (type jpg)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/antibiotics.jpg>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/antibiotics.jpg  used on input line 27.
+(pdftex.def)             Requested size: 341.43436pt x 241.29169pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/consumption.png>] [7 </home/ericulrich/Documents/Master/Masterarbeit/LaTe
+X_thesis/Introduction/Images/pathogens_overview.png> </home/ericulrich/Document
+s/Master/Masterarbeit/LaTeX_thesis/Introduction/Images/antibiotics.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+
+ []
+
+[8] [9]
+Overfull \hbox (0.6449pt too wide) in paragraph at lines 72--72
+|[]\OT1/lmr/bx/n/17.28 Identifying mu-ta-tions de-cid-ing over re-sis-tance
+ []
+
+
+Overfull \hbox (21.52074pt too wide) in paragraph at lines 73--75
+\OT1/lmr/m/n/12 ESBL genes alone do not de-ter-mine, whether ESBL \OT1/lmr/m/it
+/12 E. coli \OT1/lmr/m/n/12 are re-sis-tant to cephalosporins
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/growth_diagram.png, id=393, 1861.95625pt x 1154.3125pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/growth_diagram.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/growth_diagram.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/growth_diagram.png  used on input line 81.
+(pdftex.def)             Requested size: 213.39566pt x 132.294pt.
+[10] [11 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduct
+ion/Images/growth_diagram.png>]) [12]
+Chapter 3.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/materialsandmethods.tex
+Overfull \hbox (5.67487pt too wide) in paragraph at lines 1--1
+\OT1/lmr/bx/n/17.28 mu-lated by evolv-ing re-sis-tance against ce-fepim| 
+ []
+
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/pipeline.png, id=432, 2233.34375pt x 600.2425pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pipeline.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pipeline.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/pipeline.png  used on input line 19.
+(pdftex.def)             Requested size: 446.66084pt x 120.04637pt.
+
+Overfull \hbox (19.8695pt too wide) in paragraph at lines 19--20
+[][] 
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 20--20
+[]\OT1/lmr/m/n/12 Figure 3.1: []Pipe line used for the iden-ti-fi-ca-tion of SN
+Ps and af-fected
+ []
+
+[14 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pipeline.png>] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+[16] [17]
+Overfull \hbox (12.44572pt too wide) in paragraph at lines 74--74
+|[]\OT1/lmr/bx/n/17.28 Assembling and han-dling pro-ce-dure of the mor-
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/setup_annotated_inksacpe.png, id=499, 540.5796pt x 360.3864pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/setup_annotated_inksacpe.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/setup_annotated_inksacpe.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/setup_annotated_inksacpe.png  used on input li
+ne 80.
+(pdftex.def)             Requested size: 256.0774pt x 170.7179pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/vial.JPG, id=500, 1129.88983pt x 753.25989pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/vial.JPG Graphic file (type jpg)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/vial.JPG>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/vial.JPG  used on input line 81.
+(pdftex.def)             Requested size: 170.71393pt x 113.80017pt.
+[18 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/setup_annotated_inksacpe.png> </home/ericulrich/Documents/Master/M
+asterarbeit/LaTeX_thesis/Materialsandmethods/Images/vial.JPG>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/OD_setup.png, id=511, 2028.57875pt x 749.80125pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/OD_setup.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/OD_setup.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/OD_setup.png  used on input line 97.
+(pdftex.def)             Requested size: 304.27368pt x 112.46533pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/pump_blocks.JPG, id=512, 1129.88983pt x 753.25989pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pump_blocks.JPG Graphic file (type jpg)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pump_blocks.JPG>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/pump_blocks.JPG  used on input line 104.
+(pdftex.def)             Requested size: 255.35213pt x 170.23476pt.
+
+Underfull \vbox (badness 6510) has occurred while \output is active []
+
+ [19 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/OD_setup.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/piezo.png, id=525, 1194.4625pt x 908.39375pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/piezo.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/piezo.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/piezo.png  used on input line 120.
+(pdftex.def)             Requested size: 119.45325pt x 90.8447pt.
+ [20 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pump_blocks.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+
+ []
+
+[21 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/piezo.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/flowchart.png, id=548, 1425.325pt x 1122.1925pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/flowchart.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/flowchart.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/flowchart.png  used on input line 142.
+(pdftex.def)             Requested size: 356.33038pt x 280.54744pt.
+
+Underfull \vbox (badness 3815) has occurred while \output is active []
+
+ [22 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/flowchart.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/feedback.png, id=558, 1962.33125pt x 1485.55pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/feedback.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/feedback.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/feedback.png  used on input line 162.
+(pdftex.def)             Requested size: 255.11201pt x 193.12828pt.
+
+Overfull \hbox (39.29848pt too wide) in paragraph at lines 169--174
+\OT1/lmr/m/n/12 For cal-i-brat-ing the pumps the func-tion cal-i-brate[]pumps f
+rom the mor-bido-stat[]experiment.py
+ []
+
+[23] [24 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduct
+ion/Images/feedback.png>]
+Overfull \hbox (4.01094pt too wide) in paragraph at lines 198--198
+|[]\OT1/lmr/bx/n/17.28 Experimental pro-ce-dure for cul-tur-ing with the
+ []
+
+[25]
+Overfull \hbox (3.1074pt too wide) in paragraph at lines 215--215
+|[]\OT1/lmr/bx/n/14.4 Testing the feed-back from the con-tin-u-ous cul-ture mod
+e| 
+ []
+
+[26]) [27]
+Chapter 4.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/results.te
+x
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/181
+205_panXtree_overview.png, id=604, 770.88pt x 1346.02875pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/181205_panXtree_overview.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/181205_panXtree_overview.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/181205_panXtree_overview.png  used on input line 8.
+(pdftex.def)             Requested size: 154.17326pt x 269.20097pt.
+
+Overfull \hbox (24.18954pt too wide) in paragraph at lines 20--47
+[][] 
+ []
+
+[28
+
+]
+Overfull \hbox (12.9177pt too wide) in paragraph at lines 56--71
+[][] 
+ []
+
+[29 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/181205_panXtree_overview.png>] [30]
+Overfull \hbox (667.17592pt too wide) in paragraph at lines 134--135
+\OT1/lmr/m/n/12 was found in the bind-ing site of the \LGR/lmr/m/n/12 s\OT1/lmr
+/m/n/12 70 tran-scrip-tion fac-tor.                                            
+                                                                               
+                                            
+ []
+
+[31] (pat16fepa.aln:
+<Sequence name `top' was not found - using first sequence.>
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 143
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<Seqtype guess: nucleotide> .
+LaTeX Font Info:    Try loading font information for OT1+sf on input line 143.
+LaTeX Font Info:    No file OT1sf.fd. on input line 143.
+
+
+LaTeX Font Warning: Font shape `OT1/sf/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 143.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 143.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 143
+.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) . . )
+Overfull \hbox (62.75372pt too wide) in paragraph at lines 147--170
+[][] 
+ []
+
+
+Overfull \hbox (23.69061pt too wide) in paragraph at lines 177--186
+[][] 
+ []
+
+[32]
+Overfull \hbox (30.88368pt too wide) in paragraph at lines 193--202
+[][] 
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/cov
+erage_pat33.png, id=655, 867.24pt x 968.418pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/coverage_pat33.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/coverage_pat33.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/coverage_pat33.png  used on input line 213.
+(pdftex.def)             Requested size: 260.17401pt x 290.52763pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/sam
+ple0_plasmid.png, id=656, 867.24pt x 722.7pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/sample0_plasmid.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/sample0_plasmid.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/sample0_plasmid.png  used on input line 219.
+(pdftex.def)             Requested size: 213.39566pt x 177.82945pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/sam
+ple0_chrom.png, id=657, 867.24pt x 722.7pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/sample0_chrom.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/sample0_chrom.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/sample0_chrom.png  used on input line 220.
+(pdftex.def)             Requested size: 213.39566pt x 177.82945pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 219--221
+[][] [] 
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+12s0.png, id=660, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat12s0.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat12s0.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat12s0.png  used on input line 227.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+12s1.png, id=661, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat12s1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat12s1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat12s1.png  used on input line 228.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+16s0.png, id=662, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat16s0.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat16s0.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat16s0.png  used on input line 230.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+16s1.png, id=663, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat16s1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat16s1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat16s1.png  used on input line 231.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+16s2.png, id=664, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat16s2.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat16s2.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat16s2.png  used on input line 232.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+24s0.png, id=665, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat24s0.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat24s0.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat24s0.png  used on input line 234.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+24s1.png, id=666, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat24s1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat24s1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat24s1.png  used on input line 235.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+24s2.png, id=667, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat24s2.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat24s2.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat24s2.png  used on input line 236.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+25s0.png, id=668, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat25s0.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat25s0.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat25s0.png  used on input line 238.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+25s1.png, id=669, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat25s1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat25s1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat25s1.png  used on input line 239.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+33s0.png, id=670, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat33s0.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat33s0.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat33s0.png  used on input line 240.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat
+33s1.png, id=671, 216.81pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat33s1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat33s1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat33s1.png  used on input line 241.
+(pdftex.def)             Requested size: 106.69783pt x 106.69766pt.
+
+Underfull \vbox (badness 7944) has occurred while \output is active []
+
+ [33]
+[34 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/coverage_pat33.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thes
+is/Results/Images/sample0_plasmid.png> </home/ericulrich/Documents/Master/Maste
+rarbeit/LaTeX_thesis/Results/Images/sample0_chrom.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/gro
+w_curth.png, id=690, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/grow_curth.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/grow_curth.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/grow_curth.png  used on input line 251.
+(pdftex.def)             Requested size: 213.39566pt x 128.03918pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_1.png, id=693, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_1.png  used on input line 257.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_2.png, id=694, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_2.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_2.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_2.png  used on input line 258.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_3.png, id=695, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_3.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_3.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_3.png  used on input line 259.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_4.png, id=696, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_4.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_4.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_4.png  used on input line 260.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_5.png, id=697, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_5.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_5.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_5.png  used on input line 261.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_6.png, id=698, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_6.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_6.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_6.png  used on input line 262.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_7.png, id=699, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_7.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_7.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_7.png  used on input line 263.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_8.png, id=700, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_8.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_8.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_8.png  used on input line 264.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_9.png, id=701, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_9.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_9.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_9.png  used on input line 265.
+(pdftex.def)             Requested size: 140.84192pt x 84.50592pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_8_zoom.png, id=704, 361.35pt x 216.81pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_8_zoom.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_8_zoom.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_8_zoom.png  used on input line 271.
+(pdftex.def)             Requested size: 213.39566pt x 128.03918pt.
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/feedback.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/feedback.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/feedback.png  used on input line 272.
+(pdftex.def)             Requested size: 213.39566pt x 161.52959pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 271--273
+[][] [] 
+ []
+
+[35 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/pat12s0.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Resu
+lts/Images/pat12s1.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/pat16s0.png> </home/ericulrich/Documents/Master/Masterarbe
+it/LaTeX_thesis/Results/Images/pat16s1.png> </home/ericulrich/Documents/Master/
+Masterarbeit/LaTeX_thesis/Results/Images/pat16s2.png> </home/ericulrich/Documen
+ts/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat24s0.png> </home/ericulri
+ch/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat24s1.png> </hom
+e/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/pat24s2.
+png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/pat25s0.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Res
+ults/Images/pat25s1.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_
+thesis/Results/Images/pat33s0.png> </home/ericulrich/Documents/Master/Masterarb
+eit/LaTeX_thesis/Results/Images/pat33s1.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/01_
+morb_exp.png, id=725, 1850.112pt x 969.8634pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/01_morb_exp.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/01_morb_exp.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/01_morb_exp.png  used on input line 279.
+(pdftex.def)             Requested size: 426.79134pt x 223.72984pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/grow_curth.png>] [37 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_th
+esis/Results/Images/vial_1.png> </home/ericulrich/Documents/Master/Masterarbeit
+/LaTeX_thesis/Results/Images/vial_2.png> </home/ericulrich/Documents/Master/Mas
+terarbeit/LaTeX_thesis/Results/Images/vial_3.png> </home/ericulrich/Documents/M
+aster/Masterarbeit/LaTeX_thesis/Results/Images/vial_4.png> </home/ericulrich/Do
+cuments/Master/Masterarbeit/LaTeX_thesis/Results/Images/vial_5.png> </home/eric
+ulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/vial_6.png> </
+home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/vial_
+7.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Ima
+ges/vial_8.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Re
+sults/Images/vial_9.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_
+thesis/Results/Images/vial_8_zoom.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/02_
+morb_exp.png, id=747, 1850.112pt x 969.8634pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/02_morb_exp.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/02_morb_exp.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/02_morb_exp.png  used on input line 285.
+(pdftex.def)             Requested size: 426.79134pt x 223.72984pt.
+) [38 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Imag
+es/01_morb_exp.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesi
+s/Results/Images/02_morb_exp.png>]
+Chapter 5.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Discussion/discuss
+ion.tex) [39
+
+]
+Chapter 6.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/supp
+lementary.tex [40
+
+] [41]) [42]
+Chapter 7.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declar
+ation.tex) [43
+
+]
+Chapter 8.
+[44
+
+]
+Overfull \hbox (17.58096pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
+uenc-ing". In: \OT1/lmr/m/it/12 bioarchive
+ []
+
+
+Overfull \hbox (97.73674pt too wide) in paragraph at lines 79--79
+\OT1/lmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
+empfen / antibiotikaresistenzen /
+ []
+
+
+Overfull \hbox (7.1313pt too wide) in paragraph at lines 79--79
+[]\OT1/lmr/m/it/12 Babraham Bioin-for-mat-ics - Trim Ga-lore! \OT1/lmr/m/sc/12 
+url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / www . bioinformatics .
+ []
+
+
+Overfull \hbox (17.9617pt too wide) in paragraph at lines 79--79
+\OT1/lmtt/m/n/12 / / www . sciencedirect . com / topics / neuroscience / beta -
+[] lactam -[] antibiotics$[]
+ []
+
+[45
+
+]
+
+Package biblatex Warning: No driver for entry type 'artwork'.
+(biblatex)                Using fallback driver on input line 78.
+
+[46]
+Overfull \hbox (19.86232pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/n/12 Burrows-Wheeler trans-form". In: \OT1/lmr/m/it/12 Bioin-for-mat
+-ics (Ox-ford, Eng-land) \OT1/lmr/m/n/12 25.14 (July 15,
+ []
+
+
+Overfull \hbox (16.9617pt too wide) in paragraph at lines 79--79
+\OT1/lmtt/m/n/12 org / sites / default / files / Modelling % 20the % 20antibiot
+ic % 20development %
+ []
+
+[47]
+Overfull \hbox (6.30199pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/n/12 short sam-ples in next-generation se-quenc-ing". In: \OT1/lmr/m
+/it/12 Sci-en-tific Re-ports \OT1/lmr/m/n/12 8.1 (July 19,
+ []
+
+
+Overfull \hbox (7.37216pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/it/12 Genome As-sem-bly Im-prove-ment\OT1/lmr/m/n/12 . \OT1/lmr/m/sc
+/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / journals . plos . org 
+/ plosone /
+ []
+
+
+Overfull \hbox (4.35774pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/it/12 te-ria us-ing sin-gle molecule se-quenc-ing | bioRxiv\OT1/lmr/
+m/n/12 . \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / 
+www . biorxiv .
+ []
+
+
+Package biblatex Warning: No driver for entry type 'software'.
+(biblatex)                Using fallback driver on input line 78.
+
+
+Overfull \hbox (2.20616pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/it/12 mann/prokka\OT1/lmr/m/n/12 . original-date: 2014-03-26T07:19:2
+3Z. Apr. 11, 2019. \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 ht
+tps :
+ []
+
+
+Overfull \hbox (42.16171pt too wide) in paragraph at lines 79--79
+[]$\OT1/lmtt/m/n/12 https : / / www . bag . admin . ch / bag / de / home / kran
+kheiten / infektionskrankheiten -[]
+ []
+
+
+Overfull \hbox (25.1367pt too wide) in paragraph at lines 79--79
+\OT1/lmtt/m/n/12 bekaempfen / antibiotikaresistenzen / wie -[] viele -[] antibi
+otika -[] verbrauchen -[]
+ []
+
+
+Overfull \hbox (9.1788pt too wide) in paragraph at lines 79--79
+[]\OT1/lmr/m/n/12 F Tis-sot et al. \  En-ter-obac-te-ri-aceae mit Bre-it-spek-t
+rum Beta-Laktamasen (ESBL)
+ []
+
+[48]
+Overfull \hbox (7.48099pt too wide) in paragraph at lines 79--79
+\OT1/lmr/m/n/12 short and long se-quenc-ing reads". In: \OT1/lmr/m/it/12 PLOS C
+om-pu-ta-tional Bi-ol-ogy \OT1/lmr/m/n/12 13.6 (June 8,
+ []
+
+
+Package biblatex Warning: No driver for entry type 'artwork'.
+(biblatex)                Using fallback driver on input line 78.
+
+[49]
+Chapter 9.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+[50
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 2A8FB28F07DB4AFBD7DA3795BB6857D0;3828
+(rerunfilecheck)             After:  3145AE2AD46377151F8934201376C07E;3865.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21960 strings out of 492616
+ 352125 string characters out of 6128968
+ 915044 words of memory out of 5000000
+ 25342 multiletter control sequences out of 15000+600000
+ 87267 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 143i,15n,57p,1891b,2011s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/loca
+l/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/local/texlive/20
+18/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/
+dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/l
+m-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grmn12
+00.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grxn1200.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grxn1728.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/l
+mr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dis
+t/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
+e1/public/lm/lmtt12.pfb>
+Output written on main.pdf (50 pages, 16983960 bytes).
+PDF statistics:
+ 1021 PDF objects out of 1200 (max. 8388607)
+ 861 compressed objects within 9 object streams
+ 210 named destinations out of 1000 (max. 500000)
+ 590 words of extra memory for PDF output out of 10000 (max. 10000000)
+
