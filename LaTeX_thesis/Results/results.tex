@@ -249,26 +249,25 @@ Only three mutations were found for the sample series of patient 33, they are sh
 \end{table}
 \subsection{Copynumbers of ESBL genes}
 Next to the reference genomes we also hybrid-assemblied and annotated the other samples of the selected sample series. This allowed us to see, if the copy numbers of ESBL genes increased while resistance evolved. Which ESBL genes where present on a plasmid or chromosomally in which sample is shown in Figure \ref{figure:esbl_genes}. For four out of five patients the copy number remained very similar. Sometimes the ESBL gene was integrated in the chromosome or an ESBL gene was replaced by a different ESBL gene. Only the sample series of patient 33 showed an increase of ESBL genes while resistance evolved. Sample 0 of patient 33 has 9 copies of CTX-M-1 while sample 1 only had one. 
-\begin{figure}[H]
-	\includegraphics[width=.25\textwidth]{pat12s0.png}
-	\includegraphics[width=.25\textwidth]{pat12s1.png}	
-	
-	\includegraphics[width=.25\textwidth]{pat16s0.png}
-	\includegraphics[width=.25\textwidth]{pat16s1.png}
-	\includegraphics[width=.25\textwidth]{pat16s2.png}
-	
-	\includegraphics[width=.25\textwidth]{pat24s0.png}
-	\includegraphics[width=.25\textwidth]{pat24s1.png}
-	\includegraphics[width=.25\textwidth]{pat24s2.png}
-	
-	\includegraphics[width=.25\textwidth]{pat25s0.png}\hfill	
-	\includegraphics[width=.25\textwidth]{pat25s1.png}\hfill
-	\includegraphics[width=.25\textwidth]{pat33s0.png}\hfill
-	\includegraphics[width=.25\textwidth]{pat33s1.png}\hfill
-	
-	\caption{Copy numbers of ESBL genes. A-B: Copy numbers for patient 12 stayed the same. C-E: One CTX-M-1 was integrated in the genome for sample 1. F-H: Sample 2 lost CTX-M-97 but picked up one copy of TEM. I-J: Copy numbers for patient 25 stayed the same. K-L: Sample 1 has 8 more copies of CTX-M-1.}
-	\label{figure:esbl_genes}
-\end{figure}
+\begin{table}[]
+	\begin{tabularx}{\linewidth}{|ccLLL|}
+		\hline
+		Patient & Sample & \multicolumn{3}{l|}{Copies of genes coding for textbeta-lactamase} \\
+		&        & CTX-M-1                & OXA-1                & TEM                \\ \hline
+		12      & 0      & 1                      & 0                    & 0                  \\ \hline
+		12      & 1      & 1                      & 0                    & 0                  \\ \hline
+		16      & 0      & 2                      & 0                    & 1                  \\ \hline
+		16      & 1      & 2                      & 0                    & 1                  \\ \hline
+		16      & 2      & 1                      & 0                    & 1                  \\ \hline
+		24      & 0      & 1                      & 0                    & 2                  \\ \hline
+		24      & 1      & 1                      & 0                    & 2                  \\ \hline
+		24      & 2      & 0                      & 0                    & 3                  \\ \hline
+		25      & 0      & 1                      & 1                    & 0                  \\ \hline
+		25      & 1      & 1                      & 1                    & 0                  \\ \hline
+		33      & 0      & 9                      & 0                    & 1                  \\ \hline
+		33      & 0      & 1                      & 1                    & 0                  \\ \hline		
+	\end{tabularx}
+\end{table}
 Studying the short-reads of sample 0 mapped to the reference genome from sample 1 revealed that the coverage for sample 0 was very high for a region of 17 kilo base-pairs (kbp). This increased coverage, the genes located within this region and the GC-content is shown in Figure \ref{figure:coverage}. The gene coding for CTX-M-1 is within this 17 kbp region. This confirms that the copy number of the gene coding for CTX-M-1 is much higher in sample 0.
 
 \begin{figure}[H]
@@ -279,17 +278,65 @@ Studying the short-reads of sample 0 mapped to the reference genome from sample 
 \newpage
 \newpage
 \section{Morbidostat experiments}
+Table \ref{table:vial_modes} shows which ESBL \textit{E. coli} strain was cultured in which vial with which mode. 
+\begin{table}
+	\begin{tabular}{|c c c|}	
+		\hline
+		Vial & Strain & Mode \\
+		\hline
+		1 & pEU26\_OXA & continuous \\
+		\hline
+		2 & pEU26\_OXA & continuous \\
+		\hline
+		3 & pEU23\_OXA & continuous \\
+		\hline
+		4 & pEU23\_OXA & continuous \\
+		\hline
+		5 & pEU23\_OXA & continuous \\
+		\hline
+		8 & pEU26\_OXA & continuous \\
+		\hline
+		9 & pEU23\_OXA & fixed OD \\
+		\hline
+	\end{tabular}
+	\quad
+	\begin{tabular}{|c c c|}	
+		\hline
+		Vial & Plasmid & Mode \\
+		\hline
+		1 & pEU26\_OXA & continuous \\
+		\hline
+		2 & pEU23\_OXA & continuous \\
+		\hline
+		3 & pEU22\_CTX-M-1 & continuous \\
+		\hline
+		4 & pEU22\_CTX-M-1 & continuous \\
+		\hline
+		5 & pEU22\_CTX-M-1 & continuous \\
+		\hline
+		7 & K12 & continuous \\
+		\hline
+		8 & pEU22\_CTX-M-1 & fixed OD \\
+		\hline
+		9 & pEU26\_OXA & fixed OD \\
+		\hline
+		10 & pEU26\_OXA & fixed OD \\
+		\hline
+	\end{tabular}
+	\caption{Left table: Experiment 01, right table: Experiment 02}
+	\label{table:vial_modes}
+\end{table}
 \subsection{Contamination analysis}
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|LLLLL|}
 		\hline
-		Stocked strain    & Total reads & Reads mapped to \textit{Bacillus cereus} & Reads mapped to \textit{E. coli} & \% of reads mapped to \textit{Bacillus cereus} \\ \hline
+		Stocked strain    & Total reads & Reads mapped to \textit{Bacillus cereus} & Reads mapped to \textit{E. coli} & \% of reads mapped to \textit{Bacillus cereus ATCC 14579} \\ \hline
 		pEU22\_CTX & 3810442     & 16496                                                     & 3803789                                           & 0.43                                                            \\ \hline
 		pEU23\_OXA & 4329090     & 18499                                                     & 4322708                                           & 0.43                                                            \\ \hline
 		pEU26\_OXA & 4040571     & 17629                                                     & 4036167                                           & 0.44                                                            \\ \hline
 		K-12 MG 1655      & 4939319     & 21902                                                     & 4931214                                           & 0.44                                                            \\ \hline
 	\end{tabularx}
-	\caption{Illumina short-reads from every stock were mapped to a \textit{Bacillus cereus} genome from NCBI \cite{noauthor_bacillus_nodate} and the \textit{E.coli} reference genome produced with  hybrid-assembling.}
+	\caption{Illumina reads from every stock were mapped to a \textit{Bacillus cereus} genome from NCBI \cite{noauthor_bacillus_nodate} and the \textit{E.coli} reference genome produced with  hybrid-assembling.}
 	\label{table:bacillus_reads}
 \end{table}
 \begin{figure}
@@ -297,11 +344,11 @@ Studying the short-reads of sample 0 mapped to the reference genome from sample 
 \caption{Alignment of short reads from pEU23\_OXA to the \textit{Bacillus cereus}. The reads map with a few SNPs which are colored. The reads also don't overlap.}
 \label{figure:bacillus_reads}
 \end{figure}
-As visible in Table \ref{table:bacillus_reads} around 0.44 \% of all Illumina short-reads map to \textit{Bacillus cereus}. In Figure \ref{figure:bacillus_reads} one region of an alignment of the Illumina short-reads to the \textit{Bacillus cereus} genome is shown. We could see that those reads only map to very certain regions of the genome without overlapping and with a variation of a few bases. Because the reads are not overlapping and they don't map with an identity of 100 \% the stocks were not contaminated. Also the hybrid-assembly of the reference genome did not show any contigs with \textit{Bacillus cereus} sequences.
-This means that around 0.44 \% of the plasmid-stocks map to conserved regions of the \textit{Bacillus cereus} genome. Therefore we expect a similar outcome for the samples from the morbidostat which were not contaminated. 
+Table \ref{table:bacillus_reads} shows how many Illumina reads mapped to \textit{Bacillus cereus ATCC 14579} and to the ESBL \textit{E. coli} reference genome produced with hybrid-assembling. 
+Around 0.44 \% of all Illumina reads map to \textit{Bacillus cereus ATCC 14579}. In Figure \ref{figure:bacillus_reads} one region of an alignment of the Illumina reads to the \textit{Bacillus cereus} genome is shown. We could see that Illumina reads only map to very certain regions of the genome of \textit{Bacillus cereus} without overlapping and with a variation of a few bases. Because the reads are not overlapping and they don't map with an identity of 100 \% the stocks were not contaminated. Also the hybrid-assembly of the reference genome did not show any contigs with \textit{Bacillus cereus} sequences.
 
-The outcome of mapping the Illumina shor-reads from the morbidostat samples to the \textit{Bacillus cereus} reference genome and the \textit{E. coli} reference genome of the sample is shown in Table \ref{table:bacillus_reads_samples}.
-12 samples were not contaminated and 9 were pretty heavily contaminated.
+The outcome of mapping the Illumina reads to \textit{Bacillus cereus} and ESBL \textit{E. coli} for the morbidostat samples is shown in Table \ref{table:bacillus_reads_samples}. Looking at the percentage of how many reads map to \textit{Bacillus cereus} showed that two groups exist. Ether 60 \% or more, implying that the samples were contaminated, or only 0.48 \%  map to \textit{Bacillus cereus}. From all morbidostat samples 12 samples had fewer reads than 0.48 \% and were not contaminated. 
+
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|LccLLLL|}
 		\hline
@@ -328,13 +375,39 @@ The outcome of mapping the Illumina shor-reads from the morbidostat samples to t
 		02         & 9    & 1      & 4182681     & 18487                           & 4176477                 & 0.44                                 \\ \hline
 		02         & 10   & 1      & 3809536     & 2576863                         & 136340                  & 67.64                                \\ \hline
 	\end{tabularx}
-	\caption{Illumina short-reads from every morbidostat sample mapped to to a \textit{Bacillus cereus} from NCBI \cite{noauthor_bacillus_nodate} and the \textit{E.coli} reference genome produced with  hybrid-assembling.}
+	\caption{Illumina reads from every morbidostat sample mapped to to a \textit{Bacillus cereus} from NCBI \cite{noauthor_bacillus_nodate} and the \textit{E.coli} reference genome produced with  hybrid-assembling.}
 	\label{table:bacillus_reads_samples}
 \end{table}
-The identified SNPs and affected proteins are shown for every vial with samples which were not contaminated.
-\subsection{Experiment 01}
+
+\subsection{Grow curves and injected concentrations for cultures grown with the morbidostat}
+\begin{figure}
+	\includegraphics[width=0.5\textwidth]{01_vial_3.png}
+	\includegraphics[width=0.5\textwidth]{01_vial_10.png}
+	\caption{Grow curves and cefepime concentration in the vials which were not contaminated from experiment 01.}
+	\label{figure:01_vials}
+\end{figure}
+
+\begin{figure}	
+	\includegraphics[width=0.5\textwidth]{02_vial_1.png}
+	\includegraphics[width=0.5\textwidth]{02_vial_3.png}
+	\includegraphics[width=0.5\textwidth]{02_vial_4.png}
+	\includegraphics[width=0.5\textwidth]{02_vial_5.png}
+	\includegraphics[width=0.5\textwidth]{02_vial_8.png}
+	\includegraphics[width=0.5\textwidth]{02_vial_9.png}	
+	\caption{Grow curves and cefepime concentration in the vials which were not contaminated from experiment 01.}
+	\label{figure:02_vials}
+\end{figure}
+Figure \ref{figure:01_vials} and Figure \ref{figure:02_vials} show the recorded ODs and the the cefepime concentration in the vials from the morbidostat experiment 01 (Figure \ref{figure:01_vials}) and 02 (Figure \ref{figure:02_vials}. From both experiments only the vials with no contamination were shown. After 45 hours 200 \textmu of the cell suspensions were transferred into a new vial with 18 mL diluted media. This is causing the abrupt drop of ODs. In vial 3 from the 01 experiment the OD measurements wher very noisy at the beginning which was caused by an air cone coming from high stirring with the magnetic stirrer. After 20 hours the stirring was reduced which eliminated the noise. For vial 10 the mode was set to record growth rate instead of fixed OD. The mode was changed to fixed OD after 15 hours. 
+In general the feedback worked really well. The right Figure \ref{figure:vial_3_area} shows the first 45 hours for vial 3 from experiment 01. Drug injection took place after the drug\_dilution\_threshold was reached. After that the cefepime concentration was continuously increased until the cells started to die. The cefepime concentration which was necessary to kill the majority of the cells was stored. Then the feedback diluted the cultures with media unitl half of the deadly concentration was reached. After that no injections took place until the culture started to grow again. The result of the feedback was, that the OD was kept pretty steady but the cefepime concentration continuously increased. The deadly cefepime concentration after 40 hours of culturing was already four fold higher than at the beginning. 
+\begin{figure}
+	\includegraphics[width=0.5\textwidth]{vial_3_area.png}
+	\includegraphics[width=0.5\textwidth]{feedback.png}
+	\caption{Left: First 45 hours from vial 3 of experiment 02. Right: Feedback algorithm deciding over drug injection.}
+	\label{figure:vial_3_area}
+\end{figure}
+\subsection{SNPs of experiment 01}
 \subsubsection{Vial 3}
-No SNPs were found for this vial.
+No SNPs were found for vial 3.
 \subsubsection{Vial 10}
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|cccLL|}
@@ -353,7 +426,7 @@ No SNPs were found for this vial.
 	
 	\end{tabularx}
 \end{table}
-\subsection{Experiment 02}
+\subsection{SNPs of experiment 02}
 \subsubsection{Vial 1}
 No SNPs were found for this vial.
 \subsubsection{Vial 3}

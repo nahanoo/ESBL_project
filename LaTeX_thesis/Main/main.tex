@@ -8,8 +8,8 @@
 \usepackage{graphicx}
 \usepackage{float}
 \graphicspath{{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/}}
-\usepackage[pagestyles]{titlesec}
-\usepackage{fancyhdr}
+
+\usepackage{refcheck}
 \usepackage{textgreek}
 \usepackage{hyperref}
 \usepackage{gensymb}
@@ -26,11 +26,11 @@
 
 \bibliographystyle{unsrt}
 
-
+\usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead{}
-\fancyhead[LO,LE]{\thechapter. \leftmark}
-\fancyhead[RO,RE]{\thesection. \rightmark}
+\fancyhead[LO,LE]{\leftmark}
+%\fancyhead[RO,RE]{\rightmark}
 \fancyfoot{}
 \fancyfoot[LO,LE]{Eric Ulrich}
 \fancyfoot[CO,CE]{\thepage}
@@ -45,20 +45,19 @@
 \author{Eric Ulrich}
 \date{\today}
 
-\usepackage[backend=biber,style=numeric,citestyle=numeric]{biblatex}
+\usepackage[backend=biber,sorting=none,style=numeric,citestyle=numeric]{biblatex}
 \addbibresource{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/bibliography.bib}
 \begin{document}
 
 
 \maketitle
 
-\pagestyle{empty} %hide footer
+
 \tableofcontents
 
 
 \chapter{Abstract}
 
-asdfsdaf
 
 \chapter{Introduction}
 
