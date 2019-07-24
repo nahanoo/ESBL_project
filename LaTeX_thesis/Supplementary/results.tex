@@ -1,19 +1,17 @@
-This chapter presents the results of this work. SNPs found in isolate series sampled from patients at the University Hospital of Basel are presented with available annotation. Furthermore, we demonstrate that the assembled morbidostat is very suitable for experimentally evolve emerged resistance to cefepime with ESBL \textit{E. coli}. We also show SNPs in ESBL \textit{E. coli} strains potentially resulting from culturing with high antibiotic pressure.
-\section{Identifying SNPs in ESBL \textit{E. coli} isolates series with changing cefepime and ceftazidime susceptibility}
-First we present the phylogenetic tree which we considered in order to ensure that all isolates of a series were the same strain and show which isolates were selected for our analysis. Next we show which isolates of the series were chosen as reference and as a last step we show identified SNPs compared to the reference. 
-\subsection{Selection of isolate series suitable for our analysis}
-\begin{figure}
+\section{Analyzing ESBL E. coli isolates from patients of the University hospital Basel}
+\subsection{Selection of samples suitable for our analysis}
+The phylogenetic tree of all samples is shown in Figure \ref{figure:panX}. This tree revealed that many patients were infected with different ESBL \textit{E. coli} strains over time suggesting reinfection rather than in-patient evolution. This was visible in the tree when samples of one patient mapped on different branches. Interestingly some samples from different patients mapped on the same branch which suggests that those patients were infected from the same outbreak. The selected patients and the MICs of their ESBL \textit{E. coli} samples is shown in Table \ref{table:samples}.
+
+\begin{figure}[H]
 	\includegraphics[scale=0.2]{181205_panXtree_overview.png}
-	\caption{Phylogenetic tree built for every ESBL \textit{E. coli} isolate}
+	\caption{Phylogenic tree built for every ESBL \textit{E. coli} sample}
 	\label{figure:panX}
 \end{figure}
-We only included isolate series in our analysis with a significant change of the MICs over the sampling period and where all the isolates from a series were the same ESBL \textit{E. coli}. To ensure strain identity within a series we performed phylogenetic analysis with all isolates with panX \cite{ding_panx:_2018}.    
-The phylogenetic tree of all isolates is shown in Figure \ref{figure:panX}. This tree revealed that many patients were infected with different ESBL \textit{E. coli} strains over time, suggesting reinfection rather than in-patient evolution. This is visible in the tree where isolates of one patient mapped on different branches. Interestingly some isolates from different patients mapped on the same branch which suggest that those patients were infected from the same outbreak. \\
-We determined a change of the MICs as significant, if the MIC for cefepime increased at least by a factor of three. Applying the criteria of strain identity and significant change of MIC over the sample period, five isolate series were left over. Those isolates and their MICs are shown in Table \ref{table:samples}.
-\begin{table}
+
+\begin{table}[H]
 	\begin{tabularx}{\textwidth}{|cccLL|}
 		\hline
-		Patient                   & Isolate                   & Isolate date                     & MIC cefepime {[}\textmu g/ml{]} & MIC ceftazidime {[}\textmu g/ml{]} \\ \hline
+		Patient                   & Sample                   & Sample date                     & MIC cefepim {[}\textmu g/ml{]} & MIC ceftazidime {[}\textmu g/ml{]} \\ \hline
 		\rowcolor[HTML]{FFCE93} 
 		{\color[HTML]{000000} 12} & {\color[HTML]{000000} 0} & {\color[HTML]{000000} 09/09/14} & {\color[HTML]{000000} 4}                      & {\color[HTML]{000000} 0.75}                       \\
 		& 1                        & 05/12/14                        & 12                                            & 2                                                 \\ \hline
@@ -32,33 +30,32 @@ We determined a change of the MICs as significant, if the MIC for cefepime incre
 		\rowcolor[HTML]{FFCE93} 
 		& 1                        & 29/01/15                        & 1                                             & 1.5                                               \\ \hline
 	\end{tabularx}
-	\caption{Selected patients and the MIC of cefepime and ceftazidime for their ESBL \textit{E. coli} isolates. Isolates highlighted in orange were chosen as reference genomes.}
+	\caption{Selected patients and the MIC of cefepim and ceftazidime for their ESBL \textit{E. coli} samples. Samples highlighted in orange were chosen as reference genomes.}
 	\label{table:samples}
 \end{table}
-\subsection{Identification of SNPs}
-After selecting for isolate series suitable for our analysis we determined one isolate per series as a reference. We picked the isolate with the lowest MIC of cefepime as reference. If two isolates of a series had very similar MICs of cefepime (\textit{e.g.} isolate 0 and 2 from patient 24), we picked the isolate with the earlier sample date. The selected references of the series are stained orange in Table \ref{table:samples}. For the isolate series of patient 25 and 33 the resistance was lost over the sample period. Therefore, the reference is isoalte 1, and not isolate 0 like for the other isolate series. From the selected references we hybrid-assemblied their genome based on Illumina and ONT sequencing data.
+\subsection{Identification of mutations}
+For patient 12,16 and 24 we chose sample 0, for patient 25 and 33 we chose sample 1 for building a reference genome. The selected samples are stained orange in Table \ref{table:samples}.
 
-\subsection{Identified SNPs for the selected isolate series}
-We identified SNPs in the selected isolate series by comparing Illumina sequencing data of the isolates with emerged resistance to the genome of the reference of the series. We applied filtering of the SNPs by defining a minimal Illumina coverage of 30 at the position of the SNP. Additionally, we only present SNPs where the nucleotide in the isolates with emerged resistance changed in 80\% of the Illumina reads at this position compared to the reference.
-\subsubsection{Isolate series of patient 12}
-The isolate series of patient 12 consists of two isolates sampled over three months. The EUCAST classifies strains with cefepime MICs bigger than 4 \textmu g/mL as resistant \cite{breakpoints}. The MIC of cefepime of isolate 0 is 4 \textmu g/mL and slightly below the breakpoint, but still very high. For this isolate series we identified two SNPs with no annotation. The SNPs are shown in Table \ref{table:patient12}.
+\subsection{Identified mutations for the selected sample series}
+\subsubsection{Patient 12}
+Our bioinformatic pipeline revealed two positions where the dominant nucleotide changed (also referred as SNPs) between the samples of patient 12. For those positions, shown in Table \ref{table:patient12}, no annotation was available. 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|cccLL|}
 		\hline
-		\#SNP & Contig & Position & \multicolumn{2}{l|}{Nucleotide in isolate:} \\
+		\#SNP & Contig & Position & \multicolumn{2}{l|}{Nucleotide in Sample:} \\
 		&        &          & 0         & \multicolumn{1}{l|}{1}    \\ \hline
 		1 & 0 & 880249  & C & A \\ \hline
 		2 & 0 & 4256761 & A & T \\ \hline
 	\end{tabularx}
-	\caption{SNPs in the isolates of patient 12}
+	\caption{Positions of SNPs between samples of patient 12}
 	\label{table:patient12}
 \end{table} 
 \subsubsection{Patient 16}
-From patient 16 thre isolates were sampled over five months. The MICs of cefepiem from every isolate exceed the breakpoint. Therefore, all isolates were classified as resistant. Resistance furhter emerged over the sample period visible in the MIC of cefepime of isoalte 1 which is 46 \textmu g/mL. We identified over 20 SNPs in the isolates of patient 16, but for only six genes annotation was available. Interestingly one SNP affected a promoter. The SNPs of the isolate series of patient 16 are shown in  Table \ref{table:patietn16}. The genes affected by the SNPs are shown in Table \ref{table:pat16annot} and the affected promoter in Table \ref{table:pat16_prom}.
+In Table \ref{table:patietn16} we show the positions of SNPs between samples of patient 16. Our pipeline found six genes and one promoter affected by the SNPs. The affected genes are shown in Table \ref{table:pat16annot} and the affected promoter in Table \ref{table:pat16_prom}. This promoter annotation was obtained from the EcoCyc promoter sequences. 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|cccLLL|}
 		\hline
-		\#SNP & Contig & Position & \multicolumn{3}{l|}{Nucleotide in Isolate:} \\
+		\#SNP & Contig & Position & \multicolumn{3}{l|}{Nucleotide in Sample:} \\
 		&        &          & 0     & 1     & \multicolumn{1}{l|}{2}    \\ \hline
 		1     & 0      & 109928   & C     & A     & \multicolumn{1}{l|}{C}    \\ \hline
 		2     & 0      & 1895312  & A     & C     & \multicolumn{1}{l|}{A}    \\ \hline
@@ -92,13 +89,13 @@ From patient 16 thre isolates were sampled over five months. The MICs of cefepie
 		20    & 0      & 4459695  & G     & -     & \multicolumn{1}{l|}{G}    \\ \hline
 		21    & 0      & 4459697  & T     & -     & \multicolumn{1}{l|}{T}    \\ \hline
 	\end{tabularx}
-	\caption{SNPs in the isolates of patient 16.}
+	\caption{Positions of SNPs in the sample of patient 16.}
 	\label{table:patietn16}
 \end{table}
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|ccLLccc|}
 		\hline
-		\#SNP & Gene          & Product                                  & Type and position in gene      & \multicolumn{3}{l|}{Amino acid in isolate:} \\
+		\#SNP & Gene          & Product                                  & Type and position in gene      & \multicolumn{3}{l|}{Amino acid in Sample:} \\
 		&               &                                          &                        & 0   & 1               & 2               \\ \hline
 		1     & \textit{ortT} & Orphan toxin OrtT                        & Missense, 44           & P   & T               & P               \\ \hline
 		2     & \textit{scrY} & Sucrose Porin                            & Missense, 104          & L   & V               & L               \\ \hline
@@ -109,7 +106,7 @@ From patient 16 thre isolates were sampled over five months. The MICs of cefepie
 		5     & \textit{hcxA} & Hydoxycarboxylate dehydrogenase A        & Missense, 332          & R   & G               & R               \\ \hline
 		6     & \textit{ribA} & GRP cyclohydrolase-2                     & Missense, 68           & F   & L               & L               \\ \hline
 	\end{tabularx}
-	\caption{Genes affected by the SNPs found in the isolates of patient 16.}
+	\caption{Genes affected by the SNPs found in the samples of patient 16.}
 	\label{table:pat16annot}  
 \end{table}
 \begin{table}[H]
@@ -118,7 +115,7 @@ From patient 16 thre isolates were sampled over five months. The MICs of cefepie
 		\#SNP & Transcription unit & Next upstream gene \\ \hline
 		16    & fes-ybdZ-entF-fepE & \textit{fepA}      \\ \hline
 	\end{tabular}
-	\caption{Identified promoter affected by a SNP in the isolates of patient 16.}
+	\caption{Identified promoter affected by a SNP in the samples of patient 16.}
 	\label{table:pat16_prom}
 \end{table}
 The fepA promoter sequence affected by a SNP is shown in the Alignment \ref{figure:alignment}. The polymorph position, marked with a red box, was found in the binding site of the \textsigma 70 transcription factor.  
@@ -133,11 +130,11 @@ The fepA promoter sequence affected by a SNP is shown in the Alignment \ref{figu
 	\label{figure:alignment}
 \end{texshade}
 \subsubsection{Patient 24}
-The isolate series of patient 24 consists of three isolates. The MIC of cefepime from isolate 1 exceeds the breakpoint and is classified as resistant. For isolate 2 the resistance decreases again, and drops below the breakpoint. Identified SNPs in the isolates of patient 24 are show in Table \ref{table:pat24}, the affected genes are shown in Table \ref{table:pat24_ann}.
+Identified SNPs in the samples of patient 24 are show in Table \ref{table:pat24}, the affected genes are shown in Table \ref{table:pat24_ann}.
 \begin{table}[h]
 	\begin{tabularx}{\linewidth}{|cccLLL|}
 		\hline
-		\#SNP & Contig & Position & \multicolumn{3}{l|}{Nucleotide in isolate:} \\
+		\#SNP & Contig & Position & \multicolumn{3}{l|}{Nucleotide in Sample:} \\
 			&        &          & 0     & 1     & \multicolumn{1}{l|}{2}    \\ \hline
 	1     & 0      & 50032    & G            & A            & G            \\ \hline
 	2     & 0      & 418564   & C            & T            & C            \\ \hline
@@ -146,14 +143,14 @@ The isolate series of patient 24 consists of three isolates. The MIC of cefepime
 	5     & 0      & 3444478  & T            & C            & T            \\ \hline
 	6     & 0      & 4063226  & G            & T            & T            \\ \hline
 	\end{tabularx}
-	\caption{SNPs in the isolates of patient 24.}
+	\caption{Positions of SNPs in the samples of patient 24.}
 	\label{table:pat24}
 \end{table}
 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|ccLLccc|}
 		\hline
-		\#SNP & Gene          & Product                                  & Type and position in gene      & \multicolumn{3}{l|}{Amino acid in isolate:} \\
+		\#SNP & Gene          & Product                                  & Type and position in gene      & \multicolumn{3}{l|}{Amino acid in Sample:} \\
 		&               &                                          &                        & 0   & 1               & 2               \\ \hline
 		1     & \textit{atl}     & DNA base-flipping protein                                  & Missense, 87      & V           & M           & V           \\ \hline
 		2     & \textit{imm\_2}  & Colicin-E7 immunity protein                                & Missense, 69      & K           & E           & K           \\ \hline
@@ -162,18 +159,17 @@ The isolate series of patient 24 consists of three isolates. The MIC of cefepime
 		5     & \textit{dltA}    & D-alanine--D-alanyl carrier protein ligase subunit 1           & Missense, 692     & E           & G           & E           \\ \hline
 		6     & \textit{fnr}     & Fumarate and nitrate reduction regulatory protein          & Missense, 31      & C           & F & F  \\ \hline    
 	\end{tabularx}
-	\caption{Genes affected by the SNPs found in the isolates of patient 24.}
+	\caption{Genes affected by the SNPs found in the samples of patient 24.}
 	\label{table:pat24_ann}
 \end{table}
 
 \subsubsection{Patient 25}
-Two isolates were sampled from patient 25. Isolate 0 shows the highest cefepime MIC, which is 64 \textmu g/mL, of all selected isolates. In the case of patient 25 the resistance decreased over the sample period. Isolate 1, with a cefepime MIC of 6 \textmu g/ml is still classified as resistant. 
-The identified SNPs between the isolates of patient 25 are shown in Table \ref{table:pat25}. The genes affected by those SNPs are shown in Table \ref{table:pat25_ann}.
+The identified SNPs between the samples of patient 25 are shown in Table \ref{table:pat25}. The genes affected by those SNPs are shown in Table \ref{table:pat25_ann}.
 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|cccLL|}
 		\hline
-		\#SNP & Contig & Position & \multicolumn{2}{l|}{Nucleotide in isolates:} \\
+		\#SNP & Contig & Position & \multicolumn{2}{l|}{Nucleotide in Sample:} \\
 		&        &          & 0         & \multicolumn{1}{l|}{1}    \\ \hline
 	1 & 0 & 396325   & G & A \\ \hline
 	2 & 0 & 396846  & G & A \\ \hline
@@ -193,54 +189,54 @@ The identified SNPs between the isolates of patient 25 are shown in Table \ref{t
 	5 & 0 & 4785433 & G & A \\ \hline
 	6 & 0 & 4785439 & G & A \\ \hline
 	\end{tabularx}
-	\caption{SNPs in the isolates of patient 25.}
+	\caption{Positions of SNPs in the samples of patient 25.}
 	\label{table:pat25}
 \end{table} 
 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|ccLLcc|}
 		\hline
-	\#SNP & Gene          & Product                                 & Type and position & \multicolumn{2}{l|}{Amino acid isolate:} \\
+	\#SNP & Gene          & Product                                 & Type and position & \multicolumn{2}{l|}{Amino acid Sample:} \\
 	&               &                                         &                   & 0                  & 1                  \\ \hline
 	1     & \textit{ompR} & Transcriptional regulatory protein OmpR & Missense, 146     & R                  & H                  \\ \hline
 	2     & \textit{envZ} & Osmolarity sensor protein EnvZ          & Missense, 84      & G                  & E                  \\ \hline
 	3     & \textit{rfbD} & dTDP-4-dehydrorhamnose reductase        & \multicolumn{3}{l|}{Frameshift deletion, 148-295}            \\ \hline
 	\end{tabularx}
-	\caption{Genes affected by the SNPs found in the isolates of patient 25.}
+	\caption{Genes affected by the SNPs found in the samples of patient 25.}
 	\label{table:pat25_ann}
 \end{table}
 
 \subsubsection{Patient 33}
-As for the series of patient 33, the resistance deceases in the isolates of patient 25. Isolate 0 is classified as resistant, while isolate 1 is even classified as cefepime susceptible. Three SNPs were found in the isolates of patient 33, they are shown in Table \ref{table:pat33} with their annotation in Table \ref{table:pat33_ann}.
+Only three SNPs were found for the samples of patient 33, they are shown in Table \ref{table:pat33} with their annotation in Table \ref{table:pat33_ann}.
 \begin{table}[h]
 	\begin{tabularx}{\linewidth}{|cccLL|}
 		\hline
-		\#SNP & Contig & Position & \multicolumn{2}{l|}{Nucleotide in isolate:} \\
+		\#SNP & Contig & Position & \multicolumn{2}{l|}{Nucleotide in Sample:} \\
 		&        &          & 0         & \multicolumn{1}{l|}{1}    \\ \hline
 		1 & 0 & 4008745 & A & T \\ \hline
 		2 & 0 & 4675092 & T & A \\ \hline
 		3 & 0 & 1996537 & A & C \\ \hline
 	\end{tabularx}
-	\caption{SNPs in the isolates of patient 25.}
+	\caption{Positions of SNPs in the samples of patient 25.}
 	\label{table:pat33}
 \end{table} 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|ccLLcc|}
 		\hline
-		\#SNP & Gene          & Product                           & Type and position & \multicolumn{2}{l|}{Amino acid isolate:} \\
+		\#SNP & Gene          & Product                           & Type and position & \multicolumn{2}{l|}{Amino acid Sample:} \\
 		&               &                                   &                   & 0                  & 1                  \\ \hline
 		1     & \textit{cydD} & ATP-binding/permease protein CydD & Missense, 368     & Q                  & L                  \\ \hline
 		2     & \textit{vnfA} & Nitrogen fixation protein VnfA    & Missense, 169     & N                  & I                  \\ \hline
 	\end{tabularx}
-	\caption{Genes affected by the SNPs found in the isolates of patient 33.}
+	\caption{Genes affected by the SNPs found in the samples of patient 33.}
 	\label{table:pat33_ann}
 \end{table}
-\subsection{Copy numbers of ESBL genes}
-We checked if the copy numbers of ESBL genes correlates with emerged resistance. Therefore, we analyzed the annotation of the hybrid-assembly of every isolate. Copy numbers of three ESBL genes of the selected isolates is shown in Table \ref{table:copynumers}. The copy number remained very similar for four out of five patients the. Sometimes the ESBL gene was replaced by a different ESBL gene. Only the isolate series of patient 33 showed an increase of ESBL genes while resistance emerged. Isolate 0 of patient 33 had 9 copies of CTX-M-1 while isolate 1 only had one. 
+\subsection{Copynumbers of ESBL genes}
+Next to the reference genomes we also hybrid-assemblied and annotated the other samples of the selected sample series. This allowed us to see, if the copy numbers of ESBL genes increased while resistance evolved. The copy numbers of three ESBL genes shown in Table \ref{table:copynumers}. For four out of five patients the copy number remained very similar. Sometimes the ESBL gene was replaced by a different ESBL gene. Only the sample series of patient 33 showed an increase of ESBL genes while resistance evolved. Sample 0 of patient 33 had 9 copies of CTX-M-1 while sample 1 only had one. 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|ccLLL|}
 		\hline
-		Patient & Isolate & \multicolumn{3}{l|}{Copies of genes coding for \textbeta-lactamase} \\
+		Patient & Sample & \multicolumn{3}{l|}{Copies of genes coding for textbeta-lactamase} \\
 		&        & CTX-M-1                & OXA-1                & TEM                \\ \hline
 		12      & 0      & 1                      & 0                    & 0                  \\ \hline
 		12      & 1      & 1                      & 0                    & 0                  \\ \hline
@@ -256,62 +252,66 @@ We checked if the copy numbers of ESBL genes correlates with emerged resistance.
 		33      & 0      & 1                      & 1                    & 0                  \\ \hline		
 	\end{tabularx}
 	\label{table:copynumers}
-	\caption{Copy number of ESBL genes per isolate.}
+	\caption{Copy number of ESBL genes per sample.}
 \end{table}
+Studying the short-reads of sample 0  from patient 33 mapped to the assembly from sample 1 revealed that the coverage for sample 0 was very high for a region of 17 kilo base-pairs (kbp). In this region the genes coding for \textbeta lactamase CTX-M-1 (\textit{bla\_2}) was located. This increased coverage, the genes located within this region and the GC-content is shown in Figure \ref{figure:coverage}. This confirmed that the copy number of the gene coding for CTX-M-1 is higher in sample 0.
+
+\begin{figure}[H]
+	\includegraphics[scale=0.3]{coverage_pat33.png}
+	\caption{Upper figure: Annotation of the whole plasmid. Middle figure: Coverage of the illumina sequencing data from sample 0 (resistant sample) and sample 1 (susceptible sample). Bottom figure: GC content.}
+	\label{figure:coverage}
+\end{figure}
 
 \section{Morbidostat experiments}
-We successfully experimentally evolved emerged resistance to cefepime with ESBL \textit{E. coli} strains by culturing with the morbidostat. We demonstrate that the implemented feedback algorithm is very capable of creating a high antibiotic pressure and reacts very well to the grwoth or death of the strains. We proof that resistance emerged by comparing the MIC of cefepime from the strains before and culturing with the morbidostat. \\
-We performed two morbidostat experiments, experiment 01 and experiment 02. By culturing with the fixed\_OD with some vials we included controls where no antibiotic-pressure was applied to the strains. Table \ref{table:vial_modes} shows which ESBL \textit{E. coli} strain was cultured in which vial, with which mode. 
+Table \ref{table:vial_modes} shows which ESBL \textit{E. coli} strain was cultured in which vial, with which mode. 
 \begin{table}[H]
-	\begin{tabular}{|c c c c|}	
+	\begin{tabular}{|c c c|}	
 		\hline
-		Vial & Strain ID & ESBL & Mode \\
+		Vial & Strain & Mode \\
 		\hline
-		1 & pEU26 & OXA-1 & Continuous \\
+		1 & pEU26\_OXA & continuous \\
 		\hline
-		2 & pEU26 & OXA-1 & Continuous \\
+		2 & pEU26\_OXA & continuous \\
 		\hline
-		3 & pEU23 & OXA-1 & Continuous \\
+		3 & pEU23\_OXA & continuous \\
 		\hline
-		4 & pEU23 & OXA-1 & Continuous \\
+		4 & pEU23\_OXA & continuous \\
 		\hline
-		5 & pEU23 & OXA-1 & Continuous \\
+		5 & pEU23\_OXA & continuous \\
 		\hline
-		9 & pEU26 & OXA-1 & Continuous \\
+		8 & pEU26\_OXA & continuous \\
 		\hline
-		10 & pEU23 & OXA-1 & Fixed OD \\
+		9 & pEU23\_OXA & fixed OD \\
 		\hline
 	\end{tabular}
 	\quad
-	\begin{tabular}{|c c c c|}	
+	\begin{tabular}{|c c c|}	
 		\hline
-		Vial & Strain ID & ESBL &Mode \\
+		Vial & Plasmid & Mode \\
 		\hline
-		1 & pEU26 & OXA-1 & Continuous \\
+		1 & pEU26\_OXA & continuous \\
 		\hline
-		2 & pEU23 & OXA-1 & Continuous \\
+		2 & pEU23\_OXA & continuous \\
 		\hline
-		3 & pEU22 & CTX-M-1 & Continuous \\
+		3 & pEU22\_CTX-M-1 & continuous \\
 		\hline
-		4 & pEU22 & CTX-M-1 & Continuous \\
+		4 & pEU22\_CTX-M-1 & continuous \\
 		\hline
-		5 & pEU22 & CTX-M-1 & Continuous \\
+		5 & pEU22\_CTX-M-1 & continuous \\
 		\hline
-		7 & K12 MG1655& None & Continuous \\
+		7 & K12 & continuous \\
 		\hline
-		8 & pEU22 & CTX-M-1 & Fixed OD \\
+		8 & pEU22\_CTX-M-1 & fixed OD \\
 		\hline
-		9 & pEU26 & OXA-1 & Fixed OD \\
+		9 & pEU26\_OXA & fixed OD \\
 		\hline
-		10 & pEU26 & OXA-1 & Fixed OD \\
+		10 & pEU26\_OXA & fixed OD \\
 		\hline
 	\end{tabular}
-	\caption{Left table: Experiment 01. Right table: Experiment 02.}
+	\caption{Left table: Experiment 01, right table: Experiment 02}
 	\label{table:vial_modes}
 \end{table}
 \subsection{Contamination analysis}
-For many samples we morphologically determined contaminations. Because we had Illumina sequecing data of every sample, we could determine the contamination as \textit{Bacillus cereus}. To ensure that the stocks of the strains were not contaminated, we mapped the Illumina data of the stocks to the hybrid-assembled \textit{E. coli} reference genome and \textit{Bacillus cereus} genome obtained from NCBI \cite{noauthor_bacillus_nodate}. The percentage of how many reads mapped to \textit{E. coli} and \textit{Bacillus cereus} is shown in Table \ref{table:bacillus_reads}. Around 0.44 \% of all Illumina reads mapped to \textit{Bacillus cereus} ATCC 14579. In Figure \ref{figure:bacillus_reads} one region of an alignment of the Illumina reads to the \textit{Bacillus cereus} genome is shown. We could see that Illumina reads only mapped to very certain regions of the genome of \textit{Bacillus cereus} without overlapping and with a variation of a few bases. Because the reads were not overlapping and they did not map with an identity of 100\%, the stocks were not contaminated. Also the hybrid-assembly of the reference genome did not show any contigs with \textit{Bacillus cereus} sequences. \\
-We mapped the Illumina reads from the morbidostat samples to the hybrid-assembled \textit{E. coli} genome and the \textit{Bacillus cereus} genome in order to identify contaminated samples. The outcome is shown in Table \ref{table:bacillus_reads_samples}. Looking at the percentage of how many reads mapped to \textit{Bacillus cereus} showed that two groups exist. Ether 60 \% or more, implying that the samples were contaminated, or only 0.48 \%  mapped to \textit{Bacillus cereus} implying that those samples were not contaminated. From all morbidostat samples 12 samples had fewer reads than 0.48 \% and were not contaminated.
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|LLLLL|}
 		\hline
@@ -319,16 +319,21 @@ We mapped the Illumina reads from the morbidostat samples to the hybrid-assemble
 		pEU22\_CTX & 3810442     & 16496                                                     & 3803789                                           & 0.43                                                            \\ \hline
 		pEU23\_OXA & 4329090     & 18499                                                     & 4322708                                           & 0.43                                                            \\ \hline
 		pEU26\_OXA & 4040571     & 17629                                                     & 4036167                                           & 0.44                                                            \\ \hline
-		K-12 MG1655      & 4939319     & 21902                                                     & 4931214                                           & 0.44                                                            \\ \hline
+		K-12 MG 1655      & 4939319     & 21902                                                     & 4931214                                           & 0.44                                                            \\ \hline
 	\end{tabularx}
 	\caption{Illumina reads from every stock were mapped to a \textit{Bacillus cereus} genome from NCBI \cite{noauthor_bacillus_nodate} and the \textit{E.coli} reference genome produced with  hybrid-assembling.}
 	\label{table:bacillus_reads}
 \end{table}
-\begin{figure}
+\begin{figure}[H]
 \includegraphics[width=0.35\textheight]{bacillus_reads.png}
-\caption{Alignment of short reads from pEU23\_OXA to the \textit{Bacillus cereus}. The reads map with a few SNPs which are colored. The reads also do not overlap.}
+\caption{Alignment of short reads from pEU23\_OXA to the \textit{Bacillus cereus}. The reads map with a few SNPs which are colored. The reads also don't overlap.}
 \label{figure:bacillus_reads}
 \end{figure}
+Since some samples of the morbidostat showed \textit{Bacillus cereus} contaminations we analyzed the short reads of the ESBL \textit{E. coli} stocks. Table \ref{table:bacillus_reads} shows how many Illumina reads of the stocks mapped to \textit{Bacillus cereus ATCC 14579} and to the ESBL \textit{E. coli} reference genome produced with hybrid-assembling. 
+Around 0.44 \% of all Illumina reads mapped to \textit{Bacillus cereus ATCC 14579}. In Figure \ref{figure:bacillus_reads} one region of an alignment of the Illumina reads to the \textit{Bacillus cereus} genome is shown. We could see that Illumina reads only mapped to very certain regions of the genome of \textit{Bacillus cereus} without overlapping and with a variation of a few bases. Because the reads were not overlapping and they did not map with an identity of 100\%, the stocks were not contaminated. Also the hybrid-assembly of the reference genome did not show any contigs with \textit{Bacillus cereus} sequences.
+
+The outcome of mapping the Illumina reads to \textit{Bacillus cereus} and ESBL \textit{E. coli} for the morbidostat samples is shown in Table \ref{table:bacillus_reads_samples}. Looking at the percentage of how many reads mapped to \textit{Bacillus cereus} showed that two groups exist. Ether 60 \% or more, implying that the samples were contaminated, or only 0.48 \%  mapped to \textit{Bacillus cereus} implying that those samples were not contaminated. From all morbidostat samples 12 samples had fewer reads than 0.48 \% and were not contaminated. 
+
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|LccLLLL|}
 		\hline
@@ -359,7 +364,7 @@ We mapped the Illumina reads from the morbidostat samples to the hybrid-assemble
 	\label{table:bacillus_reads_samples}
 \end{table}
 
-\subsection{Growth curves and injected concentrations}
+\subsection{Grow curves and injected concentrations for cultures grown with the morbidostat}
 \begin{figure}[H]
 	\includegraphics[width=0.5\textwidth]{01_vial_3.png}
 	\includegraphics[width=0.5\textwidth]{01_vial_10.png}
@@ -372,11 +377,11 @@ We mapped the Illumina reads from the morbidostat samples to the hybrid-assemble
 	\includegraphics[width=0.5\textwidth]{02_vial_3.png}
 	\includegraphics[width=0.5\textwidth]{02_vial_4.png}
 	\includegraphics[width=0.5\textwidth]{02_vial_5.png}	
-	\caption{Grow curves and cefepime concentration in the vials which were not contaminated from experiment 02.}
+	\caption{Grow curves and cefepime concentration in the vials which were not contaminated from experiment 01.}
 	\label{figure:02_vials}
 \end{figure}
-We recorded the growth curves and stored the cefepime concentrations of every vial during the entire experiment time of both experiments. This allows us to tell how well the implemented feedback algorithm reacted to the change of growth. Figure \ref{figure:01_vials} and Figure \ref{figure:02_vials} show the recorded ODs and then the cefepime concentration in the vials from the morbidostat experiment 01 (Figure \ref{figure:01_vials}) and 02 (Figure \ref{figure:02_vials}). From both experiments only the vials with no contamination are shown. After 45 hours 200 \textmu of the cell suspensions were transferred into a new vial with 18 mL diluted media. This is causing the abrupt drop of ODs. In vial 3 from the 01 experiment the OD measurements were very noisy at the beginning which was caused by an air cone coming from high stirring with the magnetic stirrer. After 20 hours the stirring was reduced which eliminated the noise. For vial 10 the mode was set to record growth rate instead of fixed OD. The mode was changed to fixed OD after 15 hours. 
-In general the feedback worked really well. The left Figure \ref{figure:vial_3_area} shows the first 45 hours for vial 3 from experiment 02. Drug injection took place after the drug\_dilution\_threshold was reached. After that the cefepime concentration was continuously increased until the cells started to die. The cefepime concentration which was necessary to kill the majority of the cells was stored. Then the feedback diluted the cultures with media unitl half of the deadly concentration was reached. After that no injections took place until the culture started to grow again. As a result of the feedback the OD was steady but the cefepime concentration was continuously increased. The deadly cefepime concentration after 40 hours of culturing was already four fold higher than at the beginning. 
+Figure \ref{figure:01_vials} and Figure \ref{figure:02_vials} show the recorded ODs and the the cefepime concentration in the vials from the morbidostat experiment 01 (Figure \ref{figure:01_vials}) and 02 (Figure \ref{figure:02_vials}). From both experiments only the vials with no contamination are shown. After 45 hours 200 \textmu of the cell suspensions were transferred into a new vial with 18 mL diluted media. This is causing the abrupt drop of ODs. In vial 3 from the 01 experiment the OD measurements wher very noisy at the beginning which was caused by an air cone coming from high stirring with the magnetic stirrer. After 20 hours the stirring was reduced which eliminated the noise. For vial 10 the mode was set to record growth rate instead of fixed OD. The mode was changed to fixed OD after 15 hours. 
+In general the feedback worked really well. The left Figure \ref{figure:vial_3_area} shows the first 45 hours for vial 3 from experiment 02. Drug injection took place after the drug\_dilution\_threshold was reached. After that the cefepime concentration was continuously increased until the cells started to die. The cefepime concentration which was necessary to kill the majority of the cells was stored. Then the feedback diluted the cultures with media unitl half of the deadly concentration was reached. After that no injections took place until the culture started to grow again. The result of the feedback was that the OD was kept pretty steady but the cefepime concentration continuously increased. The deadly cefepime concentration after 40 hours of culturing was already four fold higher than at the beginning. 
 \begin{figure}[H]
 	\includegraphics[width=0.5\textwidth]{vial_3_area.png}
 	\includegraphics[width=0.5\textwidth]{feedback.png}
@@ -384,38 +389,30 @@ In general the feedback worked really well. The left Figure \ref{figure:vial_3_a
 	\label{figure:vial_3_area}
 \end{figure}
 \subsection{MIC of the strains used for culturing with the morbidostat}
-To confirm emerged resistance we determined the MIC of cefepime of the morbidostat samples and the stocks of the strains.
-The MICs of the strains before culturing with the morbidostat are shown in Table \ref{table:mics_finish}. In Table \ref{table:mics_finish} the MIC are shown for the samples of the last sample day of the experiment 01 and 02. 
-\begin{table}[H]
-	\begin{tabular}{|ll|}
-		\hline
-		Strain & MIC of cefepime [\textmu g/mL] \\ \hline
-		pEU22  & 8   \\ \hline
-		pEU23  & 4   \\ \hline
-		pEU26  & 4   \\ \hline
-	\end{tabular}
-	\quad
-	\begin{tabular}{|lll|}
-		\hline
-		Experiment & Vial & MIC of cefepime [\textmu g/mL] \\ \hline
-		01         & 3    & 512                            \\ \hline
-		01         & 10   & 4                              \\ \hline
-		02         & 1    & 128                            \\ \hline
-		02         & 3    & 512                            \\ \hline
-		02         & 4    & 512                            \\ \hline
-		02         & 5    & 256                            \\ \hline
-	\end{tabular}
-	\label{table:mics_finish}
-	\caption{Left Table: MICs of the strains used for the experiment 01 and 02. Right Table: MICs of the samples from the last sample day of the experiment 01 and 02.}
-It is very clear that culturing with the morbidostat increased the resistance. In three cases the increase was over 100 fold. The sample of vial 10 from experiment 01 shows the same MIC as before culturing with the morbidostat. This is as expected, since this vial was cultured with the fixed\_OD mode and no antibiotic pressure was applied. 
-\end{table}
+The MICs of the strains used for the experiment 01 and 02 are shown in Figure \ref{figure:mic_ogs}
+\begin{figure}[H]
+	\includegraphics[width=0.3\textwidth]{22a_cef.png}
+	\includegraphics[width=0.3\textwidth]{23a_cef.png}
+	\includegraphics[width=0.3\textwidth]{26a_cef.png}
+	\includegraphics[width=0.3\textwidth]{k12.png}
+	\caption{MICs of the strains used for the experiment 01 and 02.}
+	\label{figure:mic_ogs}
+\end{figure}
+\begin{figure}[H]
+	\includegraphics[width=0.3\textwidth]{vial3_OXA_patient25.png}
+	\includegraphics[width=0.3\textwidth]{vial9_OXA_patient25_dilution_control.png}
+	\includegraphics[width=0.3\textwidth]{v1.png}
+	\includegraphics[width=0.3\textwidth]{v3.png}
+	\includegraphics[width=0.3\textwidth]{v4.png}
+	\includegraphics[width=0.3\textwidth]{v5.png}
+	\label{figure:mics_finish}
+	\caption{MICs of the samples from the last sample day of the experiment 01 and 02.}
+\end{figure}
 \subsection{SNPs of experiment 01}
-After analyzing the contamination, proving the increase of resistance after culturing with the morbidostat we present the SNPs which we identified in the samples of the morbidostat. Sample 0 is always the stocked strain before culturing with the morbidostat was started. The genome of sample 0 is always used as a reference. With this reference we identified SNPs in the samples with emerged resistance applying the same criteria as for the isolate series sampled from patients. We only show vials and samples with no contamination.
 \subsubsection{Vial 3}
-Even though the MCI of the sample from vial 3 increased over 100 fold, compared to the MIC determined before culturing with the morbidostat, no SNPs were found. 
 No SNPs in the samples of vial 3 were found.
 \subsubsection{Vial 10}
-Vial 10 was cultured with the fixed OD. The MIC remained the same before and after culturing with the morbidostat. We were still able to identify two SNPs which are shown in Table \ref{table:01_10} with their annotation in Table \ref{table:01_10_ann}.
+Even though vial 10 was cultured with the fixed OD mode, one SNP was found in the samples. The position of the SNP is shown in Table \ref{table:01_10} and their annotation in Table \ref{table:01_10_ann}.
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|cccLL|}
 		\hline
@@ -424,14 +421,14 @@ Vial 10 was cultured with the fixed OD. The MIC remained the same before and aft
 		1 & 0 & 3403729 & G & C \\ \hline
 	\end{tabularx}
 	\label{table:01_10}
-	\caption{SNPs in the samples of vial 10 experiment 01.}
+	\caption{Positions of SNPs in the samples of vial 10 experiment 01.}
 \end{table} 
 \begin{table}[H]
 	\begin{tabularx}{\linewidth}{|ccLLcc|}
 		\hline
 		\#SNP & Gene          & Product                           & Type and position & \multicolumn{2}{l|}{Amino acid Sample:} \\
 		&               &                                   &                   & 0                  & 1                  \\ \hline
-	1 & \textit{tomB\_1} & Hha toxicity modulator TomB & Missense, 43 & I & V \\ \hline
+	1 & \textit{tomB\_1} & Hha toxicity modulator TomB & Silent, 43 & I & V \\ \hline
 	
 	\end{tabularx}
 	\caption{Genes affected by the SNPs found in the samples of vial 10 experiment 02.}
@@ -439,7 +436,7 @@ Vial 10 was cultured with the fixed OD. The MIC remained the same before and aft
 \end{table}
 \subsection{SNPs of experiment 02}
 \subsubsection{Vial 1}
-No SNPs were found in the sample of vial 1, even though the vial was cultured in the continuous mode and the MIC increased over 100 fold. 
+No SNPs were found in the samples of this vial.
 \subsubsection{Vial 3}
 One SNP was found in the samples of vial 3 which is shown in Table \ref{table:3_02}. Interestingly this mutation affects the kanamycin resistance gene of the vector. The change of amino acid caused by the SNP is shown in Table \ref{table:02_3_ann}.
 \begin{table}[H]
@@ -485,7 +482,7 @@ Two SNPs were found for the samples of vial 4 shown in Table \ref{table:02_v4} a
 		1 & \textit{bla}  & Beta-lactamase CTX-M-1                  & Missense, 289 & V & V & D \\ \hline
 		2 & \textit{ompR} & Transcriptional regulatory protein OmpR & Nonsense, 67  & R & R & * \\ \hline
 	\end{tabularx}
-	\caption{Genes affected by the SNPs found in the samples of vial 4 experiment 02. The star in sample 2 stands for a stop codon}
+	\caption{Genes affected by the SNPs found in the samples of vial 4 experiment 02.}
 	\label{table:02_v4_ann}
 \end{table}
 \subsubsection{Vial 5}
