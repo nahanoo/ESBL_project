@@ -40,13 +40,7 @@
 \fancyfoot[RO,RE]{University of Basel}
 
 
-\title{
-    {Morb}\\
-    {\large University of Basel}
-}
 
-\author{Eric Ulrich}
-\date{\today}
 
 \usepackage[backend=biber,sorting=none,style=numeric,citestyle=numeric]{biblatex}
 \usepackage{url}
@@ -55,16 +49,49 @@
 \addbibresource{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/bibliography.bib}
 \begin{document}
 
+\begin{titlepage}
+	\begin{center}
+		\includegraphics[width=0.4\textwidth]{logo}\\
+		\vspace{1cm}
+		\Large
+		Faculty of Science \\
+		Department Biozentrum\\
+		University of Basel\\
+		Switzerland\\
+		\date{\today}
+		\vspace*{1cm}
+		
+		\Huge
+		Master thesis Molecular Biology \\
+		\vspace{2cm}
+		\LARGE
+		\textbf{Studying cefepime resistance evolution in ESBL \textit{Escherichia Coli} patient isolates and experimentally evolved ESBL \textit{Escherichia Coli} strains}
+		
+		\vspace{3cm}
+		\begin{minipage}[t]{0.47\textwidth}
+			\textnormal{\large{\bf Submitted to:\\}}
+			{\large Prof. Dr. Richard Neher\\ Prof. Dr. Dirk Bumann}
+		\end{minipage}\hfill\begin{minipage}[t]{0.47\textwidth}\raggedleft
+			\textnormal{\large{\bf Submitted by:\\}}
+			{\large Eric Ulirch}
+		\end{minipage}			
+		\vspace{3.5cm}
+		\newline 
+		\large{\today}
 
-\maketitle
-
-
+		
+		
+	\end{center}
+\end{titlepage}
+\pagenumbering{roman}
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+In Swiss hospitals infections with extended-spectrum cephalosporin resistant \textit{Escherichia coli} (\textit{E. coli}) are emerging \cite{swiss_hospitals}. Enzymes called extended-spectrum \textbeta-lactamases (ESBL) are able to hydrolyze extended-cephalosporins. If expressed in \textit{E. coli}, the susceptibility to extended-cephalosporins is reduced and the strains are called ESBL \textit{E. coli}. Research  heavily focused on studying ESBL mediated extended-spectrum cephalosporin resistance, even though other resistance mechanisms possibly affect extended-spectrum resistance level. We studied cefepime resistance evolution in order to possibly identify new genotypes associated with drug resistance. Therefore, we studied whole-genome sequencing data from ESBL \textit{E. coil} isolates from patients of the University Hospital of Basel evolving resistance to cefepime in patients. Additionally, we assembled a device called morbidostat which we used to experimentally evolve resistance to cefepime with ESBL \textit{E. coli} strains. The morbidostat is an automated culturing device continuously applying high antibiotic pressure to cultures resulting in resistance evolution. We cultured three ESBL \textit{E. coli} strains with the morbidostat which increased the minimal inhibitory concentration of cefepime tested with the strains after culturing with the morbidostat over 100 fold. We analyzed whole-genome sequencing data of the strains cultured with the morbidostat and identified several single nucleotide polymorphisms (SNPs). Interestingly we found SNPs targeting the same gene in patient isolates and morbidostat samples, strongly suggesting the importance of the SNP for the resistance. In particular we identified SNPs in patient isolates and morbidostat samples targeting the genes coding for the porins \textit{ompC} and \textit{ompF} and their regulatory system. Furthermore, SNPs affected the transcription unit by targeting the genes coding for the DNA-directed RNA polymerase subunit \textbeta \space and the RNA polymerase sigma factor.  
+\chapter*{Acknowledgments}
+\addcontentsline{toc}{chapter}{Acknowledgments}
+I would like to thank my group leader Richard Neher who made this very interesting project possible. 
 \tableofcontents
-
-
-\chapter{Abstract}
-
-
+\pagenumbering{arabic}
 \chapter{Introduction}
 
 \input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/introduction}
@@ -79,13 +106,7 @@
 \input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Discussion/discussion}
 \chapter{Supplementary}
 \input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/supplementary}
-\chapter{Declaration}
-\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declaration}
-
 \chapter{References}
 \printbibliography
-
-\chapter{Acknowledgements}
-I would like to thank my group leader Richard Neher who made this very interesting project possible. 
-
+\input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declaration}
 \end{document}

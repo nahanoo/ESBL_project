@@ -1,9 +1,9 @@
 \section{Manual for starting experiments with morbidostat}
 
-This section describes how to switch on specific pumps which is important for disinfecting the morbidostat and how to start morbidostat experiments. First we need to understand the layout of the pumps and how they are assigned. As shown in Figure \ref{figure:pump_layout} 9 pump boxes with five pumps are responsible for injecting antibiotics and media in 15 vials. Every pump box is connected with a numbered connector to the microcontroller. The first layer of pump boxes (connector one, two, three) is named pump1 and connected to media. The second lay (connector four, five, six) is named pump2 and connected to a low-concentrated antibiotic. The top layer (connector seven, eight, nine) is named pump3 and connected to a high-concentrated antibiotic. Within a pump box, every pump has a number as well. The designed layout implies that within one layer of pumps, the individual pumps were were numbered from zero to 14. Because the pumps were connected column by column, the same pump number of every box is responsible for injecting fluids in the according vial. Because the pump layout was implemented with zero indexing, the pump number is shifted by one compared to the vial number. \textit{E.g.} P\_0 from pump1, P\_0 from pump2 and P\_0 from pump3 are responsible for injecting media and antibiotics into vial 1. 
+This section describes how to switch on specific pumps which is important for disinfecting the morbidostat and how to start morbidostat experiments. First we need to understand the layout of the pumps and how they are assigned. As shown in Figure \ref{figure:pump_layout} 9 pump boxes with five pumps are responsible for injecting antibiotics and media in 15 vials. Every pump box is connected with a numbered connector to the microcontroller. The first layer of pump boxes (connector one, two, three) is named pump1 and connected to media. The second layer (connector four, five, six) is named pump2 and connected to a low-concentrated antibiotic. The top layer (connector seven, eight, nine) is named pump3 and connected to a high-concentrated antibiotic. Within a pump box, every pump has a number as well. The designed layout implies that within one layer of pumps, the individual pumps were numbered from zero to 14. Because the pumps were connected column by column, the same pump number of every box is responsible for injecting fluids in the according vial. Because the pump layout was implemented with zero indexing, the pump number is shifted by one compared to the vial number. \textit{E.g.} P\_0 from pump1, P\_0 from pump2 and P\_0 from pump3 are responsible for injecting media and antibiotics into vial 1. 
 \begin{figure}[H]
 	\includegraphics[width=1\textwidth]{pump_mapping.png}
-	\caption{Pump lay out of the pump stacks. P\_N stands for the pump number.}
+	\caption{Pump layout of the pump stacks. P\_N stands for the pump number.}
 	\label{figure:pump_layout}
 \end{figure}
 \subsection{Manually turning on pumps of the morbidostat}
@@ -21,7 +21,7 @@ Within IPython we can call various functions. The following code shows examples 
 morb.run_all_pumps('pump1',30)	# Run all pumps of the first layer pump1 for 30 seconds
 morb.morb.run_pump('pump1,0,30)	# Run P_0 from pump1 for 30 seconds
 morb.morb.inject_volume('pump1',0,10)	# Inject 10 mL in P_0 from pump1
-morb.morb.run_waste_pump(30) #	# Run waste pump for 30 seconds
+morb.morb.run_waste_pump(30) # Run waste pump for 30 seconds
 morb.morb.remove_waste(10)		# Remove 10 mL of waste from all the vials
 \end{verbatim}
 
@@ -38,16 +38,18 @@ Execute the script by typing:
 \end{verbatim}
 Now the morbidostat experiment is running. You can always change parameters defined in the template while the morbiodstat is running. Here are some useful commands while the morbiodstat is running.
 \begin{verbatim}
-morb.dilution_factor = x	# Change the dilution factor with 
+morb.dilution_factor = x	# Change the dilution factor 
 morb.target_OD = x			# Change the target_OD
 morb.cycle_dt = # 			# Change the cycle time
-morb.interrupt_experiment()	# Interrupt the experiment. Necessary if you want to change the bottles
+morb.interrupt_experiment()	# Interrupt the experiment. Necessary if you 
+want to change the bottles with media or antibiotics
 morb.resume_experiment() 	# Resume the experiment
 morb.stop_experiment()		# Stops the experiment
 morb.drug_concentrations[2][0] = x # Change the drug concentration of bottle2
 morb.drug_concentrations[1][0] = x # Change the drug concentration of bottle3
 morb.mics[0] = x 			# Change the mic of the strain
-morb.reset_concentrations()	# Sets drug concentration in the vials to 0, imprtant if you transfer into a new vial
+morb.reset_concentrations()	# Sets drug concentration in the vials to
+0, imprtant if you transfer into a new vial
 \end{verbatim}
 
 
