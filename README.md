@@ -1,2 +1,2 @@
 # ESBL_project
-In this repository every releavant scripts for the ESBL_project are located.
+In this repository every script for the SNP analysis and the morbidostat control for the ESBL E. coli resistance evolution project is located.
