@@ -1,2 +1,3 @@
-# ESBL_project
-In this repository scripts for controlling the morbidostat and or analyzing sequencing data are located. Additionally recorded data from the morbidostat are made available for the experiment 01 and 02. For further information, check the README file in the subfolders or my Thesis (LaTeX_thesis/Main/main.pdf).
+# Patient isolates analysis
+
+All Illumina data was trimmed first with submit_trim.sh. Phylogenetic analysis was performed with Illumina data of every patient isolate using panX.sh. For every patient where phylogenetic analysis of its isolates ensured strain identity the Illumina data of the isolate with the lowest MIC was combined with Oxford Nanopore Technologies sequencing data and hybrid assembled with submit_unicycler.sh The resulting genome was used as a consensus sequence for the other isolates of a patient. Illumina data of all isoaltes of a patient were mapped with mapping.sh. With the alignments pileups were calculated with pileup.py. Those pile ups were analyzed for SNPs with the analysis_modular.py script. Identifed SNPs were annotated by checking the genbank files produced for the consensus sequence with prokka.sh.
