@@ -1,100 +1,186 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Abstract}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Emergence of antibiotic resistance}{2}{section.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Introduction}{4}{chapter.2}% 
+\contentsline {section}{\numberline {1.2}\textbeta -lactams}{4}{section.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Cause and urgency of antibiotic resistance}{4}{section.2.1}% 
+\contentsline {subsection}{\numberline {1.2.1}Cephalosporins}{5}{subsection.1.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Antibiotics and mechanisms of resistance}{6}{section.2.2}% 
+\contentsline {section}{\numberline {1.3}Resistance mechanisms}{5}{section.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Development and mechanism of action of \textbeta -lactams}{6}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {1.3.1}Resistance to \textbeta -lactams}{6}{subsection.1.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Resistance mechanisms against \textbeta -lactams}{7}{subsection.2.2.2}% 
+\contentsline {subsubsection}{\textbeta -lactamases}{6}{section*.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\textbeta -lactamases}{7}{subsubsection*.2}% 
+\contentsline {subsubsection}{Extended-spectrum \textbeta -lactamase (ESBL)}{6}{section*.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Extended spectrum \textbeta -lactamases (ESBLs)}{7}{subsubsection*.3}% 
+\contentsline {section}{\numberline {1.4}ESBL \textit {E. coli}}{6}{section.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}General resistance mechanisms}{8}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {1.4.1}Identification of ESBL \textit {E. coli} and treatment}{6}{subsection.1.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}An overview of antibiotic resistant pathogens in Switzerland}{8}{section.2.3}% 
+\contentsline {section}{\numberline {1.5}Identifying mutations predicting cefepime resistance of ESBL \textit {E. coli}}{7}{section.1.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}ESBL E. coli}{10}{section.2.4}% 
+\contentsline {subsection}{\numberline {1.5.1}Principles of the morbidostat}{8}{subsection.1.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Studying differences in the genome between extended cephalosporine susceptible and resistant E. coli}{11}{section.2.5}% 
+\contentsline {subsection}{\numberline {1.5.2}Previous morbidostat experiments and expected outcome}{8}{subsection.1.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Illumina and Nanopore sequning}{12}{subsubsection*.4}% 
+\contentsline {subsection}{\numberline {1.5.3}Illumina and Nanopore sequencing}{9}{subsection.1.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}Principles and experiences with the morbidostat}{12}{subsection.2.5.1}% 
+\contentsline {section}{\numberline {1.6}Aim of this thesis}{9}{section.1.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Previous morbidostat experiments and expected outcome}{13}{subsubsection*.5}% 
+\contentsline {chapter}{\numberline {2}Materials and methods}{10}{chapter.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Materials and methods}{14}{chapter.3}% 
+\contentsline {section}{\numberline {2.1}ESBL \textit {E. coli} isolates sampled from patients at the University Hospital of Basel}{10}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Analyzing ESBL E. coli solates from patients of the University hospital Basel}{14}{section.3.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Disk diffusion tests}{10}{subsection.2.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Illumina sequencing}{14}{subsubsection*.6}% 
+\contentsline {subsection}{\numberline {2.1.2}MIC determination}{11}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Nanopore sequencing}{14}{subsubsection*.7}% 
+\contentsline {subsection}{\numberline {2.1.3}Selection of isolates suitable for our analysis}{11}{subsection.2.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Phylogenetic analysis}{14}{subsection.3.1.1}% 
+\contentsline {subsubsection}{Illumina sequencing}{11}{section*.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Short read assembly and genome annotation}{15}{subsubsection*.8}% 
+\contentsline {subsubsection}{PanX}{11}{section*.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Identification of SNPs}{15}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {2.1.4}Identification of SNPs}{12}{subsection.2.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Creating a reference genome}{15}{subsubsection*.9}% 
+\contentsline {subsubsection}{ONT sequencing}{12}{section*.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Mapping of short reads}{16}{subsubsection*.10}% 
+\contentsline {subsection}{\numberline {2.1.5}Studying copy numbers of ESBL genes}{12}{subsection.2.1.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Creating pile ups}{16}{subsubsection*.11}% 
+\contentsline {section}{\numberline {2.2}Bioinformatic pipeline for identifying SNPs in resistant ESBL \textit {E. coli}}{13}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Identification of SNPs}{16}{subsubsection*.12}% 
+\contentsline {subsection}{\numberline {2.2.1}Creating a reference genome with annotation}{13}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Identification of genes and promotors affected by SNPs}{17}{subsubsection*.13}% 
+\contentsline {subsection}{\numberline {2.2.2}Mapping Illumina sequencing data of the isolate series to the reference genome}{13}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Assembling and handling procedure of the morbidostat}{17}{section.3.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Calculating pile-ups}{14}{subsection.2.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Hardware and setup}{17}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {2.2.4}Identification of SNPs}{14}{subsection.2.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{OD measurements}{18}{subsubsection*.14}% 
+\contentsline {subsection}{\numberline {2.2.5}Identifying genes and promoters affected by SNPs}{14}{subsection.2.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Vials and tubing}{19}{subsubsection*.15}% 
+\contentsline {section}{\numberline {2.3}Assembling the morbidostat}{14}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Pumps}{19}{subsubsection*.16}% 
+\contentsline {subsection}{\numberline {2.3.1}OD measuring units}{14}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Controlling of the morbidostat}{20}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {2.3.2}Pumps and tubing}{16}{subsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Feedback}{22}{subsubsection*.17}% 
+\contentsline {subsubsection}{Computer controlling the pumps}{17}{section*.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Experimental procedure}{23}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {2.3.3}Controlling the morbidostat}{17}{subsection.2.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{OD and pump calibration}{23}{subsubsection*.18}% 
+\contentsline {subsubsection}{Tasks of a continuous morbidostat cycle}{18}{section*.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{MIC determination}{23}{subsubsection*.19}% 
+\contentsline {subsubsection}{Feedback of the continuous mode}{18}{section*.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Sterilization of the morbidostat}{24}{subsubsection*.20}% 
+\contentsline {subsection}{\numberline {2.3.4}Hardware calibration}{20}{subsection.2.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Testing the continuous culture mode from the morbidostat}{24}{subsubsection*.21}% 
+\contentsline {subsubsection}{OD and pump calibration}{20}{section*.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Plasmid construction}{25}{section.3.3}% 
+\contentsline {section}{\numberline {2.4}Experimentally evolving resistance with the morbidostat}{20}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Primer design}{25}{subsubsection*.22}% 
+\contentsline {subsection}{\numberline {2.4.1}Gibson cloning}{21}{subsection.2.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Results}{26}{chapter.4}% 
+\contentsline {subsection}{\numberline {2.4.2}Culturing ESBL \textit {E. coli} strains with the morbidostat}{23}{subsection.2.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Analyzing longitudinally collected isolates from patients of the University hospital Basel}{26}{section.4.1}% 
+\contentsline {subsubsection}{MIC determination}{23}{section*.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Sample selection based on a pan genome analysis}{26}{subsection.4.1.1}% 
+\contentsline {subsubsection}{Sterilization of the morbidostat}{24}{section*.14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Discussion}{28}{chapter.5}% 
+\contentsline {subsubsection}{Culturing with the morbidostat}{24}{section*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Declaration}{29}{chapter.6}% 
+\contentsline {subsection}{\numberline {2.4.3}Analysis of the morbidostat samples}{25}{subsection.2.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}References}{30}{chapter.7}% 
+\contentsline {subsubsection}{Illumina and Nanopore sequencing}{25}{section*.16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Acknowledgements}{36}{chapter.8}% 
+\contentsline {subsubsection}{Contamination analysis}{25}{section*.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Identifying mutations in morbidostat samples}{25}{section*.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Results}{26}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Identifying SNPs in ESBL \textit {E. coli} isolates series with changing cefepime susceptibility}{26}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Selection of isolate series suitable for our analysis}{26}{subsection.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Identification of SNPs in patient isolates}{26}{subsection.3.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Isolate series of patient 12}{28}{section*.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Isolate series of patient 16}{28}{section*.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Isolate series of patient 24}{31}{section*.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Isolate series of patient 25}{31}{section*.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Isolate series of patient 33}{31}{section*.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Copy numbers of ESBL genes}{31}{subsection.3.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Morbidostat experiments}{34}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Contamination analysis}{34}{subsection.3.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Growth curves and injected concentrations}{36}{subsection.3.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}MIC of the strains used for culturing with the morbidostat}{37}{subsection.3.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.4}SNPs of experiment 01}{38}{subsection.3.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vial 3}{38}{section*.24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vial 10}{38}{section*.25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.5}SNPs of experiment 02}{39}{subsection.3.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vial 1}{39}{section*.26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vial 3}{39}{section*.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vial 4}{39}{section*.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Vial 5}{39}{section*.29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Discussion}{41}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Technical and experimental challenges with the morbidostat}{41}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Hardware issues}{41}{subsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Software issues}{42}{subsection.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}\textit {Bacillus cereus} contamination of the morbidostat experiments}{42}{subsection.4.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Bioinformatic challenges}{42}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Culturing with the morbidostat}{43}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Potential resistance mechanisms considering mutated operons}{44}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}SNPs in porin operons}{44}{subsection.4.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}SNPs in the transcription machinery operon}{45}{subsection.4.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}SNPs affecting other operons}{45}{subsection.4.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Conclusion}{45}{section.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Outlook}{46}{section.4.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Supplementary}{47}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Manual for the software control of the morbidostat}{47}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Manually turning on pumps of the morbidostat}{48}{subsection.5.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Staring morbidostat experiments}{48}{subsection.5.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Gibson cloning}{50}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Sequences of fragments}{50}{subsection.5.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}References}{55}{chapter.6}% 

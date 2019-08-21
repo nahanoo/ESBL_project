@@ -7,7 +7,7 @@
 \usepackage[a4paper,width=150mm,bindingoffset=6mm,top=25mm,bottom=25mm,headheight=15pt]{geometry}
 \usepackage{graphicx}
 \usepackage{float}
-\graphicspath{{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Images/}}
+\graphicspath{{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Images/}{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/Images/}}
 \usepackage{amsmath}
 \usepackage{refcheck}
 \usepackage{textgreek}
@@ -64,8 +64,8 @@
 		\Huge
 		Master thesis Molecular Biology \\
 		\vspace{2cm}
-		\LARGE
-		\textbf{Studying cefepime resistance evolution in ESBL \textit{Escherichia Coli} patient isolates and experimentally evolved ESBL \textit{Escherichia Coli} strains}
+		\Huge
+		\textbf{Experimental evolution and genotypic characterization of ESBL \textit{Escherichia coli}}
 		
 		\vspace{3cm}
 		\begin{minipage}[t]{0.47\textwidth}
@@ -85,11 +85,13 @@
 \end{titlepage}
 \pagenumbering{roman}
 \chapter*{Abstract}
-\addcontentsline{toc}{chapter}{Abstract}
-In Swiss hospitals infections with extended-spectrum cephalosporin resistant \textit{Escherichia coli} (\textit{E. coli}) are emerging \cite{swiss_hospitals}. Enzymes called extended-spectrum \textbeta-lactamases (ESBL) are able to hydrolyze extended-cephalosporins. If expressed in \textit{E. coli}, the susceptibility to extended-cephalosporins is reduced and the strains are called ESBL \textit{E. coli}. Research  heavily focused on studying ESBL mediated extended-spectrum cephalosporin resistance, even though other resistance mechanisms possibly affect extended-spectrum resistance level. We studied cefepime resistance evolution in order to possibly identify new genotypes associated with drug resistance. Therefore, we studied whole-genome sequencing data from ESBL \textit{E. coil} isolates from patients of the University Hospital of Basel evolving resistance to cefepime in patients. Additionally, we assembled a device called morbidostat which we used to experimentally evolve resistance to cefepime with ESBL \textit{E. coli} strains. The morbidostat is an automated culturing device continuously applying high antibiotic pressure to cultures resulting in resistance evolution. We cultured three ESBL \textit{E. coli} strains with the morbidostat which increased the minimal inhibitory concentration of cefepime tested with the strains after culturing with the morbidostat over 100 fold. We analyzed whole-genome sequencing data of the strains cultured with the morbidostat and identified several single nucleotide polymorphisms (SNPs). Interestingly we found SNPs targeting the same gene in patient isolates and morbidostat samples, strongly suggesting the importance of the SNP for the resistance. In particular we identified SNPs in patient isolates and morbidostat samples targeting the genes coding for the porins \textit{ompC} and \textit{ompF} and their regulatory system. Furthermore, SNPs affected the transcription unit by targeting the genes coding for the DNA-directed RNA polymerase subunit \textbeta \space and the RNA polymerase sigma factor.  
+%\addcontentsline{toc}{chapter}{Abstract}
+In Swiss hospitals infections with extended-spectrum cephalosporin resistant \textit{Escherichia coli} (\textit{E. coli}) are emerging \cite{swiss_hospitals}. Enzymes called extended-spectrum \textbeta-lactamases (ESBL) are able to hydrolyze extended-spectrum cephalosporins. If expressed in \textit{E. coli}, the susceptibility to extended-spectrum cephalosporins is reduced and the strains are called ESBL \textit{E. coli}. Research focused on studying ESBL mediated extended-spectrum cephalosporin resistance, even though other resistance mechanisms possibly affect the resistance level. We studied the evolution of cefepime (an extended-spectrum cephalosporin) resistance in ESBL \textit{E. coli} strains in order to identify new genotypes possibly associated with resistance mechanisms. In order to do so, we studied whole-genome sequencing data from ESBL \textit{E. coli} isolates from patients of the University Hospital of Basel. These isolates evolved resistance to cefepime in patients. A bioinformatic pipeline was developed for analyzing the sequencing data, revealing several single nucleotide polymorphisms (SNPs) in genomes of isolates which evolved resistance.
+Additionally, we assembled a device called morbidostat, which we used to experimentally evolve resistance to cefepime in ESBL \textit{E. coli} strains. The morbidostat is an automated culturing device continuously applying high antibiotic pressure to bacterial cultures resulting in resistance evolution. We cultured three ESBL \textit{E. coli} strains in the morbidostat with cefepime which highly increased the resistance level of the strains. Samples of strains taken during morbidostat experiments were deep-sequenced and analyzed with the same bioinformatic pipeline which was applied to patient isolates. Compared to the genomes of the strains before culturing with the morbidostat, several SNPs were identified in the genomes of the strains which evolved resistance. Interestingly, we found SNPs in the same genes in patients isolates and morbidostat samples, strongly suggesting the importance of the SNPs for the resistance mechanism. In particular, we identified SNPs in patient isolates and morbidostat samples targeting genes coding for the porins \textit{ompC}, \textit{ompF} and their regulatory system. Furthermore, SNPs in patient isolates and morbidostat samples affected the transcription machinery by targeting the genes coding for the DNA-directed RNA polymerase subunit \textbeta \space and the RNA polymerase sigma factor.  
 \chapter*{Acknowledgments}
-\addcontentsline{toc}{chapter}{Acknowledgments}
-I would like to thank my group leader Richard Neher who made this very interesting project possible. 
+%\addcontentsline{toc}{chapter}{Acknowledgments}
+I would like to thank Richard Neher and Dirk Bumann who gave me the opportunity to work on this very interesting project. Next, I would like to thank everyone in Neher's group for the stimulating discussions and for the friendly environment. Special thanks go to Beatrice Claudi for producing the ESBL plasmids and for answering every microbiology-related question that I had. Furthermore, I would like to thank Sandra Söderholm for supporting me so much with this project and for proofreading my thesis. 
+Lastly, I would like to thank my family who supported me throughout the whole year and gave me the opportunity to fully focus on this project. 
 \tableofcontents
 \pagenumbering{arabic}
 \chapter{Introduction}
@@ -107,6 +109,11 @@ I would like to thank my group leader Richard Neher who made this very interesti
 \chapter{Supplementary}
 \input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/supplementary}
 \chapter{References}
+\phantomsection
+\let\Origclearpage\clearpage
+\let\clearpage\relax
+\defbibheading{bibliography}[\refname]{}
 \printbibliography
+
 \input{/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declaration}
 \end{document}

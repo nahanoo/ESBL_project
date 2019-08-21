@@ -1,0 +1,18 @@
+vials	0	1	2	3	4	6	7	8	9
+Experiment:	OXA
+Strain:	e_coli
+Drugs:	cefepime
+Bottles:	A	C	B
+drug_concentrations:	[ 0.]	[ 30000.]	[ 10000.]
+cycle_duration:	600
+measurements/cycle:	18
+OD_dt:	30
+experiment_start:	1558618260.43
+experiment_duration:	1209600
+AB_switch_conc:	0.3
+max_AB_fold_increase:	1.1
+feedback_time_scale:	12
+anticipation_threshold:	0.95
+saturation_threshold:	0.4
+dilution_threshold:	0.09
+dilution_factor:	0.91

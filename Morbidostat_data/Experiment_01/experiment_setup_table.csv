@@ -1,0 +1,30 @@
+#meta,,,,,
+name,OXA,,,,
+bug,e_coli,,,,
+strain,K12_OXA,,,,
+,,,,,
+#times,,"unit [s,m,h,d]",,,
+cycle,660,s,,,
+OD,33,s,,,
+experiment,14,d,,,
+,,,,,
+#parameters,,,,,
+target OD,0.14,,,,
+dilution,0.94,,,,
+,,,,,
+#drugs,unit,mic,,,
+cefepime,ng/ml,3000,,,
+,,,,,
+#bottles,,,,,
+A,0,,,,
+B,9000,,,,
+C,21000,,,,
+,,,,,
+#vials,"feedback type (M, OD, G, C)",bottle1,bottle2,bottle3,feedback_drug
+1,C,A,B,C,cefepime
+2,C,A,B,C,cefepime
+3,C,A,B,C,cefepime
+4,C,A,B,C,cefepime
+5,C,A,B,C,cefepime
+9,C,A,B,C,cefepime
+10,G,A,B,C,cefepime

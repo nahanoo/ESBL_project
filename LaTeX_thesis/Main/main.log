@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  17 APR 2019 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  8 AUG 2019 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -133,33 +133,67 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box28
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box29
-\beforetitleunit=\skip43
-\aftertitleunit=\skip44
-\ttl@plus=\dimen114
-\ttl@minus=\dimen115
-\ttl@toksa=\toks21
-\titlewidth=\dimen116
-\titlewidthlast=\dimen117
-\titlewidthfirst=\dimen118
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/ttlps.def
-File: ttlps.def 2016/03/15
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen114
 ))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip45
-\f@nch@O@elh=\skip46
-\f@nch@O@erh=\skip47
-\f@nch@O@olh=\skip48
-\f@nch@O@orh=\skip49
-\f@nch@O@elf=\skip50
-\f@nch@O@erf=\skip51
-\f@nch@O@olf=\skip52
-\f@nch@O@orf=\skip53
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks22
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/refcheck/refcheck.sty
+Package: refcheck 2013/02/14 v1.9.1
+\btoks=\toks26
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/textgreek/textgreek.sty
 Package: textgreek 2011/10/09 v0.7 Greek symbols in text
@@ -585,16 +619,16 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen119
-\Hy@linkcounter=\count102
-\Hy@pagecounter=\count103
+\@linkdim=\dimen123
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count104
+\Hy@SavedSpaceFactor=\count116
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -606,17 +640,17 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count105
+\c@Hy@tempcnt=\count117
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen120
-\Fld@menulength=\count106
-\Field@Width=\dimen121
-\Fld@charsize=\dimen122
+\XeTeXLinkMargin=\dimen124
+\Fld@menulength=\count118
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -626,23 +660,23 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count107
-\c@Item=\count108
-\c@Hfootnote=\count109
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count110
-\c@bookmark@seq@number=\count111
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip54
+\Hy@SectionHShift=\skip46
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
@@ -839,73 +873,270 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen127
+\ar@mcellbox=\box31
+\extrarowheight=\dimen128
+\NC@list=\toks27
+\extratabsurround=\skip47
+\backup@length=\skip48
+\ar@cellbox=\box32
+)
+\everycr=\toks28
+\minrowclearance=\skip49
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/texshade/texshade.sty
+Package: texshade 2018/01/17 LaTeX TeXshade (v1.25)
+
+Package `texshade', Version 1.25 of 2018/01/17.
+\structurefile=\read1
+\featurefile=\write3
+\alignfile=\read2
+\sublogofile=\read3
+\exp@rtfile=\write4
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\symalphahelix=\mathgroup6
+\loopcount=\count124
+\innerloopcount=\count125
+\outerloopcount=\count126
+\seq@count=\count127
+\killseq@count=\count128
+\seq@percent=\count129
+\res@count=\count130
+\seq@pointer=\count131
+\pos@count=\count132
+\res@perline=\count133
+\end@count=\count134
+\cons@count=\count135
+\total@count=\count136
+\temp@count=\count137
+\triple@count=\count138
+\temp@@count=\count139
+\pos@sum=\count140
+\box@width=\skip50
+\name@width=\skip51
+\box@depth=\skip52
+\width@tmp=\skip53
+\box@height=\skip54
+\number@width=\skip55
+\line@stretch=\skip56
+\center@fill=\skip57
+\arrow@width=\skip58
+\arrow@height=\skip59
+\rule@thick=\skip60
+\arrow@thick=\skip61
+\logo@height=\skip62
+\equal@width=\skip63
+\equal@tmp=\skip64
+\equal@height=\skip65
+\temp@@length=\skip66
+\vspace@legend=\skip67
+\hspace@legend=\skip68
+\bar@length=\skip69
+Package color Info: Redefining color LightCyan on input line 1671.
+Package color Info: Redefining color LightGray on input line 1705.
+Package color Info: Redefining color LightLightGray on input line 1806.
+Package color Info: Redefining color LightLightLightGray on input line 1908.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip70
+\LTright=\skip71
+\LTpre=\skip72
+\LTpost=\skip73
+\LTchunksize=\count141
+\LTcapwidth=\dimen129
+\LT@head=\box33
+\LT@firsthead=\box34
+\LT@foot=\box35
+\LT@lastfoot=\box36
+\LT@cols=\count142
+\LT@rows=\count143
+\c@LT@tables=\count144
+\c@LT@chunks=\count145
+\LT@p@ftn=\toks29
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/dnaseq/dnaseq.sty
+Package: dnaseq 2002/05/20 v0.01 dna sequence setter
+\bl@cklen=\skip74
+\l@neln=\skip75
+\t@mpln=\skip76
+\ch@rwd=\skip77
+\blocks=\count146
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen130
+\TX@old@table=\dimen131
+\TX@old@col=\dimen132
+\TX@target=\dimen133
+\TX@delta=\dimen134
+\TX@cols=\count147
+\TX@ftn=\toks30
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count148
+\calc@Bcount=\count149
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip78
+\calc@Bskip=\skip79
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count150
+\calc@Cskip=\skip80
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen137
+\AM@pageheight=\dimen138
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box37
+\AM@global@opts=\toks31
+\AM@toc@title=\toks32
+\c@AM@survey=\count151
+\AM@templatesizebox=\box38
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip81
+\multirow@cntb=\count152
+\multirow@dima=\skip82
+\bigstrutjot=\dimen139
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count153
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+\c@dirtytalk@qdepth=\count154
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip83
+\f@nch@O@elh=\skip84
+\f@nch@O@erh=\skip85
+\f@nch@O@olh=\skip86
+\f@nch@O@orh=\skip87
+\f@nch@O@elf=\skip88
+\f@nch@O@erf=\skip89
+\f@nch@O@olf=\skip90
+\f@nch@O@orf=\skip91
+)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count112
+\lrq@indent=\count155
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count113
-\c@listtotal=\count114
-\c@listcount=\count115
-\c@liststart=\count116
-\c@liststop=\count117
-\c@citecount=\count118
-\c@citetotal=\count119
-\c@multicitecount=\count120
-\c@multicitetotal=\count121
-\c@instcount=\count122
-\c@maxnames=\count123
-\c@minnames=\count124
-\c@maxitems=\count125
-\c@minitems=\count126
-\c@citecounter=\count127
-\c@maxcitecounter=\count128
-\c@savedcitecounter=\count129
-\c@uniquelist=\count130
-\c@uniquename=\count131
-\c@refsection=\count132
-\c@refsegment=\count133
-\c@maxextratitle=\count134
-\c@maxextratitleyear=\count135
-\c@maxextraname=\count136
-\c@maxextradate=\count137
-\c@maxextraalpha=\count138
-\c@abbrvpenalty=\count139
-\c@highnamepenalty=\count140
-\c@lownamepenalty=\count141
-\c@maxparens=\count142
-\c@parenlevel=\count143
-\blx@tempcnta=\count144
-\blx@tempcntb=\count145
-\blx@tempcntc=\count146
-\blx@maxsection=\count147
-\blx@maxsegment@0=\count148
-\blx@notetype=\count149
-\blx@parenlevel@text=\count150
-\blx@parenlevel@foot=\count151
-\blx@sectionciteorder@0=\count152
-\blx@entrysetcounter=\count153
-\labelnumberwidth=\skip55
-\labelalphawidth=\skip56
-\biblabelsep=\skip57
-\bibitemsep=\skip58
-\bibnamesep=\skip59
-\bibinitsep=\skip60
-\bibparsep=\skip61
-\bibhang=\skip62
-\blx@bcfin=\read1
-\blx@bcfout=\write3
-\c@mincomprange=\count154
-\c@maxcomprange=\count155
-\c@mincompwidth=\count156
+\c@tabx@nest=\count156
+\c@listtotal=\count157
+\c@listcount=\count158
+\c@liststart=\count159
+\c@liststop=\count160
+\c@citecount=\count161
+\c@citetotal=\count162
+\c@multicitecount=\count163
+\c@multicitetotal=\count164
+\c@instcount=\count165
+\c@maxnames=\count166
+\c@minnames=\count167
+\c@maxitems=\count168
+\c@minitems=\count169
+\c@citecounter=\count170
+\c@maxcitecounter=\count171
+\c@savedcitecounter=\count172
+\c@uniquelist=\count173
+\c@uniquename=\count174
+\c@refsection=\count175
+\c@refsegment=\count176
+\c@maxextratitle=\count177
+\c@maxextratitleyear=\count178
+\c@maxextraname=\count179
+\c@maxextradate=\count180
+\c@maxextraalpha=\count181
+\c@abbrvpenalty=\count182
+\c@highnamepenalty=\count183
+\c@lownamepenalty=\count184
+\c@maxparens=\count185
+\c@parenlevel=\count186
+\blx@tempcnta=\count187
+\blx@tempcntb=\count188
+\blx@tempcntc=\count189
+\blx@maxsection=\count190
+\blx@maxsegment@0=\count191
+\blx@notetype=\count192
+\blx@parenlevel@text=\count193
+\blx@parenlevel@foot=\count194
+\blx@sectionciteorder@0=\count195
+\blx@entrysetcounter=\count196
+\labelnumberwidth=\skip92
+\labelalphawidth=\skip93
+\biblabelsep=\skip94
+\bibitemsep=\skip95
+\bibnamesep=\skip96
+\bibinitsep=\skip97
+\bibparsep=\skip98
+\bibhang=\skip99
+\blx@bcfin=\read4
+\blx@bcfout=\write5
+\c@mincomprange=\count197
+\c@maxcomprange=\count198
+\c@mincompwidth=\count199
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -916,88 +1147,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count157
-\c@savedafterword=\count158
-\c@annotator=\count159
-\c@savedannotator=\count160
-\c@author=\count161
-\c@savedauthor=\count162
-\c@bookauthor=\count163
-\c@savedbookauthor=\count164
-\c@commentator=\count165
-\c@savedcommentator=\count166
-\c@editor=\count167
-\c@savededitor=\count168
-\c@editora=\count169
-\c@savededitora=\count170
-\c@editorb=\count171
-\c@savededitorb=\count172
-\c@editorc=\count173
-\c@savededitorc=\count174
-\c@foreword=\count175
-\c@savedforeword=\count176
-\c@holder=\count177
-\c@savedholder=\count178
-\c@introduction=\count179
-\c@savedintroduction=\count180
-\c@namea=\count181
-\c@savednamea=\count182
-\c@nameb=\count183
-\c@savednameb=\count184
-\c@namec=\count185
-\c@savednamec=\count186
-\c@translator=\count187
-\c@savedtranslator=\count188
-\c@shortauthor=\count189
-\c@savedshortauthor=\count190
-\c@shorteditor=\count191
-\c@savedshorteditor=\count192
-\c@labelname=\count193
-\c@savedlabelname=\count194
-\c@institution=\count195
-\c@savedinstitution=\count196
-\c@lista=\count197
-\c@savedlista=\count198
-\c@listb=\count199
-\c@savedlistb=\count266
-\c@listc=\count267
-\c@savedlistc=\count268
-\c@listd=\count269
-\c@savedlistd=\count270
-\c@liste=\count271
-\c@savedliste=\count272
-\c@listf=\count273
-\c@savedlistf=\count274
-\c@location=\count275
-\c@savedlocation=\count276
-\c@organization=\count277
-\c@savedorganization=\count278
-\c@origlocation=\count279
-\c@savedoriglocation=\count280
-\c@origpublisher=\count281
-\c@savedorigpublisher=\count282
-\c@publisher=\count283
-\c@savedpublisher=\count284
-\c@language=\count285
-\c@savedlanguage=\count286
-\c@origlanguage=\count287
-\c@savedoriglanguage=\count288
-\c@pageref=\count289
-\c@savedpageref=\count290
-\shorthandwidth=\skip63
-\shortjournalwidth=\skip64
-\shortserieswidth=\skip65
-\shorttitlewidth=\skip66
-\shortauthorwidth=\skip67
-\shorteditorwidth=\skip68
-\locallabelnumberwidth=\skip69
-\locallabelalphawidth=\skip70
-\localshorthandwidth=\skip71
-\localshortjournalwidth=\skip72
-\localshortserieswidth=\skip73
-\localshorttitlewidth=\skip74
-\localshortauthorwidth=\skip75
-\localshorteditorwidth=\skip76
+\c@afterword=\count266
+\c@savedafterword=\count267
+\c@annotator=\count268
+\c@savedannotator=\count269
+\c@author=\count270
+\c@savedauthor=\count271
+\c@bookauthor=\count272
+\c@savedbookauthor=\count273
+\c@commentator=\count274
+\c@savedcommentator=\count275
+\c@editor=\count276
+\c@savededitor=\count277
+\c@editora=\count278
+\c@savededitora=\count279
+\c@editorb=\count280
+\c@savededitorb=\count281
+\c@editorc=\count282
+\c@savededitorc=\count283
+\c@foreword=\count284
+\c@savedforeword=\count285
+\c@holder=\count286
+\c@savedholder=\count287
+\c@introduction=\count288
+\c@savedintroduction=\count289
+\c@namea=\count290
+\c@savednamea=\count291
+\c@nameb=\count292
+\c@savednameb=\count293
+\c@namec=\count294
+\c@savednamec=\count295
+\c@translator=\count296
+\c@savedtranslator=\count297
+\c@shortauthor=\count298
+\c@savedshortauthor=\count299
+\c@shorteditor=\count300
+\c@savedshorteditor=\count301
+\c@labelname=\count302
+\c@savedlabelname=\count303
+\c@institution=\count304
+\c@savedinstitution=\count305
+\c@lista=\count306
+\c@savedlista=\count307
+\c@listb=\count308
+\c@savedlistb=\count309
+\c@listc=\count310
+\c@savedlistc=\count311
+\c@listd=\count312
+\c@savedlistd=\count313
+\c@liste=\count314
+\c@savedliste=\count315
+\c@listf=\count316
+\c@savedlistf=\count317
+\c@location=\count318
+\c@savedlocation=\count319
+\c@organization=\count320
+\c@savedorganization=\count321
+\c@origlocation=\count322
+\c@savedoriglocation=\count323
+\c@origpublisher=\count324
+\c@savedorigpublisher=\count325
+\c@publisher=\count326
+\c@savedpublisher=\count327
+\c@language=\count328
+\c@savedlanguage=\count329
+\c@origlanguage=\count330
+\c@savedoriglanguage=\count331
+\c@pageref=\count332
+\c@savedpageref=\count333
+\shorthandwidth=\skip100
+\shortjournalwidth=\skip101
+\shortserieswidth=\skip102
+\shorttitlewidth=\skip103
+\shortauthorwidth=\skip104
+\shorteditorwidth=\skip105
+\locallabelnumberwidth=\skip106
+\locallabelalphawidth=\skip107
+\localshorthandwidth=\skip108
+\localshortjournalwidth=\skip109
+\localshortserieswidth=\skip110
+\localshorttitlewidth=\skip111
+\localshortauthorwidth=\skip112
+\localshorteditorwidth=\skip113
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -1009,13 +1240,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count291
-\c@textcitetotal=\count292
-\c@textcitemaxnames=\count293
-\c@biburlnumpenalty=\count294
-\c@biburlucpenalty=\count295
-\c@biburllcpenalty=\count296
-\c@smartand=\count297
+\c@textcitecount=\count334
+\c@textcitetotal=\count335
+\c@textcitemaxnames=\count336
+\c@biburlnumpenalty=\count337
+\c@biburlucpenalty=\count338
+\c@biburllcpenalty=\count339
+\c@smartand=\count340
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -1027,8 +1258,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count298
-\c@bbx:relatedtotal=\count299
+\c@bbx:relatedcount=\count341
+\c@bbx:relatedtotal=\count342
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -1066,33 +1297,33 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 50.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 50.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 55.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 50.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1134,17 +1365,17 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count300
-\scratchdimen=\dimen123
-\scratchbox=\box30
-\nofMPsegments=\count301
-\nofMParguments=\count302
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count303
-\MPscratchDim=\dimen124
-\MPnumerator=\count304
-\makeMPintoPDFobject=\count305
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count343
+\scratchdimen=\dimen140
+\scratchbox=\box39
+\nofMPsegments=\count344
+\nofMParguments=\count345
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen141
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
+\everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1162,491 +1393,4288 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 55.
-
+Package: `refcheck' v1.9.1 <2013/02/14>
+options: showrefs, showcites, msgs, chckunlbld
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring OFF on input line 50.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count306
+\c@section@level=\count349
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
-LaTeX Info: Redefining \nameref on input line 55.
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
 
 (./main.out) (./main.out)
-\@outlinefile=\write4
-\openout4 = `main.out'.
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
-\symgns@font=\mathgroup4
+\symgns@font=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/bx/n on input line 55.
-Package gensymb Info: Math companion symbols declared on input line 55.
-LaTeX Info: Redefining \degree on input line 55.
-LaTeX Info: Redefining \celsius on input line 55.
+(Font)                  TS1/lmr/m/n --> TS1/lmr/bx/n on input line 50.
+Package gensymb Info: Math companion symbols declared on input line 50.
+LaTeX Info: Redefining \degree on input line 50.
+LaTeX Info: Redefining \celsius on input line 50.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 55.
-LaTeX Info: Redefining \ohm on input line 55.
-Package gensymb Info: Using \textohm for \ohm on input line 55.
-Package gensymb Info: Using \textmu for \micro on input line 55.
+erthousand on input line 50.
+LaTeX Info: Redefining \ohm on input line 50.
+Package gensymb Info: Using \textohm for \ohm on input line 50.
+Package gensymb Info: Using \textmu for \micro on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
+\openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 50.
+Package biblatex Info: Reference segment=0 on input line 50.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/logo.p
+ng, id=269, 2007.5pt x 636.3775pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/l
+ogo.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/lo
+go.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Main/Images/logo.png  used on input line 54.
+(pdftex.def)             Requested size: 170.71393pt x 54.11565pt.
+ [1
 
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                noauthor_fig._nodate
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </home/e
+riculrich/Documents/Master/Masterarbeit/LaTeX_thesis/Main/Images/logo.png>]
+LaTeX Font Info:    Try loading font information for LGR+lmr on input line 89.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
+File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
+) [1
 
+]
+[2
 
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                piezo_pumps
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                swiss_hospital
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ventola_antibiotic_2015e
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
-Package biblatex Info: Reference section=0 on input line 55.
-Package biblatex Info: Reference segment=0 on input line 55.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 59.
+] (./main.toc
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 6.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 59.
-
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 6.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 59.
-
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 6.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 59.
+(Font)              <12> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 59.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 59.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 59.
+(Font)              <6> on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 6.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
+) [3
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
-.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 10.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 10.
-LaTeX Font Info:    Try loading font information for LGR+lmr on input line 14.
+])
+\tf@toc=\write7
+\openout7 = `main.toc'.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
-File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
-))
-\tf@toc=\write5
-\openout5 = `main.toc'.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.97 \chapter
+             {Introduction} [1]
+Chapter 1.
 
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/intro
+duction.tex
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/consumption.png, id=378, 1559.00844pt x 550.98648pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/consumption.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/consumption.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/consumption.png  used on input line 13.
+(pdftex.def)             Requested size: 426.79134pt x 150.83655pt.
  [2
 
 ]
-Chapter 1.
-[3
-
-]
-Chapter 2.
-
-(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/intro
-duction.tex [4
-
-] [5] [6] [7]
-</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/pathogens_overview.png, id=269, 1901.1025pt x 919.435pt>
-File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
-Images/pathogens_overview.png Graphic file (type png)
-<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
-mages/pathogens_overview.png>
-Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/pathogens_overview.png  used on input line 73.
-(pdftex.def)             Requested size: 380.21376pt x 183.88374pt.
- [8]
-Overfull \hbox (63.55705pt too wide) in paragraph at lines 88--89
-\OT1/lmr/m/n/12 blood and pul-monary in-fec-tion caus-ing around 7000 deaths pe
-r year [[]].
- []
-
-[9 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Im
-ages/pathogens_overview.png>]
-Underfull \vbox (badness 2913) has occurred while \output is active []
-
- [10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+ [3 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/consumption.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/antibiotics.jpg, id=446, 451.6875pt x 338.76563pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/antibiotics.jpg Graphic file (type jpg)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/antibiotics.jpg>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/antibiotics.jpg  used on input line 29.
+(pdftex.def)             Requested size: 210.83707pt x 158.12917pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/peptidoglycan.png, id=449, 1027.84pt x 564.1075pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/peptidoglycan.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/peptidoglycan.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/peptidoglycan.png  used on input line 35.
+(pdftex.def)             Requested size: 213.39566pt x 117.11467pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
+s/cefepim.png, id=450, 658.46pt x 372.39125pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/cefepim.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/cefepim.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/cefepim.png  used on input line 36.
+(pdftex.def)             Requested size: 170.71393pt x 96.54669pt.
+
+Underfull \vbox (badness 6808) has occurred while \output is active []
+
+ [4 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/antibiotics.jpg>] [5 </home/ericulrich/Documents/Master/Masterarbeit/LaTe
+X_thesis/Introduction/Images/peptidoglycan.png> </home/ericulrich/Documents/Mas
+ter/Masterarbeit/LaTeX_thesis/Introduction/Images/cefepim.png>]
+Overfull \hbox (2.30016pt too wide) in paragraph at lines 51--53
+\OT1/lmr/m/n/12 trans-mit-ted via hor-i-zon-tal gene-transfer [[]22[]]. The fir
+st plasmid-mediated \LGR/lmr/m/n/12 b\OT1/lmr/m/n/12 -lactamase
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
 
  []
 
-[12]
+
+Overfull \hbox (9.67342pt too wide) in paragraph at lines 55--59
+\OT1/lmr/m/n/12 cephalosporins. Those novel \LGR/lmr/m/n/12 b\OT1/lmr/m/n/12 -l
+actamases were called extended-spectrum-\LGR/lmr/m/n/12 b\OT1/lmr/m/n/12 -lacta
+mases
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+[6]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/vial_diagram.png, id=346, 1571.8725pt x 841.1425pt>
-File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
-Images/vial_diagram.png Graphic file (type png)
-<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
-mages/vial_diagram.png>
-Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/vial_diagram.png  used on input line 130.
-(pdftex.def)             Requested size: 157.19646pt x 84.11917pt.
-</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/growth_diagram.png, id=347, 1861.95625pt x 1154.3125pt>
+s/growth_diagram.png, id=537, 1861.95625pt x 1154.3125pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
 Images/growth_diagram.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
 mages/growth_diagram.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/growth_diagram.png  used on input line 131.
-(pdftex.def)             Requested size: 130.35025pt x 80.81012pt.
-) [13 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction
-/Images/vial_diagram.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX
-_thesis/Introduction/Images/growth_diagram.png>]
-Chapter 3.
+hesis/Introduction/Images/growth_diagram.png  used on input line 75.
+(pdftex.def)             Requested size: 213.39566pt x 132.294pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Im
+ages/growth_diagram.png>]) [9]
+Chapter 2.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/materialsandmethods.tex
-Overfull \hbox (13.81015pt too wide) in paragraph at lines 10--11
-\OT1/lmr/m/n/12 Isolates from pa-tients of in-ter-est were se-quenced with a Mi
-n-ION from Ox-ford Nanopore.
- []
-
-[14
+s/materialsandmethods.tex [10
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+[11]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/pipeline.png, id=376, 2233.34375pt x 600.2425pt>
+s/Images/pipeline.png, id=598, 2274.4975pt x 528.97626pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/pipeline.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/pipeline.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/pipeline.png  used on input line 26.
-(pdftex.def)             Requested size: 446.66084pt x 120.04637pt.
+hesis/Materialsandmethods/Images/pipeline.png  used on input line 41.
+(pdftex.def)             Requested size: 384.10959pt x 89.32747pt.
 
-Overfull \hbox (19.8695pt too wide) in paragraph at lines 26--27
-[][] 
- []
+Underfull \vbox (badness 4366) has occurred while \output is active []
 
-[15 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
-thods/Images/pipeline.png>] [16]
-Overfull \hbox (12.44572pt too wide) in paragraph at lines 56--56
-|[]\OT1/lmr/bx/n/17.28 Assembling and han-dling pro-ce-dure of the mor-
- []
-
+ [12]
+[13 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pipeline.png>]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/setup_annotated_inksacpe.png, id=415, 540.5796pt x 360.3864pt>
+s/Images/setup_annotated_inksacpe.png, id=630, 540.5796pt x 360.3864pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/setup_annotated_inksacpe.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/setup_annotated_inksacpe.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
 hesis/Materialsandmethods/Images/setup_annotated_inksacpe.png  used on input li
-ne 62.
-(pdftex.def)             Requested size: 378.40314pt x 252.26875pt.
-[17 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
-thods/Images/setup_annotated_inksacpe.png>]
+ne 71.
+(pdftex.def)             Requested size: 298.75262pt x 199.16995pt.
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/OD_setup.png, id=430, 2028.57875pt x 749.80125pt>
-File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/OD_setup.png Graphic file (type png)
-<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
-thods/Images/OD_setup.png>
-Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/OD_setup.png  used on input line 78.
-(pdftex.def)             Requested size: 304.27368pt x 112.46533pt.
- [18]
-</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/vial.JPG, id=440, 1129.88983pt x 753.25989pt>
+s/Images/vial.JPG, id=631, 1129.88983pt x 753.25989pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/vial.JPG Graphic file (type jpg)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/vial.JPG>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/vial.JPG  used on input line 88.
-(pdftex.def)             Requested size: 1129.88707pt x 753.25806pt.
+hesis/Materialsandmethods/Images/vial.JPG  used on input line 72.
+(pdftex.def)             Requested size: 170.71393pt x 113.80017pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
+
+ []
+
+[14]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/pump_blocks.JPG, id=441, 1129.88983pt x 753.25989pt>
+s/Images/OD_setup.png, id=640, 2028.57875pt x 749.80125pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/pump_blocks.JPG Graphic file (type jpg)
+ethods/Images/OD_setup.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
-thods/Images/pump_blocks.JPG>
+thods/Images/OD_setup.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/pump_blocks.JPG  used on input line 89.
-(pdftex.def)             Requested size: 255.35213pt x 170.23476pt.
- [19 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/OD_setup.png> </home/ericulrich/Documents/Master/Masterarbeit/LaT
-eX_thesis/Materialsandmethods/Images/vial.JPG> </home/ericulrich/Documents/Mast
-er/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/pump_blocks.JPG>]
+hesis/Materialsandmethods/Images/OD_setup.png  used on input line 86.
+(pdftex.def)             Requested size: 256.0774pt x 94.6402pt.
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/piezo.png, id=454, 1194.4625pt x 908.39375pt>
+s/Images/OD_unit.png, id=641, 4047.12pt x 2276.505pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/OD_unit.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/OD_unit.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/OD_unit.png  used on input line 87.
+(pdftex.def)             Requested size: 128.0387pt x 72.00902pt.
+ [15 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/setup_annotated_inksacpe.png> </home/ericulrich/Documents/Master/
+Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/vial.JPG>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/piezo.png, id=649, 1194.4625pt x 908.39375pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/piezo.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/piezo.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/piezo.png  used on input line 105.
-(pdftex.def)             Requested size: 119.45325pt x 90.8447pt.
- [20 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/piezo.png>]
+hesis/Materialsandmethods/Images/piezo.png  used on input line 95.
+(pdftex.def)             Requested size: 85.35696pt x 64.91084pt.
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
-s/Images/flowchart.png, id=466, 1425.325pt x 1122.1925pt>
+s/Images/board.JPG, id=650, 3237.09375pt x 2084.78876pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/board.JPG Graphic file (type jpg)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/board.JPG>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/board.JPG  used on input line 96.
+(pdftex.def)             Requested size: 170.71393pt x 109.93976pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/board_below.png, id=651, 2401.97375pt x 1797.71625pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/board_below.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/board_below.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/board_below.png  used on input line 97.
+(pdftex.def)             Requested size: 170.71393pt x 127.74573pt.
+
+Overfull \hbox (5.21562pt too wide) in paragraph at lines 95--98
+[][] [] [] 
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/pump_blocks.JPG, id=654, 1129.88983pt x 753.25989pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pump_blocks.JPG Graphic file (type jpg)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pump_blocks.JPG>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/pump_blocks.JPG  used on input line 102.
+(pdftex.def)             Requested size: 213.39566pt x 142.25882pt.
+[16 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/OD_setup.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTe
+X_thesis/Materialsandmethods/Images/OD_unit.png> </home/ericulrich/Documents/Ma
+ster/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/piezo.png> </home/eri
+culrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethods/Images/b
+oard.JPG> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Material
+sandmethods/Images/board_below.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+ []
+
+[17 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pump_blocks.JPG>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/flowchart.png, id=685, 1420.30624pt x 1116.17pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
 ethods/Images/flowchart.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
 thods/Images/flowchart.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Materialsandmethods/Images/flowchart.png  used on input line 121.
-(pdftex.def)             Requested size: 356.33038pt x 280.54744pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
-ethods/Images/flowchart.png>]
+hesis/Materialsandmethods/Images/flowchart.png  used on input line 125.
+(pdftex.def)             Requested size: 355.07568pt x 279.04181pt.
+ [18]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/Image
-s/feedback.png, id=475, 1962.33125pt x 1485.55pt>
+s/feedback.png, id=700, 1962.33125pt x 1485.55pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
 Images/feedback.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
 mages/feedback.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Introduction/Images/feedback.png  used on input line 141.
+hesis/Introduction/Images/feedback.png  used on input line 149.
 (pdftex.def)             Requested size: 255.11201pt x 193.12828pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/od_calibration.png, id=703, 789.9111pt x 408.3255pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/od_calibration.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/od_calibration.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/od_calibration.png  used on input line 160.
+(pdftex.def)             Requested size: 426.79134pt x 220.61708pt.
 
-Overfull \hbox (39.29848pt too wide) in paragraph at lines 148--153
-\OT1/lmr/m/n/12 For cal-i-brat-ing the pumps the func-tion cal-i-brate[]pumps f
-rom the mor-bido-stat[]experiment.py
+Overfull \hbox (106.04608pt too wide) in paragraph at lines 156--163
+\OT1/lmr/m/n/12 To de-ter-mine the flow rate of the pumps the func-tion cal-i-b
+rate[]pumps from the[]morbidostat[]experiment.py[]
  []
 
-[22] [23 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduct
-ion/Images/feedback.png>] [24]) [25]
-Chapter 4.
+[19 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/flowchart.png>] [20 </home/ericulrich/Documents/Master/Masterarbei
+t/LaTeX_thesis/Introduction/Images/feedback.png>]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/pBC48_pSC101_PybaJ_mCherry-100_Neon-32_Map.png, id=719, 669.4611pt x 7
+06.5597pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pBC48_pSC101_PybaJ_mCherry-100_Neon-32_Map.png Graphic file (type
+ png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pBC48_pSC101_PybaJ_mCherry-100_Neon-32_Map.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/pBC48_pSC101_PybaJ_mCherry-100_Neon-32_Map.png
+  used on input line 172.
+(pdftex.def)             Requested size: 192.0548pt x 202.6977pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
+s/Images/pEU22_p25_WT_CTX-M-1_134015_Map.png, id=720, 850.1361pt x 719.5683pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/pEU22_p25_WT_CTX-M-1_134015_Map.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
+thods/Images/pEU22_p25_WT_CTX-M-1_134015_Map.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Materialsandmethods/Images/pEU22_p25_WT_CTX-M-1_134015_Map.png  used on i
+nput line 173.
+(pdftex.def)             Requested size: 234.73653pt x 198.67792pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 172--174
+[][] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/od_calibration.png>] [22 </home/ericulrich/Documents/Master/Maste
+rarbeit/LaTeX_thesis/Materialsandmethods/Images/pBC48_pSC101_PybaJ_mCherry-100_
+Neon-32_Map.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/M
+aterialsandmethods/Images/pEU22_p25_WT_CTX-M-1_134015_Map.png>] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
+
+ []
+
+
+Underfull \vbox (badness 5316) has occurred while \output is active []
+
+ [24])
+[25]
+Chapter 3.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/results.te
 x
-Overfull \hbox (12.26501pt too wide) in paragraph at lines 1--1
-|[]\OT1/lmr/bx/n/17.28 Analyzing lon-gi-tu-di-nally col-lected iso-lates from
- []
-
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/181
-205_panXtree_overview.png, id=508, 770.88pt x 1346.02875pt>
+205_panXtree_overview.png, id=771, 770.88pt x 1346.02875pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
 s/181205_panXtree_overview.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
 /181205_panXtree_overview.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
-hesis/Results/Images/181205_panXtree_overview.png  used on input line 4.
+hesis/Results/Images/181205_panXtree_overview.png  used on input line 6.
 (pdftex.def)             Requested size: 154.17326pt x 269.20097pt.
-
-Overfull \hbox (23.38956pt too wide) in paragraph at lines 15--37
-[][] 
- []
-
-) [26
+ [26
 
 ] [27 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Imag
 es/181205_panXtree_overview.png>]
-Chapter 5.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Discussion/discuss
-ion.tex) [28
-
-]
-Chapter 6.
-
-(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declar
-ation.tex) [29
-
-]
-Chapter 7.
-[30
-
-]
-Overfull \hbox (17.58096pt too wide) in paragraph at lines 87--87
-\OT1/lmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
-uenc-ing". In: \OT1/lmr/m/it/12 bioarchive
+ [28]
+Overfull \hbox (1.88554pt too wide) in paragraph at lines 118--118
+[]|\OT1/lmr/m/n/12 Hydoxycarboxylate 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 86.
+
+Overfull \hbox (447.87622pt too wide) in paragraph at lines 123--124
+\OT1/lmr/m/n/12 scrip-tion fac-tor.                                            
+                                                                               
+                                            
+ []
+
+(pat16fepa.aln: <Sequence name `top' was not found - using first sequence.>
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 132
+.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (97.73674pt too wide) in paragraph at lines 87--87
-\OT1/lmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
-empfen / antibiotikaresistenzen /
+<Seqtype guess: nucleotide> .
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+LaTeX Font Info:    Try loading font information for OT1+sf on input line 132.
+LaTeX Font Info:    No file OT1sf.fd. on input line 132.
+
+LaTeX Font Warning: Font shape `OT1/sf/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 132.
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 132
+.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+.
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Underfull \vbox (badness 7540) has occurred while \output is active []
+
+ [29] .
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Overfull \hbox (47.1439pt too wide) in paragraph at lines 264--307
+[][]  [] 
  []
 
 
-Overfull \hbox (97.73674pt too wide) in paragraph at lines 87--87
-\OT1/lmtt/m/n/12 bag / de / home / krankheiten / infektionskrankheiten -[] beka
-empfen / antibiotikaresistenzen /
+Underfull \vbox (badness 1337) has occurred while \output is active []
+
+ [31]
+[32] [33]
+Overfull \hbox (2.4691pt too wide) in paragraph at lines 311--324
+\OT1/lmr/m/n/12 We mapped the Il-lu-mina reads from the mor-bido-stat sam-ples 
+to the hybrid-assembled
+ []
+
+[34]
+Overfull \hbox (3.17632pt too wide) in paragraph at lines 350--350
+[]|\OT1/lmr/m/n/12 Experiment|  
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/bac
+illus_reads.png, id=862, 1177.39874pt x 1175.39125pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/bacillus_reads.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/bacillus_reads.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/bacillus_reads.png  used on input line 355.
+(pdftex.def)             Requested size: 245.97836pt x 245.54813pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/01_
+vial_3.png, id=863, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/01_vial_3.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/01_vial_3.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/01_vial_3.png  used on input line 363.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/01_
+vial_10.png, id=864, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/01_vial_10.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/01_vial_10.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/01_vial_10.png  used on input line 364.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 363--365
+[][] [] 
+ []
+
+[35]
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/02_
+vial_1.png, id=870, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/02_vial_1.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/02_vial_1.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/02_vial_1.png  used on input line 370.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/02_
+vial_3.png, id=871, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/02_vial_3.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/02_vial_3.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/02_vial_3.png  used on input line 371.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/02_
+vial_4.png, id=872, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/02_vial_4.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/02_vial_4.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/02_vial_4.png  used on input line 372.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/02_
+vial_5.png, id=873, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/02_vial_5.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/02_vial_5.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/02_vial_5.png  used on input line 373.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 370--374
+[][] []
  []
 
 
-Overfull \hbox (7.1313pt too wide) in paragraph at lines 87--87
-[]\OT1/lmr/m/it/12 Babraham Bioin-for-mat-ics - Trim Ga-lore! \OT1/lmr/m/sc/12 
-url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / www . bioinformatics .
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 370--374
+[] [] 
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images/via
+l_3_area.png, id=879, 722.7pt x 361.35pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/vial_3_area.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/vial_3_area.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Results/Images/vial_3_area.png  used on input line 380.
+(pdftex.def)             Requested size: 213.39566pt x 106.69656pt.
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/
+Images/feedback.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Introduction/I
+mages/feedback.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Introduction/Images/feedback.png  used on input line 381.
+(pdftex.def)             Requested size: 213.39566pt x 161.52959pt.
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 380--382
+[][] [] 
  []
 
 
-Overfull \hbox (17.9617pt too wide) in paragraph at lines 87--87
-\OT1/lmtt/m/n/12 / / www . sciencedirect . com / topics / neuroscience / beta -
-[] lactam -[] antibiotics$[]
+Underfull \vbox (badness 1024) has occurred while \output is active []
+
+ [36 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Image
+s/bacillus_reads.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_the
+sis/Results/Images/01_vial_3.png> </home/ericulrich/Documents/Master/Masterarbe
+it/LaTeX_thesis/Results/Images/01_vial_10.png>]
+Overfull \hbox (26.76884pt too wide) in paragraph at lines 389--407
+[][]  [] 
  []
 
-[31
+[37 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Results/Images
+/02_vial_1.png> </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Re
+sults/Images/02_vial_3.png> </home/ericulrich/Documents/Master/Masterarbeit/LaT
+eX_thesis/Results/Images/02_vial_4.png> </home/ericulrich/Documents/Master/Mast
+erarbeit/LaTeX_thesis/Results/Images/02_vial_5.png> </home/ericulrich/Documents
+/Master/Masterarbeit/LaTeX_thesis/Results/Images/vial_3_area.png>]
+Underfull \vbox (badness 1603) has occurred while \output is active []
 
-]
+ [38])
+[39] [40]
+Chapter 4.
 
-Package biblatex Warning: No driver for entry type 'artwork'.
-(biblatex)                Using fallback driver on input line 86.
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Discussion/discuss
+ion.tex [41
 
-[32]
-Overfull \hbox (19.86232pt too wide) in paragraph at lines 87--87
-\OT1/lmr/m/n/12 Burrows-Wheeler trans-form". In: \OT1/lmr/m/it/12 Bioin-for-mat
--ics (Ox-ford, Eng-land) \OT1/lmr/m/n/12 25.14 (July 15,
+] [42] [43] [44] [45]) [46]
+Chapter 5.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/supp
+lementary.tex
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Imag
+es/pump_mapping.png, id=994, 2009.5075pt x 715.67375pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary
+/Images/pump_mapping.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
+Images/pump_mapping.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Supplementary/Images/pump_mapping.png  used on input line 5.
+(pdftex.def)             Requested size: 426.79134pt x 151.98856pt.
+
+Underfull \vbox (badness 2012) has occurred while \output is active []
+
+ [47
+
+ </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Ima
+ges/pump_mapping.png>]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 27--27
+[]\OT1/lmtt/m/n/12 morb.morb.inject_volume('pump1',0,10) # Inject 10 mL in P_0 
+from pump1[] 
+ []
+
+</home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Imag
+es/template.png, id=1004, 871.255pt x 594.22pt>
+File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary
+/Images/template.png Graphic file (type png)
+<use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
+Images/template.png>
+Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
+hesis/Supplementary/Images/template.png  used on input line 32.
+(pdftex.def)             Requested size: 426.79134pt x 291.07968pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 54--54
+[]\OT1/lmtt/m/n/12 morb.interrupt_experiment() # Interrupt the experiment. Nece
+ssary if you[] 
  []
 
 
-Overfull \hbox (0.64912pt too wide) in paragraph at lines 87--87
-[]\OT1/lmr/m/it/12 Mechanism of Ac-tion of Tetra-cy-clines | An-i-ma-tions | Ph
-ar-maX-Change.info\OT1/lmr/m/n/12 .
+Overfull \hbox (48.6839pt too wide) in paragraph at lines 54--54
+[]\OT1/lmtt/m/n/12 morb.drug_concentrations[2][0] = x # Change the drug concent
+ration of bottle2[] 
  []
 
 
-Overfull \hbox (16.9617pt too wide) in paragraph at lines 87--87
-\OT1/lmtt/m/n/12 org / sites / default / files / Modelling % 20the % 20antibiot
-ic % 20development %
+Overfull \hbox (48.6839pt too wide) in paragraph at lines 54--54
+[]\OT1/lmtt/m/n/12 morb.drug_concentrations[1][0] = x # Change the drug concent
+ration of bottle3[] 
  []
 
-[33]
-Overfull \hbox (6.30199pt too wide) in paragraph at lines 87--87
+Blocks per line: 5
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+[49 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
+Images/template.png>] Blocks per line: 5
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
+
+ []
+
+[50] Blocks per line: 5
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Blocks per line: 5
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+[54]
+Chapter 6.
+[55
+
+] [56] [57]
+Overfull \hbox (6.30199pt too wide) in paragraph at lines 117--117
 \OT1/lmr/m/n/12 short sam-ples in next-generation se-quenc-ing". In: \OT1/lmr/m
 /it/12 Sci-en-tific Re-ports \OT1/lmr/m/n/12 8.1 (July 19,
  []
 
 
-Overfull \hbox (4.35774pt too wide) in paragraph at lines 87--87
-\OT1/lmr/m/it/12 te-ria us-ing sin-gle molecule se-quenc-ing | bioRxiv\OT1/lmr/
-m/n/12 . \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 https : / / 
-www . biorxiv .
+Overfull \hbox (17.58096pt too wide) in paragraph at lines 117--117
+\OT1/lmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
+uenc-ing". In: \OT1/lmr/m/it/12 bioarchive
  []
 
 
-Package biblatex Warning: No driver for entry type 'software'.
-(biblatex)                Using fallback driver on input line 86.
-
-
-Overfull \hbox (2.20616pt too wide) in paragraph at lines 87--87
-\OT1/lmr/m/it/12 mann/prokka\OT1/lmr/m/n/12 . original-date: 2014-03-26T07:19:2
-3Z. Apr. 11, 2019. \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$\OT1/lmtt/m/n/12 ht
-tps :
- []
-
-[34]
-Overfull \hbox (42.16171pt too wide) in paragraph at lines 87--87
-[]$\OT1/lmtt/m/n/12 https : / / www . bag . admin . ch / bag / de / home / kran
-kheiten / infektionskrankheiten -[]
- []
-
-
-Overfull \hbox (25.1367pt too wide) in paragraph at lines 87--87
-\OT1/lmtt/m/n/12 bekaempfen / antibiotikaresistenzen / wie -[] viele -[] antibi
-otika -[] verbrauchen -[]
- []
-
-
-Overfull \hbox (5.6117pt too wide) in paragraph at lines 87--87
-[]$\OT1/lmtt/m/n/12 https : / / www . pharmacytimes . com / publications / heal
-th -[] system -[] edition /
- []
-
-
-Overfull \hbox (7.48099pt too wide) in paragraph at lines 87--87
+Overfull \hbox (7.48099pt too wide) in paragraph at lines 117--117
 \OT1/lmr/m/n/12 short and long se-quenc-ing reads". In: \OT1/lmr/m/it/12 PLOS C
 om-pu-ta-tional Bi-ol-ogy \OT1/lmr/m/n/12 13.6 (June 8,
  []
 
-[35]
-Chapter 8.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-[36
+[58]
+Overfull \hbox (19.86232pt too wide) in paragraph at lines 117--117
+\OT1/lmr/m/n/12 Burrows-Wheeler trans-form". In: \OT1/lmr/m/it/12 Bioin-for-mat
+-ics (Ox-ford, Eng-land) \OT1/lmr/m/n/12 25.14 (July 15,
+ []
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+
+Overfull \hbox (5.9886pt too wide) in paragraph at lines 117--117
+[]\OT1/lmr/m/n/12 Tom Mad-den. \OT1/lmr/m/it/12 The BLAST Se-quence Anal-y-sis 
+Tool\OT1/lmr/m/n/12 . Na-tional Cen-ter for Biotech-
+ []
+
+[59]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 116.
+
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 116.
+
+(/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declar
+ation.tex
+</home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.pdf, 
+id=1197, 597.50786pt x 845.04686pt>
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf  used on input line 1.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf  used on input line 1.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+</home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.pdf, 
+id=1200, page=1, 597.50786pt x 845.04686pt>
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df, page 1>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df, page 1>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+ [60]
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df, page 1>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df, page 1>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf Graphic file (type pdf)
+<use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
+df, page 1>
+Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
+/Images/dec_edited.pdf , page1 used on input line 1.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+ [61 </home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
+pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8BCF880B1233C3BDFF15B451E7EE35B4;2159.
+(rerunfilecheck)             Checksum: A5590D0F6F750C99C4BC13AF338C2041;5428.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16006 strings out of 492616
- 278433 string characters out of 6128968
- 734416 words of memory out of 5000000
- 19537 multiletter control sequences out of 15000+600000
- 55077 words of font info for 52 fonts, out of 8000000 for 9000
+ 23662 strings out of 492616
+ 375513 string characters out of 6128968
+ 1424719 words of memory out of 5000000
+ 26938 multiletter control sequences out of 15000+600000
+ 77961 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,46p,1753b,1738s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/loca
-l/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/local/texlive/20
+ 142i,18n,57p,4590b,3201s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc}{/usr/loca
+l/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/local/texlive/20
 18/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018/texmf-dist/
 fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/
 dvips/lm/lm-mathit.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/l
 m-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grmn12
 00.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grxn1200.
-pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/
-local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/
-texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2018/texmf-dist/
-fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
-/public/lm/lmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/
-lmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (36 pages, 14050946 bytes).
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cbfonts/grxn1728.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/lm/lmmi6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/lm/lmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/l
+mr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
+e1/public/lm/lmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/l
+m/lmtt12.pfb>
+Output written on main.pdf (65 pages, 29026014 bytes).
 PDF statistics:
- 765 PDF objects out of 1000 (max. 8388607)
- 686 compressed objects within 7 object streams
- 152 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1369 PDF objects out of 1440 (max. 8388607)
+ 1194 compressed objects within 12 object streams
+ 270 named destinations out of 1000 (max. 500000)
+ 704 words of extra memory for PDF output out of 10000 (max. 10000000)
 

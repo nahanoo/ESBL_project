@@ -1,4 +1,4 @@
-\section{Manual for starting experiments with morbidostat}
+\section{Manual for the software control of the morbidostat}
 
 This section describes how to switch on specific pumps which is important for disinfecting the morbidostat and how to start morbidostat experiments. First we need to understand the layout of the pumps and how they are assigned. As shown in Figure \ref{figure:pump_layout} 9 pump boxes with five pumps are responsible for injecting antibiotics and media in 15 vials. Every pump box is connected with a numbered connector to the microcontroller. The first layer of pump boxes (connector one, two, three) is named pump1 and connected to media. The second layer (connector four, five, six) is named pump2 and connected to a low-concentrated antibiotic. The top layer (connector seven, eight, nine) is named pump3 and connected to a high-concentrated antibiotic. Within a pump box, every pump has a number as well. The designed layout implies that within one layer of pumps, the individual pumps were numbered from zero to 14. Because the pumps were connected column by column, the same pump number of every box is responsible for injecting fluids in the according vial. Because the pump layout was implemented with zero indexing, the pump number is shifted by one compared to the vial number. \textit{E.g.} P\_0 from pump1, P\_0 from pump2 and P\_0 from pump3 are responsible for injecting media and antibiotics into vial 1. 
 \begin{figure}[H]
@@ -18,7 +18,8 @@ morb = morbidostat(vials=[0,1,2,3,4,5,6,7,8,9,10])
 \end{verbatim}
 Within IPython we can call various functions. The following code shows examples of functions for turning on pumps. Text followed by \# are comments and not relevant for the functions.
 \begin{verbatim}
-morb.run_all_pumps('pump1',30)	# Run all pumps of the first layer pump1 for 30 seconds
+morb.run_all_pumps('pump1',30)	# Run all pumps of the first 
+layer pump1 for 30 seconds
 morb.morb.run_pump('pump1,0,30)	# Run P_0 from pump1 for 30 seconds
 morb.morb.inject_volume('pump1',0,10)	# Inject 10 mL in P_0 from pump1
 morb.morb.run_waste_pump(30) # Run waste pump for 30 seconds
