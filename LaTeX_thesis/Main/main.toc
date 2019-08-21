@@ -171,16 +171,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.6}Outlook}{46}{section.4.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Supplementary}{47}{chapter.5}% 
+\contentsline {chapter}{\numberline {5}References}{47}{chapter.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Manual for the software control of the morbidostat}{47}{section.5.1}% 
+\contentsline {chapter}{\numberline {6}Supplementary}{53}{chapter.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}Manually turning on pumps of the morbidostat}{48}{subsection.5.1.1}% 
+\contentsline {section}{\numberline {6.1}Manual for the software control of the morbidostat}{53}{section.6.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Staring morbidostat experiments}{48}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {6.1.1}Manually turning on pumps of the morbidostat}{54}{subsection.6.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Gibson cloning}{50}{section.5.2}% 
+\contentsline {subsection}{\numberline {6.1.2}Staring morbidostat experiments}{54}{subsection.6.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Sequences of fragments}{50}{subsection.5.2.1}% 
+\contentsline {section}{\numberline {6.2}Gibson cloning}{56}{section.6.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}References}{55}{chapter.6}% 
+\contentsline {subsection}{\numberline {6.2.1}Sequences of fragments}{56}{subsection.6.2.1}% 

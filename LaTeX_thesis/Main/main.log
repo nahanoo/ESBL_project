@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  8 AUG 2019 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.2.7)  9 AUG 2019 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1757,15 +1757,9 @@ thods/Images/od_calibration.png>
 Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
 hesis/Materialsandmethods/Images/od_calibration.png  used on input line 160.
 (pdftex.def)             Requested size: 426.79134pt x 220.61708pt.
-
-Overfull \hbox (106.04608pt too wide) in paragraph at lines 156--163
-\OT1/lmr/m/n/12 To de-ter-mine the flow rate of the pumps the func-tion cal-i-b
-rate[]pumps from the[]morbidostat[]experiment.py[]
- []
-
-[19 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandme
-thods/Images/flowchart.png>] [20 </home/ericulrich/Documents/Master/Masterarbei
-t/LaTeX_thesis/Introduction/Images/feedback.png>]
+ [19 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandm
+ethods/Images/flowchart.png>] [20 </home/ericulrich/Documents/Master/Masterarbe
+it/LaTeX_thesis/Introduction/Images/feedback.png>]
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Materialsandmethod
 s/Images/pBC48_pSC101_PybaJ_mCherry-100_Neon-32_Map.png, id=719, 669.4611pt x 7
 06.5597pt>
@@ -5441,11 +5435,53 @@ ion.tex [41
 
 ] [42] [43] [44] [45]) [46]
 Chapter 5.
+[47
+
+] [48] [49]
+Overfull \hbox (6.30199pt too wide) in paragraph at lines 116--116
+\OT1/lmr/m/n/12 short sam-ples in next-generation se-quenc-ing". In: \OT1/lmr/m
+/it/12 Sci-en-tific Re-ports \OT1/lmr/m/n/12 8.1 (July 19,
+ []
+
+
+Overfull \hbox (17.58096pt too wide) in paragraph at lines 116--116
+\OT1/lmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
+uenc-ing". In: \OT1/lmr/m/it/12 bioarchive
+ []
+
+
+Overfull \hbox (7.48099pt too wide) in paragraph at lines 116--116
+\OT1/lmr/m/n/12 short and long se-quenc-ing reads". In: \OT1/lmr/m/it/12 PLOS C
+om-pu-ta-tional Bi-ol-ogy \OT1/lmr/m/n/12 13.6 (June 8,
+ []
+
+[50]
+Overfull \hbox (19.86232pt too wide) in paragraph at lines 116--116
+\OT1/lmr/m/n/12 Burrows-Wheeler trans-form". In: \OT1/lmr/m/it/12 Bioin-for-mat
+-ics (Ox-ford, Eng-land) \OT1/lmr/m/n/12 25.14 (July 15,
+ []
+
+
+Overfull \hbox (5.9886pt too wide) in paragraph at lines 116--116
+[]\OT1/lmr/m/n/12 Tom Mad-den. \OT1/lmr/m/it/12 The BLAST Se-quence Anal-y-sis 
+Tool\OT1/lmr/m/n/12 . Na-tional Cen-ter for Biotech-
+ []
+
+[51]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 115.
+
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 115.
+ [52]
+Chapter 6.
 
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/supp
 lementary.tex
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Imag
-es/pump_mapping.png, id=994, 2009.5075pt x 715.67375pt>
+es/pump_mapping.png, id=1164, 2009.5075pt x 715.67375pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary
 /Images/pump_mapping.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
@@ -5454,19 +5490,17 @@ Package pdftex.def Info: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_t
 hesis/Supplementary/Images/pump_mapping.png  used on input line 5.
 (pdftex.def)             Requested size: 426.79134pt x 151.98856pt.
 
-Underfull \vbox (badness 2012) has occurred while \output is active []
+Underfull \vbox (badness 2837) has occurred while \output is active []
 
- [47
-
- </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Ima
-ges/pump_mapping.png>]
+ [53 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary
+/Images/pump_mapping.png>]
 Overfull \hbox (5.45888pt too wide) in paragraph at lines 27--27
 []\OT1/lmtt/m/n/12 morb.morb.inject_volume('pump1',0,10) # Inject 10 mL in P_0 
 from pump1[] 
  []
 
 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/Imag
-es/template.png, id=1004, 871.255pt x 594.22pt>
+es/template.png, id=1174, 871.255pt x 594.22pt>
 File: /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary
 /Images/template.png Graphic file (type png)
 <use /home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
@@ -5477,7 +5511,7 @@ hesis/Supplementary/Images/template.png  used on input line 32.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [54]
 Overfull \hbox (17.80888pt too wide) in paragraph at lines 54--54
 []\OT1/lmtt/m/n/12 morb.interrupt_experiment() # Interrupt the experiment. Nece
 ssary if you[] 
@@ -5501,14 +5535,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
-[49 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
+[55 </home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Supplementary/
 Images/template.png>] Blocks per line: 5
 
 Underfull \hbox (badness 10000) in paragraph at lines 67--70
 
  []
 
-[50] Blocks per line: 5
+[56] Blocks per line: 5
 
 Underfull \hbox (badness 10000) in paragraph at lines 71--74
 
@@ -5517,62 +5551,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--74
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
+ [57]
 Blocks per line: 5
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-[54]
-Chapter 6.
-[55
-
-] [56] [57]
-Overfull \hbox (6.30199pt too wide) in paragraph at lines 117--117
-\OT1/lmr/m/n/12 short sam-ples in next-generation se-quenc-ing". In: \OT1/lmr/m
-/it/12 Sci-en-tific Re-ports \OT1/lmr/m/n/12 8.1 (July 19,
- []
-
-
-Overfull \hbox (17.58096pt too wide) in paragraph at lines 117--117
-\OT1/lmr/m/n/12 producing gram-negative bac-te-ria us-ing sin-gle molecule se-q
-uenc-ing". In: \OT1/lmr/m/it/12 bioarchive
- []
-
-
-Overfull \hbox (7.48099pt too wide) in paragraph at lines 117--117
-\OT1/lmr/m/n/12 short and long se-quenc-ing reads". In: \OT1/lmr/m/it/12 PLOS C
-om-pu-ta-tional Bi-ol-ogy \OT1/lmr/m/n/12 13.6 (June 8,
- []
-
-[58]
-Overfull \hbox (19.86232pt too wide) in paragraph at lines 117--117
-\OT1/lmr/m/n/12 Burrows-Wheeler trans-form". In: \OT1/lmr/m/it/12 Bioin-for-mat
--ics (Ox-ford, Eng-land) \OT1/lmr/m/n/12 25.14 (July 15,
- []
-
-
-Overfull \hbox (5.9886pt too wide) in paragraph at lines 117--117
-[]\OT1/lmr/m/n/12 Tom Mad-den. \OT1/lmr/m/it/12 The BLAST Se-quence Anal-y-sis 
-Tool\OT1/lmr/m/n/12 . Na-tional Cen-ter for Biotech-
- []
-
-[59]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 116.
-
- (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 116.
-
 (/home/ericulrich/Documents/Master/Masterarbeit/LaTeX_thesis/Declaration/declar
 ation.tex
 </home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.pdf, 
-id=1197, 597.50786pt x 845.04686pt>
+id=1193, 597.50786pt x 845.04686pt>
 File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
 pdf Graphic file (type pdf)
 <use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
@@ -5588,7 +5573,7 @@ Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
 /Images/dec_edited.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 </home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.pdf, 
-id=1200, page=1, 597.50786pt x 845.04686pt>
+id=1196, page=1, 597.50786pt x 845.04686pt>
 File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
 pdf Graphic file (type pdf)
 <use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
@@ -5603,7 +5588,14 @@ df, page 1>
 Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
 /Images/dec_edited.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
- [60]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+[60]
 File: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
 pdf Graphic file (type pdf)
 <use /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.p
@@ -5627,13 +5619,13 @@ Package pdftex.def Info: /home/ericulrich/masterarbeit/LaTeX_thesis/Declaration
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
  [61 </home/ericulrich/masterarbeit/LaTeX_thesis/Declaration/Images/dec_edited.
 pdf>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A5590D0F6F750C99C4BC13AF338C2041;5428.
+(rerunfilecheck)             Checksum: 4CF00FF2BF1937D3ED478DE4BF4637CD;5428.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -5645,7 +5637,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  23662 strings out of 492616
  375513 string characters out of 6128968
- 1424719 words of memory out of 5000000
+ 1441323 words of memory out of 5000000
  26938 multiletter control sequences out of 15000+600000
  77961 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5671,7 +5663,7 @@ xlive/2018/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018
 /fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
 e1/public/lm/lmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/l
 m/lmtt12.pfb>
-Output written on main.pdf (65 pages, 29026014 bytes).
+Output written on main.pdf (65 pages, 29026123 bytes).
 PDF statistics:
  1369 PDF objects out of 1440 (max. 8388607)
  1194 compressed objects within 12 object streams

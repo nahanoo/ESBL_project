@@ -1,0 +1,7 @@
+vial_1	pEU26	OXA_wt_pat_33
+vial_2	pEU26	OXA_wt_pat_33
+vial_3	pEU23	OXA_wt_pat_25
+vial_4	pEU23	OXA_wt_pat_25
+vial_5	pEU23	OXA_wt_pat_25
+vial_9  pEU26	OXA_wt_pat_33
+vial_10	pEU24_dilution control	OXA_wt_pat_25
